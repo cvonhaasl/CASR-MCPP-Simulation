@@ -1,0 +1,575 @@
+﻿Satellite Name,Orbital Location,Beam Name,Type,Frequency Range (MHz),EIRP (dBW) / G/T (dB/K),Service Area 1,Service Area 2,Service Area 3,Service Area 4,Service Area 5,Service Area 6,Band,Bandwidth Capacity (MHz),Modulation,FEC,Integrated
+USA 288 (AEHF4),150.2,VWZ5,Transmit,34457.1 - 35186.5,45.9 (EIRP),Falkland Islands,Argentina,Southern South America,South Cone,,,Ka-Band,230,16QAM,0.83,1
+USA 288 (AEHF4),150.2,RHEW,Transmit,29508.1 - 30129.8,49.9 (EIRP),Falkland Islands,Argentina,,,,,Ka-Band,377,128QAM,0.85,1
+USA 288 (AEHF4),150.2,Y2Z7,Receive,1000.0 - 1684.0,8.5 (G/T),Global,,,,,,L-Band,382,QPSK,0.82,1
+USA 288 (AEHF4),150.2,DMV7,Transmit,34457.1 - 35186.5,45.9 (EIRP),Falkland Islands,Argentina,Southern South America,South Cone,,,Ka-Band,230,16QAM,0.83,1
+USA 288 (AEHF4),150.2,216H,Transmit,34191.9 - 35109.1,54.4 (EIRP),Falkland Islands,Argentina,Southern South America,South Cone,Brazil,,Ka-Band,235,16QAM,0.76,1
+USA 288 (AEHF4),150.2,MBEX,Transmit,30573.3 - 31529.7,47.5 (EIRP),Falkland Islands,Argentina,Southern South America,South Cone,,,Ka-Band,51,64QAM,0.85,1
+USA 288 (AEHF4),150.2,6RUX,Receive,1000.0 - 1947.0,5.3 (G/T),Falkland Islands,Argentina,Southern South America,Central United States,,,L-Band,289,64QAM,0.77,1
+USA 288 (AEHF4),150.2,TIZQ,Transmit,27703.2 - 28421.1,52.8 (EIRP),Falkland Islands,Argentina,Southern South America,South Cone,,,Ka-Band,184,256QAM,0.77,1
+USA 288 (AEHF4),150.2,XJI2,Transmit,1000.0 - 1531.3,45.6 (EIRP),Falkland Islands,Argentina,Southern South America,South Cone,Brazil,Atlantic Ocean,L-Band,342,8PSK,0.86,1
+USA 288 (AEHF4),150.2,WWJN,Receive,32218.6 - 32937.2,12.2 (G/T),Falkland Islands,Argentina,Southern South America,South Cone,Brazil,Atlantic Ocean,Ka-Band,438,256QAM,0.88,1
+USA 288 (AEHF4),150.2,33VF,Transmit,1000.0 - 1531.3,45.6 (EIRP),Falkland Islands,Argentina,Southern South America,South Cone,Brazil,Atlantic Ocean,L-Band,342,8PSK,0.86,1
+USA 288 (AEHF4),150.2,2OFV,Transmit,32136.9 - 32867.1,47.4 (EIRP),Falkland Islands,Argentina,,,,,Ka-Band,161,BPSK,0.77,1
+USA 288 (AEHF4),150.2,DICC,Receive,1000.0 - 1947.0,5.3 (G/T),Falkland Islands,Argentina,Southern South America,,,,L-Band,289,64QAM,0.77,1
+USA 288 (AEHF4),150.2,44D0,Transmit,1000.0 - 1649.9,59.9 (EIRP),Falkland Islands,Argentina,,,,,L-Band,189,8PSK,0.9,1
+USA 292 (AEHF5),-94.39,0404,Transmit,2033.9 - 2697.5,55.3 (EIRP),Eastern Canada,Canada,Northern United States,,,,X-Band,325,64QAM,0.85,1
+USA 292 (AEHF5),-94.39,KLFQ,Receive,2929.9 - 3636.8,13.2 (G/T),Eastern Canada,Canada,Northern United States,Continental United States,United States,North East,X-Band,215,64QAM,0.76,1
+USA 292 (AEHF5),-94.39,C9FY,Transmit,2582.8 - 3252.0,48.2 (EIRP),Eastern Canada,Canada,Northern United States,Continental United States,United States,,X-Band,380,32QAM,0.83,1
+USA 292 (AEHF5),-94.39,MQI4,Transmit,2033.9 - 2697.5,55.3 (EIRP),Eastern Canada,Canada,Northern United States,,,,X-Band,325,64QAM,0.85,1
+USA 292 (AEHF5),-94.39,NDJ0,Transmit,2211.9 - 3184.6,51.7 (EIRP),Eastern Canada,Canada,Northern United States,Continental United States,United States,North East,X-Band,160,16QAM,0.86,1
+USA 292 (AEHF5),-94.39,RTZH,Transmit,2586.9 - 3431.6,47.6 (EIRP),Eastern Canada,,,,,,X-Band,497,128QAM,0.88,1
+USA 292 (AEHF5),-94.39,2QD2,Receive,2562.6 - 3552.7,12.1 (G/T),Eastern Canada,,,,,,X-Band,201,64QAM,0.82,1
+USA 292 (AEHF5),-94.39,B872,Transmit,2111.5 - 2730.3,45.9 (EIRP),Global,,,,,,X-Band,379,256QAM,0.8,1
+USA 292 (AEHF5),-94.39,PA2Q,Receive,2327.4 - 2939.7,8.7 (G/T),Eastern Canada,Canada,Northern United States,Continental United States,United States,North East,X-Band,44,16QAM,0.82,1
+USA 292 (AEHF5),-94.39,0IGJ,Transmit,2010.4 - 2613.3,54.7 (EIRP),Eastern Canada,Canada,,,,,X-Band,369,8PSK,0.79,1
+USA 292 (AEHF5),-94.39,E86H,Transmit,2447.4 - 3437.5,49.4 (EIRP),Global,,,,,,X-Band,456,32QAM,0.75,1
+USA 292 (AEHF5),-94.39,UJMW,Transmit,2688.2 - 3218.8,52.0 (EIRP),Eastern Canada,Canada,,,,,X-Band,474,32QAM,0.87,1
+USA 292 (AEHF5),-94.39,YEFG,Receive,2806.5 - 3366.0,13.5 (G/T),Global,,,,,,X-Band,396,BPSK,0.9,1
+USA 292 (AEHF5),-94.39,35IE,Transmit,2884.3 - 3682.8,53.4 (EIRP),Eastern Canada,Canada,Northern United States,Continental United States,,,X-Band,59,256QAM,0.77,1
+USA 292 (AEHF5),-94.39,3OHO,Transmit,2236.9 - 3158.4,51.7 (EIRP),Global,,,,,,X-Band,304,128QAM,0.75,1
+USA 292 (AEHF5),-94.39,IUPH,Transmit,2119.9 - 2785.7,53.9 (EIRP),Global,,,,,,X-Band,278,128QAM,0.77,1
+USA 292 (AEHF5),-94.39,PC1R,Transmit,2779.5 - 3564.4,53.0 (EIRP),Eastern Canada,Canada,Northern United States,United States,Continental United States,,X-Band,82,BPSK,0.77,1
+USA 292 (AEHF5),-94.39,5D4Q,Transmit,2277.1 - 2923.5,50.9 (EIRP),Eastern Canada,Canada,Northern United States,United States,,,X-Band,202,16QAM,0.87,1
+USA 298 (AEHF6),0,SRB5,Transmit,14753.8 - 15401.5,57.9 (EIRP),Galapagos Islands,Western Hemisphere,,,,,Ku-Band,472,256QAM,0.85,1
+USA 298 (AEHF6),0,CJ0P,Transmit,1000.0 - 1619.0,58.1 (EIRP),Galapagos Islands,Western Hemisphere,South East Pacific,,,,L-Band,51,32QAM,0.82,1
+USA 298 (AEHF6),0,TAEB,Receive,14666.5 - 15195.3,8.7 (G/T),Global,,,,,,Ku-Band,293,16QAM,0.78,1
+USA 298 (AEHF6),0,NCA0,Transmit,1000.0 - 1924.9,57.4 (EIRP),Galapagos Islands,Western Hemisphere,,,,,L-Band,121,8PSK,0.78,1
+USA 298 (AEHF6),0,D7BR,Transmit,12088.2 - 12595.3,55.6 (EIRP),Galapagos Islands,,,,,,Ku-Band,370,128QAM,0.77,1
+USA 298 (AEHF6),0,FGKV,Transmit,1000.0 - 1559.4,49.0 (EIRP),Galapagos Islands,Western Hemisphere,Southeast Pacific,South East Pacific,Latin America,Andean Region,L-Band,39,8PSK,0.85,1
+USA 298 (AEHF6),0,QS15,Transmit,4018.9 - 4919.9,50.0 (EIRP),Global,,,,,,C-Band,149,QPSK,0.79,1
+USA 298 (AEHF6),0,AQOP,Transmit,6151.6 - 6783.0,56.2 (EIRP),Galapagos Islands,Western Hemisphere,Southeast Pacific,South East Pacific,Latin America,Andean Region,C-Band,194,128QAM,0.81,1
+USA 298 (AEHF6),0,8868,Transmit,4018.9 - 4919.9,50.0 (EIRP),Global,,,,,,C-Band,149,QPSK,0.79,1
+USA 298 (AEHF6),0,UFY2,Transmit,6151.6 - 6783.0,56.2 (EIRP),Galapagos Islands,Western Hemisphere,Southeast Pacific,South East Pacific,Latin America,Andean Region,C-Band,194,128QAM,0.81,1
+USA 298 (AEHF6),0,C84Q,Transmit,4018.9 - 4919.9,50.0 (EIRP),Global,,,,,,C-Band,149,QPSK,0.79,1
+USA 298 (AEHF6),0,HFD0,Transmit,1000.0 - 1559.4,49.0 (EIRP),Galapagos Islands,Western Hemisphere,Southeast Pacific,South East Pacific,Latin America,Andean Region,L-Band,39,8PSK,0.85,1
+USA 298 (AEHF6),0,CIQ2,Transmit,1000.0 - 1591.7,58.3 (EIRP),Galapagos Islands,,,,,,L-Band,61,16QAM,0.83,1
+USA 298 (AEHF6),0,AJ04,Transmit,1000.0 - 1616.4,58.3 (EIRP),Galapagos Islands,,,,,,L-Band,429,64QAM,0.78,1
+USA 298 (AEHF6),0,0V9C,Receive,14784.5 - 15605.4,9.0 (G/T),Galapagos Islands,Western Hemisphere,Southeast Pacific,South East Pacific,,,Ku-Band,368,256QAM,0.84,1
+USA 298 (AEHF6),0,KISI,Transmit,1000.0 - 1756.0,46.9 (EIRP),Global,,,,,,L-Band,465,8PSK,0.79,1
+USA 298 (AEHF6),0,OG1W,Receive,13386.9 - 14310.2,8.5 (G/T),Galapagos Islands,Western Hemisphere,Southeast Pacific,,,,Ku-Band,254,QPSK,0.9,1
+USA 298 (AEHF6),0,T9UR,Transmit,13499.4 - 14357.0,56.7 (EIRP),Galapagos Islands,,,,,,Ku-Band,283,8PSK,0.86,1
+USA 298 (AEHF6),0,6U8C,Transmit,6062.7 - 6874.2,47.2 (EIRP),Galapagos Islands,,,,,,C-Band,184,QPSK,0.76,1
+USA 235 (AEHF2),-120,ADEC,Transmit,8457.5 - 9327.5,56.2 (EIRP),New Zealand,Eastern Australia,Australia,,,,X-Band,37,128QAM,0.88,1
+USA 235 (AEHF2),-120,9BA9,Transmit,4908.5 - 5783.0,52.5 (EIRP),New Zealand,,,,,,C-Band,138,32QAM,0.82,1
+USA 235 (AEHF2),-120,39JB,Transmit,8457.5 - 9327.5,56.2 (EIRP),New Zealand,Eastern Australia,Australia,,,,X-Band,37,128QAM,0.88,1
+USA 235 (AEHF2),-120,P0IS,Transmit,5926.2 - 6446.1,47.6 (EIRP),Global,,,,,,C-Band,68,16QAM,0.8,1
+USA 235 (AEHF2),-120,74RT,Transmit,8457.5 - 9327.5,56.2 (EIRP),New Zealand,Eastern Australia,Australia,,,,X-Band,37,128QAM,0.88,1
+USA 235 (AEHF2),-120,4TL9,Transmit,37712.5 - 38707.6,45.1 (EIRP),Global,,,,,,Ka-Band,135,64QAM,0.81,1
+USA 235 (AEHF2),-120,IQ08,Transmit,6125.7 - 6899.1,46.9 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,South West Pacific,,C-Band,420,16QAM,0.79,1
+USA 235 (AEHF2),-120,6KS1,Transmit,4908.5 - 5783.0,52.5 (EIRP),New Zealand,,,,,,C-Band,138,32QAM,0.82,1
+USA 235 (AEHF2),-120,TZN0,Transmit,8457.5 - 9327.5,56.2 (EIRP),New Zealand,Eastern Australia,Australia,,,,X-Band,37,128QAM,0.88,1
+USA 235 (AEHF2),-120,BOGJ,Transmit,5926.2 - 6446.1,47.6 (EIRP),Global,,,,,,C-Band,68,16QAM,0.8,1
+USA 235 (AEHF2),-120,LBNY,Transmit,4908.5 - 5783.0,52.5 (EIRP),New Zealand,,,,,,C-Band,138,32QAM,0.82,1
+USA 235 (AEHF2),-120,98IO,Transmit,6125.7 - 6899.1,46.9 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,South West Pacific,,C-Band,420,16QAM,0.79,1
+USA 235 (AEHF2),-120,DBE3,Transmit,37654.8 - 38492.4,57.8 (EIRP),Global,,,,,,Ka-Band,300,128QAM,0.87,1
+USA 283 (CBAS),-112,63FX,Transmit,9862.1 - 10582.4,54.7 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,Western Australia,,X-Band,479,BPSK,0.85,1
+USA 283 (CBAS),-112,AAPF,Transmit,9862.1 - 10582.4,54.7 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,Western Australia,,X-Band,479,BPSK,0.85,1
+USA 283 (CBAS),-112,Z2FN,Transmit,9862.1 - 10582.4,54.7 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,Western Australia,,X-Band,479,BPSK,0.85,1
+USA 283 (CBAS),-112,8RMG,Transmit,9862.1 - 10582.4,54.7 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,Western Australia,,X-Band,479,BPSK,0.85,1
+USA 283 (CBAS),-112,Q333,Transmit,13512.2 - 14175.2,50.7 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,,,Ku-Band,359,128QAM,0.9,1
+USA 283 (CBAS),-112,89GN,Transmit,14104.9 - 14935.7,48.1 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,Western Australia,,Ku-Band,249,32QAM,0.81,1
+USA 283 (CBAS),-112,OF4Z,Transmit,9862.1 - 10582.4,54.7 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,Western Australia,,X-Band,479,BPSK,0.85,1
+USA 283 (CBAS),-112,RQSD,Transmit,8958.1 - 9759.2,49.0 (EIRP),South Africa,West Indian Ocean Region,Mozambique,Southern Africa,Western Australia,East Indian Ocean Region,X-Band,186,BPSK,0.77,1
+USA 283 (CBAS),-112,TLZ4,Receive,15302.1 - 15824.2,14.0 (G/T),South Africa,West Indian Ocean Region,Mozambique,,,,Ku-Band,340,64QAM,0.87,1
+USA 257 (CLIO),106,3UQP,Transmit,14336.1 - 15012.6,58.7 (EIRP),South Africa,Southern Africa,Mozambique,West Indian Ocean Region,South West Africa,,Ku-Band,191,16QAM,0.9,1
+USA 257 (CLIO),106,X11K,Transmit,20828.8 - 21586.1,46.1 (EIRP),South Africa,Southern Africa,Mozambique,West Indian Ocean Region,South West Africa,Western Australia,K-Band,185,64QAM,0.83,1
+USA 257 (CLIO),106,QTTR,Receive,24064.3 - 24933.9,7.7 (G/T),South Africa,,,,,,K-Band,472,8PSK,0.81,1
+USA 257 (CLIO),106,QTBN,Transmit,1000.0 - 1746.4,50.7 (EIRP),South Africa,Southern Africa,Mozambique,,,,L-Band,299,32QAM,0.76,1
+USA 257 (CLIO),106,1SKU,Transmit,16140.2 - 17055.9,56.9 (EIRP),South Africa,Southern Africa,Mozambique,Central Africa,,,Ku-Band,133,16QAM,0.78,1
+USA 257 (CLIO),106,L8QT,Transmit,20828.8 - 21586.1,46.1 (EIRP),South Africa,Southern Africa,Mozambique,West Indian Ocean Region,South West Africa,Western Australia,K-Band,185,64QAM,0.83,1
+USA 257 (CLIO),106,WWNP,Transmit,1000.0 - 1976.1,47.5 (EIRP),South Africa,Southern Africa,Mozambique,West Indian Ocean Region,South West Africa,,L-Band,219,QPSK,0.84,1
+USA 257 (CLIO),106,ZORB,Receive,13838.7 - 14818.6,7.5 (G/T),South Africa,Southern Africa,Sub-Saharan Africa,,,,Ku-Band,498,16QAM,0.8,1
+USA 257 (CLIO),106,6T5Q,Receive,13838.7 - 14818.6,7.5 (G/T),South Africa,Southern Africa,,,,,Ku-Band,498,16QAM,0.8,1
+USA 257 (CLIO),106,MP6M,Transmit,1000.0 - 1689.2,52.0 (EIRP),South Africa,Southern Africa,Mozambique,West Indian Ocean Region,South West Africa,Western Australia,L-Band,214,64QAM,0.85,1
+USA 257 (CLIO),106,JCQS,Transmit,1000.0 - 1928.5,45.6 (EIRP),South Africa,Southern Africa,Mozambique,,,,L-Band,266,QPSK,0.83,1
+USA 257 (CLIO),106,BSBY,Transmit,1000.0 - 1560.2,48.0 (EIRP),Global,,,,,,L-Band,139,BPSK,0.88,1
+USA 257 (CLIO),106,TBLV,Transmit,1000.0 - 1976.1,47.5 (EIRP),South Africa,Southern Africa,Mozambique,West Indian Ocean Region,South West Africa,,L-Band,219,QPSK,0.84,1
+USA 167 (DSCS),60.01,K95E,Transmit,15230.7 - 15827.9,49.2 (EIRP),South Europe,,,,,,Ku-Band,233,16QAM,0.89,1
+USA 167 (DSCS),60.01,O5E6,Transmit,12441.3 - 13255.4,50.8 (EIRP),Southern Europe,South Europe,Mediterranean,Europe,West Europe,,Ku-Band,189,32QAM,0.88,1
+USA 167 (DSCS),60.01,ZZVS,Transmit,12441.3 - 13255.4,50.8 (EIRP),Southern Europe,South Europe,Mediterranean,Europe,West Europe,,Ku-Band,189,32QAM,0.88,1
+USA 167 (DSCS),60.01,BGCT,Transmit,2039.5 - 2804.0,47.5 (EIRP),Global,,,,,,X-Band,298,16QAM,0.76,1
+USA 167 (DSCS),60.01,7REL,Transmit,15230.7 - 15827.9,49.2 (EIRP),South Europe,,,,,,Ku-Band,233,16QAM,0.89,1
+USA 167 (DSCS),60.01,4KQF,Transmit,15230.7 - 15827.9,49.2 (EIRP),South Europe,,,,,,Ku-Band,233,16QAM,0.89,1
+USA 167 (DSCS),60.01,OUI8,Transmit,14555.5 - 15251.2,52.1 (EIRP),Southern Europe,,,,,,Ku-Band,72,BPSK,0.77,1
+USA 167 (DSCS),60.01,2J2I,Transmit,2039.5 - 2804.0,47.5 (EIRP),Global,,,,,,X-Band,298,16QAM,0.76,1
+USA 167 (DSCS),60.01,OLSZ,Receive,8891.2 - 9531.4,5.3 (G/T),South Europe,,,,,,X-Band,230,QPSK,0.88,1
+USA 167 (DSCS),60.01,92SN,Transmit,14654.5 - 15501.7,47.0 (EIRP),Southern Europe,South Europe,Mediterranean,Europe,Western Europe,,Ku-Band,418,QPSK,0.83,1
+USA 167 (DSCS),60.01,UABA,Receive,13129.5 - 14085.5,8.5 (G/T),Southern Europe,South Europe,Mediterranean,Europe,West Europe,,Ku-Band,140,QPSK,0.89,1
+USA 167 (DSCS),60.01,8DJ9,Receive,13129.5 - 14085.5,8.5 (G/T),Southern Europe,South Europe,Mediterranean,Europe,West Europe,,Ku-Band,140,QPSK,0.89,1
+USA 167 (DSCS),60.01,JVNQ,Transmit,10918.8 - 11443.5,57.9 (EIRP),Southern Europe,South Europe,Mediterranean,,,,X-Band,240,128QAM,0.81,1
+USA 170 (DSCS),-52.51,998G,Transmit,2222.3 - 2883.0,52.2 (EIRP),Global,,,,,,X-Band,131,8PSK,0.77,1
+USA 170 (DSCS),-52.51,0ZFT,Transmit,2476.0 - 3113.3,54.5 (EIRP),Global,,,,,,X-Band,102,16QAM,0.85,1
+USA 170 (DSCS),-52.51,1VB9,Receive,13925.0 - 14542.6,10.9 (G/T),Hawaii,,,,,,Ku-Band,393,32QAM,0.81,1
+USA 170 (DSCS),-52.51,MHBC,Transmit,2476.0 - 3113.3,54.5 (EIRP),Global,,,,,,X-Band,102,16QAM,0.85,1
+USA 170 (DSCS),-52.51,T0HE,Receive,13925.0 - 14542.6,10.9 (G/T),Hawaii,,,,,,Ku-Band,393,32QAM,0.81,1
+USA 170 (DSCS),-52.51,QSOU,Transmit,12603.7 - 13377.5,50.2 (EIRP),Hawaii,North Pacific,Northern Pacific,United States West Coast,,,Ku-Band,65,BPSK,0.85,1
+USA 170 (DSCS),-52.51,YKX1,Transmit,15370.6 - 15982.9,55.5 (EIRP),Hawaii,North Pacific,Northern Pacific,,,,Ku-Band,419,BPSK,0.81,1
+USA 170 (DSCS),-52.51,4VMB,Transmit,2096.9 - 2998.6,47.7 (EIRP),Hawaii,North Pacific,,,,,X-Band,208,256QAM,0.81,1
+USA 170 (DSCS),-52.51,9WFT,Transmit,2096.9 - 2998.6,47.7 (EIRP),Hawaii,North Pacific,,,,,X-Band,208,256QAM,0.81,1
+USA 170 (DSCS),-52.51,N2MM,Transmit,2096.9 - 2998.6,47.7 (EIRP),Hawaii,North Pacific,,,,,X-Band,208,256QAM,0.81,1
+USA 170 (DSCS),-52.51,TH8S,Transmit,13469.6 - 14288.8,53.6 (EIRP),Hawaii,North Pacific,,,,,Ku-Band,279,256QAM,0.82,1
+USA 170 (DSCS),-52.51,6TFI,Transmit,2922.8 - 3728.2,59.4 (EIRP),Hawaii,North Pacific,Northern Pacific,United States West Coast,,,X-Band,458,64QAM,0.79,1
+USA 170 (DSCS),-52.51,QBAT,Transmit,15039.3 - 15574.1,55.5 (EIRP),Hawaii,North Pacific,Northern Pacific,United States West Coast,Pacific,,Ku-Band,325,64QAM,0.87,1
+USA 170 (DSCS),-52.51,ZSXA,Transmit,2096.9 - 2998.6,47.7 (EIRP),Hawaii,North Pacific,,,,,X-Band,208,256QAM,0.81,1
+USA 170 (DSCS),-52.51,XBAW,Transmit,2519.5 - 3321.8,48.4 (EIRP),Hawaii,North Pacific,Northern Pacific,United States West Coast,,,X-Band,141,8PSK,0.84,1
+USA 170 (DSCS),-52.51,8B90,Transmit,15039.3 - 15574.1,55.5 (EIRP),Hawaii,North Pacific,Northern Pacific,United States West Coast,Pacific,,Ku-Band,325,64QAM,0.87,1
+USA 170 (DSCS),-52.51,M3FW,Transmit,2015.9 - 2952.5,59.2 (EIRP),Hawaii,North Pacific,Northern Pacific,United States West Coast,Pacific Ocean,Pacific,X-Band,428,QPSK,0.85,1
+USA 135 (NAVSTAR),-130.05,HN35,Transmit,15608.6 - 16193.9,54.4 (EIRP),Northern China,China,,,,,Ku-Band,39,128QAM,0.76,1
+USA 135 (NAVSTAR),-130.05,DCZF,Transmit,16574.8 - 17337.4,45.4 (EIRP),Global,,,,,,Ku-Band,379,256QAM,0.79,1
+USA 135 (NAVSTAR),-130.05,US5U,Transmit,12747.8 - 13526.4,51.5 (EIRP),Global,,,,,,Ku-Band,258,64QAM,0.75,1
+USA 135 (NAVSTAR),-130.05,05B1,Transmit,16574.8 - 17337.4,45.4 (EIRP),Global,,,,,,Ku-Band,379,256QAM,0.79,1
+USA 135 (NAVSTAR),-130.05,ZN77,Receive,13357.3 - 14111.3,12.8 (G/T),Northern China,China,Asia,Eastern Asia,North East Asia,Russia,Ku-Band,178,32QAM,0.9,1
+USA 135 (NAVSTAR),-130.05,O1U1,Transmit,15771.2 - 16304.4,48.1 (EIRP),Northern China,China,Asia,Eastern Asia,North East Asia,Russia,Ku-Band,375,64QAM,0.9,1
+USA 135 (NAVSTAR),-130.05,372P,Receive,14336.3 - 15291.5,12.7 (G/T),Global,,,,,,Ku-Band,240,QPSK,0.78,1
+USA 135 (NAVSTAR),-130.05,9FHU,Transmit,15771.2 - 16304.4,48.1 (EIRP),Northern China,China,Asia,Eastern Asia,North East Asia,Russia,Ku-Band,375,64QAM,0.9,1
+USA 135 (NAVSTAR),-130.05,3TEG,Transmit,12747.8 - 13526.4,51.5 (EIRP),Global,,,,,,Ku-Band,258,64QAM,0.75,1
+USA 135 (NAVSTAR),-130.05,KBZW,Receive,13357.3 - 14111.3,12.8 (G/T),Northern China,China,Asia,Eastern Asia,North East Asia,Russia,Ku-Band,178,32QAM,0.9,1
+USA 135 (NAVSTAR),-130.05,E7DF,Transmit,16035.0 - 16733.6,46.6 (EIRP),Northern China,China,Asia,Eastern Asia,North East Asia,Russia,Ku-Band,349,16QAM,0.8,1
+USA 153 (DSCS),-12.15,5JPU,Transmit,2713.2 - 3521.0,50.8 (EIRP),Global,,,,,,X-Band,132,8PSK,0.77,1
+USA 153 (DSCS),-12.15,QAIH,Transmit,2713.2 - 3521.0,50.8 (EIRP),Global,,,,,,X-Band,132,8PSK,0.77,1
+USA 153 (DSCS),-12.15,FQBK,Transmit,2713.2 - 3521.0,50.8 (EIRP),Global,,,,,,X-Band,132,8PSK,0.77,1
+USA 153 (DSCS),-12.15,VIJO,Receive,2174.6 - 2713.1,10.0 (G/T),Atlantic Ocean,Central Atlantic,Atlantic Region,US Virgin Islands,West Africa,Puerto Rico,X-Band,170,32QAM,0.9,1
+USA 153 (DSCS),-12.15,94V5,Transmit,2713.2 - 3521.0,50.8 (EIRP),Global,,,,,,X-Band,132,8PSK,0.77,1
+USA 153 (DSCS),-12.15,6MFQ,Transmit,26064.0 - 26871.9,55.4 (EIRP),Atlantic Ocean,Central Atlantic,Atlantic Region,US Virgin Islands,West Africa,,Ka-Band,141,QPSK,0.87,1
+USA 153 (DSCS),-12.15,KMD1,Transmit,1000.0 - 1633.7,48.8 (EIRP),Atlantic Ocean,Central Atlantic,Atlantic Region,US Virgin Islands,West Africa,,L-Band,209,32QAM,0.9,1
+USA 153 (DSCS),-12.15,ZK97,Transmit,1000.0 - 1915.9,53.5 (EIRP),Atlantic Ocean,Central Atlantic,Atlantic Region,US Virgin Islands,North Africa,,L-Band,458,32QAM,0.87,1
+USA 153 (DSCS),-12.15,1AB4,Receive,2174.6 - 2713.1,10.0 (G/T),Atlantic Ocean,Central Atlantic,Atlantic Region,US Virgin Islands,West Africa,Puerto Rico,X-Band,170,32QAM,0.9,1
+USA 153 (DSCS),-12.15,5HQK,Transmit,1000.0 - 1633.7,48.8 (EIRP),Atlantic Ocean,Central Atlantic,Atlantic Region,US Virgin Islands,West Africa,,L-Band,209,32QAM,0.9,1
+USA 153 (DSCS),-12.15,GOVY,Transmit,2713.2 - 3521.0,50.8 (EIRP),Global,,,,,,X-Band,132,8PSK,0.77,1
+USA 153 (DSCS),-12.15,LXWJ,Receive,2699.3 - 3392.0,6.1 (G/T),Atlantic Ocean,,,,,,X-Band,221,BPSK,0.84,1
+USA 153 (DSCS),-12.15,PROY,Receive,2158.3 - 3093.5,10.5 (G/T),Atlantic Ocean,Central Atlantic,,,,,X-Band,43,64QAM,0.75,1
+USA 153 (DSCS),-12.15,P7NL,Receive,2875.3 - 3507.3,6.9 (G/T),Atlantic Ocean,Central Atlantic,,,,,X-Band,94,128QAM,0.85,1
+USA 153 (DSCS),-12.15,V14D,Transmit,1000.0 - 1546.8,50.5 (EIRP),Global,,,,,,L-Band,425,QPSK,0.75,1
+USA 113 (DSCS),-52.4,9QZW,Transmit,2204.4 - 2742.1,58.1 (EIRP),Japan,North East Asia,Korea,,,,X-Band,349,BPSK,0.85,1
+USA 113 (DSCS),-52.4,PTTN,Transmit,4103.6 - 4646.9,56.3 (EIRP),Japan,North East Asia,Korea,,,,C-Band,408,QPSK,0.81,1
+USA 113 (DSCS),-52.4,4SXN,Transmit,2204.4 - 2742.1,58.1 (EIRP),Japan,North East Asia,Korea,,,,X-Band,349,BPSK,0.85,1
+USA 113 (DSCS),-52.4,EQ12,Receive,18250.0 - 18907.0,9.2 (G/T),Global,,,,,,K-Band,371,16QAM,0.89,1
+USA 113 (DSCS),-52.4,8G68,Receive,18245.5 - 19113.0,6.3 (G/T),Japan,North East Asia,Korea,,,,K-Band,398,256QAM,0.88,1
+USA 113 (DSCS),-52.4,242J,Transmit,4972.1 - 5653.6,50.3 (EIRP),Japan,,,,,,C-Band,342,BPSK,0.76,1
+USA 113 (DSCS),-52.4,3UX7,Transmit,4103.6 - 4646.9,56.3 (EIRP),Japan,North East Asia,Korea,,,,C-Band,408,QPSK,0.81,1
+USA 113 (DSCS),-52.4,I9ZD,Receive,4768.6 - 5709.5,14.7 (G/T),Japan,North East Asia,,,,,C-Band,296,QPSK,0.86,1
+USA 113 (DSCS),-52.4,VQTD,Receive,6671.6 - 7357.9,14.4 (G/T),Global,,,,,,C-Band,182,16QAM,0.89,1
+USA 113 (DSCS),-52.4,CB1F,Receive,2387.5 - 2942.1,14.2 (G/T),Global,,,,,,X-Band,414,8PSK,0.81,1
+USA 113 (DSCS),-52.4,7K3T,Receive,6671.6 - 7357.9,14.4 (G/T),Global,,,,,,C-Band,182,16QAM,0.89,1
+USA 113 (DSCS),-52.4,2173,Transmit,19163.0 - 19993.1,55.6 (EIRP),Japan,North East Asia,,,,,K-Band,337,256QAM,0.76,1
+USA 113 (DSCS),-52.4,5V0T,Receive,2638.2 - 3391.7,13.3 (G/T),Global,,,,,,X-Band,415,256QAM,0.86,1
+USA 113 (DSCS),-52.4,NYH9,Transmit,4103.6 - 4646.9,56.3 (EIRP),Japan,North East Asia,Korea,,,,C-Band,408,QPSK,0.81,1
+USA 113 (DSCS),-52.4,U4JN,Transmit,4980.3 - 5507.1,56.8 (EIRP),Global,,,,,,C-Band,333,BPSK,0.85,1
+USA 113 (DSCS),-52.4,FOQ5,Transmit,18616.7 - 19157.0,51.6 (EIRP),Japan,North East Asia,Korea,Eastern Asia,,,K-Band,402,BPSK,0.82,1
+USA 113 (DSCS),-52.4,WTYK,Transmit,2393.8 - 3178.9,48.1 (EIRP),Global,,,,,,X-Band,335,32QAM,0.81,1
+USA 113 (DSCS),-52.4,GSCX,Receive,4113.2 - 4698.9,11.6 (G/T),Japan,North East Asia,,,,,C-Band,314,16QAM,0.89,1
+USA 113 (DSCS),-52.4,AT2F,Receive,2946.7 - 3595.3,8.4 (G/T),Global,,,,,,X-Band,365,128QAM,0.78,1
+USA 148 (DSCS),-179.8,AP91,Transmit,2416.9 - 3166.3,52.1 (EIRP),Falkland Islands,,,,,,X-Band,327,32QAM,0.82,1
+USA 148 (DSCS),-179.8,4JT8,Transmit,2416.9 - 3166.3,52.1 (EIRP),Falkland Islands,,,,,,X-Band,327,32QAM,0.82,1
+USA 148 (DSCS),-179.8,1RI9,Transmit,2184.7 - 2887.6,53.3 (EIRP),Falkland Islands,Southern South America,Argentina,South Cone,Southern Pacific,,X-Band,477,QPSK,0.79,1
+USA 148 (DSCS),-179.8,1X8U,Transmit,2184.7 - 2887.6,53.3 (EIRP),Falkland Islands,Southern South America,Argentina,South Cone,Southern Pacific,,X-Band,477,QPSK,0.79,1
+USA 148 (DSCS),-179.8,4AZF,Transmit,2468.5 - 3000.6,58.9 (EIRP),Falkland Islands,Southern South America,Argentina,South Cone,,,X-Band,322,32QAM,0.82,1
+USA 148 (DSCS),-179.8,EQQM,Transmit,2468.5 - 3000.6,58.9 (EIRP),Falkland Islands,Southern South America,Argentina,South Cone,,,X-Band,322,32QAM,0.82,1
+USA 148 (DSCS),-179.8,KBSV,Receive,2284.7 - 3235.2,8.6 (G/T),Falkland Islands,Southern South America,Argentina,South Cone,,,X-Band,343,256QAM,0.87,1
+USA 148 (DSCS),-179.8,7WOK,Transmit,2468.5 - 3000.6,58.9 (EIRP),Falkland Islands,Southern South America,Argentina,South Cone,,,X-Band,322,32QAM,0.82,1
+USA 46 (FLTSATCOM),-14.74,9FB3,Transmit,16976.3 - 17820.8,48.6 (EIRP),Global,,,,,,Ku-Band,365,QPSK,0.9,1
+USA 46 (FLTSATCOM),-14.74,MD93,Transmit,16976.3 - 17820.8,48.6 (EIRP),Global,,,,,,Ku-Band,365,QPSK,0.9,1
+USA 46 (FLTSATCOM),-14.74,FYPP,Receive,2628.7 - 3467.9,12.9 (G/T),West Coast of Europe,,,,,,X-Band,127,32QAM,0.88,1
+USA 46 (FLTSATCOM),-14.74,P87H,Transmit,2119.9 - 2908.6,51.5 (EIRP),West Coast of Europe,Atlantic Region,West Africa,Greenland,,,X-Band,89,16QAM,0.75,1
+USA 46 (FLTSATCOM),-14.74,ZERJ,Transmit,16976.3 - 17820.8,48.6 (EIRP),Global,,,,,,Ku-Band,365,QPSK,0.9,1
+USA 46 (FLTSATCOM),-14.74,9QGD,Receive,2480.4 - 3321.0,10.2 (G/T),West Coast of Europe,Atlantic Region,West Africa,,,,X-Band,158,QPSK,0.9,1
+USA 46 (FLTSATCOM),-14.74,R3I3,Transmit,16976.3 - 17820.8,48.6 (EIRP),Global,,,,,,Ku-Band,365,QPSK,0.9,1
+USA 46 (FLTSATCOM),-14.74,QPPC,Receive,2628.7 - 3467.9,12.9 (G/T),West Coast of Europe,,,,,,X-Band,127,32QAM,0.88,1
+USA 46 (FLTSATCOM),-14.74,0GBX,Transmit,16976.3 - 17820.8,48.6 (EIRP),Global,,,,,,Ku-Band,365,QPSK,0.9,1
+USA 46 (FLTSATCOM),-14.74,OMQ8,Transmit,14805.8 - 15486.6,56.6 (EIRP),West Coast of Europe,,,,,,Ku-Band,330,64QAM,0.86,1
+USA 46 (FLTSATCOM),-14.74,PRT9,Receive,2628.7 - 3467.9,12.9 (G/T),West Coast of Europe,,,,,,X-Band,127,32QAM,0.88,1
+USA 46 (FLTSATCOM),-14.74,T8HF,Transmit,2687.1 - 3641.0,48.7 (EIRP),West Coast of Europe,Atlantic Region,West Africa,Greenland,,,X-Band,349,32QAM,0.79,1
+USA 46 (FLTSATCOM),-14.74,JBZ6,Receive,15161.6 - 15912.2,10.8 (G/T),Global,,,,,,Ku-Band,332,32QAM,0.79,1
+USA 46 (FLTSATCOM),-14.74,IXKD,Transmit,2012.9 - 2847.0,59.9 (EIRP),Global,,,,,,X-Band,181,64QAM,0.85,1
+USA 99 (MILSTAR),-38.9,AYK4,Transmit,18081.6 - 19043.8,48.8 (EIRP),South East Pacific,Southeast Pacific,South Cone,Southern South America,Andean Region,,K-Band,415,32QAM,0.78,1
+USA 99 (MILSTAR),-38.9,70AA,Transmit,1000.0 - 1628.8,48.6 (EIRP),South East Pacific,Southeast Pacific,South Cone,,,,L-Band,432,128QAM,0.9,1
+USA 99 (MILSTAR),-38.9,X8MQ,Receive,1000.0 - 1897.1,11.7 (G/T),South East Pacific,Southeast Pacific,South Cone,Southern South America,,,L-Band,324,8PSK,0.84,1
+USA 99 (MILSTAR),-38.9,8O5H,Transmit,18081.6 - 19043.8,48.8 (EIRP),South East Pacific,Southeast Pacific,South Cone,Southern South America,Andean Region,,K-Band,415,32QAM,0.78,1
+USA 99 (MILSTAR),-38.9,A3GB,Transmit,35805.4 - 36621.3,46.9 (EIRP),South East Pacific,Southeast Pacific,,,,,Ka-Band,89,8PSK,0.82,1
+USA 99 (MILSTAR),-38.9,7BQX,Receive,1000.0 - 1897.1,11.7 (G/T),South East Pacific,Southeast Pacific,South Cone,Southern South America,,,L-Band,324,8PSK,0.84,1
+USA 99 (MILSTAR),-38.9,8RLF,Transmit,18081.6 - 19043.8,48.8 (EIRP),South East Pacific,Southeast Pacific,South Cone,Southern South America,Andean Region,,K-Band,415,32QAM,0.78,1
+USA 99 (MILSTAR),-38.9,1T71,Transmit,1000.0 - 1628.8,48.6 (EIRP),South East Pacific,Southeast Pacific,South Cone,,,,L-Band,432,128QAM,0.9,1
+USA 99 (MILSTAR),-38.9,DHPU,Transmit,34576.0 - 35407.9,47.4 (EIRP),South East Pacific,Southeast Pacific,South Cone,Southern South America,Andean Region,,Ka-Band,235,32QAM,0.81,1
+USA 99 (MILSTAR),-38.9,0PO2,Transmit,1000.0 - 1583.5,50.4 (EIRP),South East Pacific,Southeast Pacific,South Cone,Southern South America,Andean Region,,L-Band,482,BPSK,0.86,1
+USA 157 (MILSTAR),-67.9,ZEIH,Transmit,9176.1 - 9897.0,56.3 (EIRP),New Zealand,,,,,,X-Band,351,64QAM,0.78,1
+USA 157 (MILSTAR),-67.9,06AN,Receive,35061.6 - 35952.7,9.6 (G/T),New Zealand,Eastern Australia,Australia,Western Australia,Southwestern Pacific,South West Pacific,Ka-Band,315,64QAM,0.87,1
+USA 157 (MILSTAR),-67.9,LC9D,Receive,28213.5 - 29022.6,6.2 (G/T),New Zealand,Eastern Australia,Australia,Western Australia,Southwestern Pacific,,Ka-Band,40,32QAM,0.84,1
+USA 157 (MILSTAR),-67.9,3WP0,Transmit,9071.8 - 10056.7,45.9 (EIRP),Global,,,,,,X-Band,432,QPSK,0.8,1
+USA 157 (MILSTAR),-67.9,V26B,Receive,28213.5 - 29022.6,6.2 (G/T),New Zealand,Eastern Australia,Australia,Western Australia,Southwestern Pacific,,Ka-Band,40,32QAM,0.84,1
+USA 157 (MILSTAR),-67.9,8TW4,Receive,6928.4 - 7789.5,10.8 (G/T),Global,,,,,,C-Band,138,BPSK,0.75,1
+USA 157 (MILSTAR),-67.9,19P1,Transmit,8442.8 - 9000.2,54.5 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,South West Pacific,,X-Band,310,32QAM,0.87,1
+USA 157 (MILSTAR),-67.9,K441,Receive,31454.4 - 32241.8,9.4 (G/T),New Zealand,Eastern Australia,Australia,Western Australia,Southwestern Pacific,,Ka-Band,233,8PSK,0.84,1
+USA 157 (MILSTAR),-67.9,471Z,Transmit,8170.6 - 8949.5,56.5 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,South West Pacific,Southwestern Pacific,X-Band,380,BPSK,0.77,1
+USA 157 (MILSTAR),-67.9,JZE2,Transmit,10684.9 - 11399.3,52.7 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,South West Pacific,Southwestern Pacific,X-Band,415,8PSK,0.83,1
+USA 157 (MILSTAR),-67.9,O8HY,Transmit,34261.7 - 34957.6,51.0 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,South West Pacific,Southwestern Pacific,Ka-Band,194,128QAM,0.8,1
+USA 157 (MILSTAR),-67.9,46RB,Transmit,5144.2 - 5885.0,59.2 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,,,C-Band,200,256QAM,0.84,1
+USA 157 (MILSTAR),-67.9,J6TU,Transmit,6523.0 - 7102.0,46.5 (EIRP),Global,,,,,,C-Band,226,QPSK,0.82,1
+USA 157 (MILSTAR),-67.9,EKOH,Transmit,37448.9 - 38139.1,53.6 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,,,Ka-Band,96,128QAM,0.88,1
+USA 157 (MILSTAR),-67.9,JA6D,Transmit,5077.6 - 5974.1,52.9 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,,,C-Band,328,8PSK,0.87,1
+USA 164 (MILSTAR),3.92,JPZ9,Transmit,12239.2 - 13206.8,57.3 (EIRP),South Africa,North West,,,,,Ku-Band,295,64QAM,0.81,1
+USA 164 (MILSTAR),3.92,Y5YV,Receive,38225.6 - 38764.3,12.2 (G/T),South Africa,Southern Africa,Mozambique,South West Africa,Mid and Southern Africa,West Indian Ocean Region,Ka-Band,49,128QAM,0.87,1
+USA 164 (MILSTAR),3.92,GQGZ,Transmit,6488.4 - 7115.7,46.3 (EIRP),South Africa,Southern Africa,Mozambique,South West Africa,Mid and Southern Africa,,C-Band,475,QPSK,0.84,1
+USA 164 (MILSTAR),3.92,86LF,Receive,5582.0 - 6133.1,11.8 (G/T),South Africa,Southern Africa,Mozambique,South West Africa,Mid and Southern Africa,,C-Band,473,8PSK,0.79,1
+USA 164 (MILSTAR),3.92,Z4J3,Transmit,6058.9 - 6920.4,47.9 (EIRP),South Africa,Southern Africa,Mozambique,South West Africa,Mid and Southern Africa,,C-Band,483,8PSK,0.78,1
+USA 164 (MILSTAR),3.92,RBXU,Transmit,12239.2 - 13206.8,57.3 (EIRP),South Africa,,,,,,Ku-Band,295,64QAM,0.81,1
+USA 164 (MILSTAR),3.92,0S51,Transmit,32561.2 - 33424.9,56.5 (EIRP),Global,,,,,,Ka-Band,449,16QAM,0.81,1
+USA 164 (MILSTAR),3.92,YACR,Transmit,32353.3 - 33092.6,46.7 (EIRP),South Africa,,,,,,Ka-Band,334,128QAM,0.76,1
+USA 164 (MILSTAR),3.92,6N8G,Transmit,13192.8 - 13901.9,51.0 (EIRP),South Africa,Southern Africa,Mozambique,South West Africa,Mid and Southern Africa,,Ku-Band,68,64QAM,0.86,1
+USA 164 (MILSTAR),3.92,9CFK,Transmit,13071.0 - 13782.7,55.8 (EIRP),Global,,,,,,Ku-Band,245,128QAM,0.76,1
+USA 164 (MILSTAR),3.92,2VEG,Transmit,32353.3 - 33092.6,46.7 (EIRP),South Africa,,,,,,Ka-Band,334,128QAM,0.76,1
+USA 164 (MILSTAR),3.92,QNO4,Transmit,29818.5 - 30659.8,45.5 (EIRP),South Africa,Southern Africa,Mozambique,South West Africa,Mid and Southern Africa,West Indian Ocean Region,Ka-Band,109,16QAM,0.89,1
+USA 164 (MILSTAR),3.92,36S2,Transmit,35844.1 - 36527.6,47.5 (EIRP),South Africa,,,,,,Ka-Band,88,QPSK,0.82,1
+USA 164 (MILSTAR),3.92,YAM1,Transmit,5556.9 - 6063.1,48.7 (EIRP),South Africa,Algeria,,,,,C-Band,342,32QAM,0.89,1
+USA 164 (MILSTAR),3.92,PJTK,Transmit,30478.3 - 31249.1,55.2 (EIRP),South Africa,Southern Africa,,,,,Ka-Band,362,16QAM,0.85,1
+USA 164 (MILSTAR),3.92,QOHG,Transmit,5556.9 - 6063.1,48.7 (EIRP),South Africa,,,,,,C-Band,342,32QAM,0.89,1
+USA 164 (MILSTAR),3.92,IUL0,Transmit,6142.8 - 6974.5,57.6 (EIRP),South Africa,Southern Africa,Mozambique,South West Africa,Mid and Southern Africa,West Indian Ocean Region,C-Band,315,QPSK,0.86,1
+USA 164 (MILSTAR),3.92,6N05,Receive,5574.0 - 6563.8,14.2 (G/T),South Africa,,,,,,C-Band,455,8PSK,0.8,1
+USA 164 (MILSTAR),3.92,ZP2D,Transmit,35844.1 - 36527.6,47.5 (EIRP),South Africa,,,,,,Ka-Band,88,QPSK,0.82,1
+USA 169 (MILSTAR),-89.98,G7HV,Transmit,12508.9 - 13411.4,48.9 (EIRP),Eastern Australia,Western Australia,,,,,Ku-Band,46,32QAM,0.81,1
+USA 169 (MILSTAR),-89.98,567O,Transmit,12508.9 - 13411.4,48.9 (EIRP),Eastern Australia,Western Australia,,,,,Ku-Band,46,32QAM,0.81,1
+USA 169 (MILSTAR),-89.98,8NN9,Transmit,18891.9 - 19562.4,48.7 (EIRP),Eastern Australia,,,,,,K-Band,45,32QAM,0.9,1
+USA 169 (MILSTAR),-89.98,EBWI,Transmit,18891.9 - 19562.4,48.7 (EIRP),Eastern Australia,,,,,,K-Band,45,32QAM,0.9,1
+USA 169 (MILSTAR),-89.98,O10W,Transmit,12099.1 - 13066.9,55.7 (EIRP),Global,,,,,,Ku-Band,482,32QAM,0.85,1
+USA 169 (MILSTAR),-89.98,3RAK,Transmit,2665.4 - 3475.4,59.4 (EIRP),Eastern Australia,Western Australia,Australia,New Zealand,South West Pacific,,X-Band,332,32QAM,0.75,1
+USA 169 (MILSTAR),-89.98,MCGH,Transmit,12099.1 - 13066.9,55.7 (EIRP),Global,,,,,,Ku-Band,482,32QAM,0.85,1
+USA 169 (MILSTAR),-89.98,10XE,Transmit,18891.9 - 19562.4,48.7 (EIRP),Eastern Australia,,,,,,K-Band,45,32QAM,0.9,1
+USA 169 (MILSTAR),-89.98,LIPX,Transmit,15518.4 - 16250.7,48.1 (EIRP),Eastern Australia,Western Australia,Australia,New Zealand,Southwestern Pacific,South West Pacific,Ku-Band,184,128QAM,0.81,1
+MUOS-1 (MUOS),-176.96,7PWC,Transmit,8707.4 - 9253.7,51.3 (EIRP),Global,,,,,,X-Band,270,32QAM,0.81,1
+MUOS-1 (MUOS),-176.96,LX0C,Transmit,8707.4 - 9253.7,51.3 (EIRP),Global,,,,,,X-Band,270,32QAM,0.81,1
+MUOS-2 (MUOS),-100.1,YTF2,Transmit,31800.8 - 32689.6,55.1 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,,,Ka-Band,62,128QAM,0.86,1
+MUOS-2 (MUOS),-100.1,6SG2,Receive,34857.0 - 35674.6,9.5 (G/T),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,,,Ka-Band,480,64QAM,0.84,1
+MUOS-2 (MUOS),-100.1,O27J,Transmit,36548.7 - 37424.0,57.7 (EIRP),Global,,,,,,Ka-Band,338,256QAM,0.76,1
+MUOS-2 (MUOS),-100.1,78O4,Transmit,5887.5 - 6467.0,55.0 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,,,C-Band,303,BPSK,0.78,1
+MUOS-2 (MUOS),-100.1,1TDJ,Transmit,34743.7 - 35619.4,51.8 (EIRP),Indonesia,Asia Pacific,,,,,Ka-Band,210,QPSK,0.89,1
+MUOS-2 (MUOS),-100.1,21JM,Transmit,34516.2 - 35377.4,51.9 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,Australia,Eastern Australia,Ka-Band,280,BPSK,0.83,1
+MUOS-2 (MUOS),-100.1,4MRW,Transmit,35499.0 - 36365.4,58.0 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,Australia,,Ka-Band,141,BPSK,0.8,1
+MUOS-2 (MUOS),-100.1,LOPH,Transmit,35499.0 - 36365.4,58.0 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,Australia,,Ka-Band,141,BPSK,0.8,1
+MUOS-2 (MUOS),-100.1,NVQ0,Transmit,4239.8 - 5023.4,56.9 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,Australia,,C-Band,92,128QAM,0.82,1
+MUOS-2 (MUOS),-100.1,PQSB,Transmit,5144.6 - 6115.3,47.2 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,,,,C-Band,372,16QAM,0.87,1
+MUOS-2 (MUOS),-100.1,ZPHB,Transmit,5887.5 - 6467.0,55.0 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,,,C-Band,303,BPSK,0.78,1
+MUOS-2 (MUOS),-100.1,6V6Y,Transmit,4517.2 - 5198.8,47.6 (EIRP),Global,,,,,,C-Band,212,32QAM,0.84,1
+MUOS-2 (MUOS),-100.1,4V8E,Transmit,38675.2 - 39332.8,53.2 (EIRP),Indonesia,Asia Pacific,East Indian Ocean Region,Western Australia,,,Ka-Band,49,8PSK,0.88,1
+MUOS-3 (MUOS),-15.48,8AJF,Transmit,12597.8 - 13099.0,53.4 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,Central America,South West United States,Ku-Band,109,BPSK,0.76,1
+MUOS-3 (MUOS),-15.48,HXLY,Transmit,9470.7 - 10007.1,57.0 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,,,X-Band,470,64QAM,0.89,1
+MUOS-3 (MUOS),-15.48,5C5Y,Transmit,12597.8 - 13099.0,53.4 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,Central America,South West United States,Ku-Band,109,BPSK,0.76,1
+MUOS-3 (MUOS),-15.48,NO13,Transmit,12597.8 - 13099.0,53.4 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,Central America,South West United States,Ku-Band,109,BPSK,0.76,1
+MUOS-3 (MUOS),-15.48,4LSG,Transmit,16137.3 - 16981.6,59.5 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,,,Ku-Band,222,8PSK,0.88,1
+MUOS-3 (MUOS),-15.48,2FGP,Transmit,4069.5 - 4650.5,45.3 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,,,C-Band,492,64QAM,0.86,1
+MUOS-3 (MUOS),-15.48,BMIA,Transmit,12597.8 - 13099.0,53.4 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,Central America,South West United States,Ku-Band,109,BPSK,0.76,1
+MUOS-3 (MUOS),-15.48,INGV,Transmit,4069.5 - 4650.5,45.3 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,,,C-Band,492,64QAM,0.86,1
+MUOS-3 (MUOS),-15.48,54A9,Transmit,9382.9 - 10232.4,46.6 (EIRP),Global,,,,,,X-Band,338,256QAM,0.84,1
+MUOS-3 (MUOS),-15.48,IRM8,Transmit,9228.8 - 10006.7,52.7 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,,,X-Band,107,64QAM,0.88,1
+MUOS-3 (MUOS),-15.48,PEHZ,Transmit,4694.3 - 5258.2,58.2 (EIRP),Global,,,,,,C-Band,353,QPSK,0.87,1
+MUOS-3 (MUOS),-15.48,OJ3S,Transmit,9391.9 - 10015.1,48.6 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,Central America,,X-Band,96,16QAM,0.8,1
+MUOS-3 (MUOS),-15.48,HPKC,Transmit,4069.5 - 4650.5,45.3 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,,,C-Band,492,64QAM,0.86,1
+MUOS-3 (MUOS),-15.48,CA83,Transmit,4069.5 - 4650.5,45.3 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,,,C-Band,492,64QAM,0.86,1
+MUOS-3 (MUOS),-15.48,7JWK,Transmit,13886.6 - 14646.9,57.8 (EIRP),Mexico City,Mexico,,,,,Ku-Band,361,QPSK,0.77,1
+MUOS-3 (MUOS),-15.48,PA52,Transmit,4694.3 - 5258.2,58.2 (EIRP),Global,,,,,,C-Band,353,QPSK,0.87,1
+MUOS-3 (MUOS),-15.48,WQ6F,Receive,6129.6 - 7054.7,13.0 (G/T),Global,,,,,,C-Band,259,QPSK,0.89,1
+MUOS-3 (MUOS),-15.48,EMH7,Transmit,4758.2 - 5318.7,45.4 (EIRP),Mexico City,Mexico,Western Hemisphere,Northwest Mexico,Central America,Southwest United States,C-Band,449,BPSK,0.78,1
+MUOS-3 (MUOS),-15.48,HAYR,Transmit,10664.2 - 11623.6,49.1 (EIRP),Mexico City,,,,,,X-Band,103,QPSK,0.85,1
+MUOS-3 (MUOS),-15.48,44AK,Transmit,15812.4 - 16638.4,58.6 (EIRP),Global,,,,,,Ku-Band,178,64QAM,0.77,1
+MUOS-4 (MUOS),74.8,XMOB,Receive,9835.1 - 10734.2,11.3 (G/T),South Africa,Southern Africa,South West Africa,New Zealand,Mozambique,Mid and Southern Africa,X-Band,311,16QAM,0.77,1
+MUOS-4 (MUOS),74.8,CAAL,Receive,4508.1 - 5428.9,6.5 (G/T),South Africa,Southern Africa,,,,,C-Band,492,128QAM,0.85,1
+MUOS-4 (MUOS),74.8,XOHC,Receive,4508.1 - 5428.9,6.5 (G/T),South Africa,Southern Africa,,,,,C-Band,492,128QAM,0.85,1
+MUOS-4 (MUOS),74.8,TQR2,Receive,9835.1 - 10734.2,11.3 (G/T),South Africa,Southern Africa,South West Africa,New Zealand,Mozambique,Mid and Southern Africa,X-Band,311,16QAM,0.77,1
+MUOS-4 (MUOS),74.8,6CWV,Transmit,5634.3 - 6168.4,56.0 (EIRP),South Africa,Southern Africa,South West Africa,New Zealand,Mozambique,,C-Band,219,8PSK,0.89,1
+MUOS-4 (MUOS),74.8,DOV8,Receive,4508.1 - 5428.9,6.5 (G/T),South Africa,Southern Africa,,,,,C-Band,492,128QAM,0.85,1
+MUOS-4 (MUOS),74.8,V1ZB,Transmit,4960.7 - 5487.5,52.2 (EIRP),Global,,,,,,C-Band,198,32QAM,0.89,1
+MUOS-4 (MUOS),74.8,0JM3,Receive,4498.4 - 5150.3,14.1 (G/T),South Africa,,,,,,C-Band,79,16QAM,0.8,1
+MUOS-4 (MUOS),74.8,09MZ,Transmit,5944.8 - 6926.1,53.5 (EIRP),South Africa,,,,,,C-Band,427,256QAM,0.78,1
+MUOS-4 (MUOS),74.8,3KVX,Transmit,10426.2 - 11413.3,53.2 (EIRP),South Africa,,,,,,X-Band,460,128QAM,0.76,1
+MUOS-4 (MUOS),74.8,58DN,Receive,9480.5 - 10207.8,6.0 (G/T),Global,,,,,,X-Band,159,32QAM,0.88,1
+MUOS-4 (MUOS),74.8,164O,Transmit,4147.7 - 5099.1,58.3 (EIRP),Global,,,,,,C-Band,133,128QAM,0.78,1
+MUOS-4 (MUOS),74.8,H3TL,Transmit,5672.3 - 6624.7,48.4 (EIRP),South Africa,,,,,,C-Band,255,16QAM,0.78,1
+MUOS-5 (MUOS),-104.13,WSHI,Transmit,10618.3 - 11298.3,50.7 (EIRP),Middle East,West Asia,,,,,X-Band,237,256QAM,0.78,1
+USA 227 (NRO),131.06,GN8D,Receive,5964.9 - 6689.6,6.1 (G/T),Global,,,,,,C-Band,140,32QAM,0.79,1
+USA 227 (NRO),131.06,NP5Q,Transmit,6489.9 - 7305.0,56.8 (EIRP),Atlantic Region,North East,US Virgin Islands,Puerto Rico,East coast of the United States,,C-Band,269,256QAM,0.78,1
+USA 227 (NRO),131.06,ATW8,Transmit,4205.2 - 4991.3,51.0 (EIRP),Atlantic Region,South East,,,,,C-Band,33,256QAM,0.89,1
+USA 227 (NRO),131.06,51AQ,Transmit,6489.9 - 7305.0,56.8 (EIRP),Atlantic Region,North East,US Virgin Islands,Puerto Rico,East coast of the United States,,C-Band,269,256QAM,0.78,1
+USA 227 (NRO),131.06,HN31,Transmit,6954.0 - 7763.0,55.8 (EIRP),Global,,,,,,C-Band,391,BPSK,0.89,1
+USA 227 (NRO),131.06,Y0QH,Transmit,5367.9 - 5916.4,55.2 (EIRP),Atlantic Region,North East,US Virgin Islands,Puerto Rico,,,C-Band,255,64QAM,0.76,1
+USA 227 (NRO),131.06,1Z9R,Transmit,5367.9 - 5916.4,55.2 (EIRP),Atlantic Region,North East,US Virgin Islands,Puerto Rico,,,C-Band,255,64QAM,0.76,1
+USA 227 (NRO),131.06,9T88,Transmit,6658.9 - 7203.3,50.9 (EIRP),Atlantic Region,North East,US Virgin Islands,Puerto Rico,East coast of the United States,Caribbean,C-Band,491,256QAM,0.84,1
+USA 227 (NRO),131.06,0605,Transmit,6954.0 - 7763.0,55.8 (EIRP),Global,Cheyenne WY,,,,,C-Band,391,BPSK,0.89,1
+USA 227 (NRO),131.06,BAYJ,Receive,4552.9 - 5474.1,6.1 (G/T),Atlantic Region,North East,US Virgin Islands,Puerto Rico,East coast of the United States,Caribbean,C-Band,456,128QAM,0.78,1
+USA 227 (NRO),131.06,56TO,Transmit,6573.2 - 7567.1,55.3 (EIRP),Atlantic Region,North East,,,,,C-Band,44,8PSK,0.76,1
+USA 227 (NRO),131.06,4NUJ,Transmit,4374.5 - 4909.5,53.8 (EIRP),Atlantic Region,North East,US Virgin Islands,,,,C-Band,107,BPSK,0.81,1
+USA 227 (NRO),131.06,QD66,Transmit,4205.2 - 4991.3,51.0 (EIRP),Atlantic Region,,,,,,C-Band,33,256QAM,0.89,1
+USA 227 (NRO),131.06,XZRA,Transmit,4958.3 - 5843.1,55.7 (EIRP),Atlantic Region,North East,,,,,C-Band,159,16QAM,0.77,1
+USA 227 (NRO),131.06,89NK,Transmit,5544.2 - 6431.8,46.4 (EIRP),Atlantic Region,North East,US Virgin Islands,Puerto Rico,,,C-Band,267,8PSK,0.8,1
+USA 227 (NRO),131.06,RKG4,Transmit,4578.9 - 5365.5,48.0 (EIRP),Atlantic Region,North East,US Virgin Islands,Puerto Rico,,,C-Band,342,32QAM,0.8,1
+USA 227 (NRO),131.06,DXYH,Transmit,5514.6 - 6094.6,58.4 (EIRP),Atlantic Region,,,,,,C-Band,430,QPSK,0.87,1
+USA 227 (NRO),131.06,M9WW,Transmit,6128.0 - 7127.9,55.1 (EIRP),Atlantic Region,,,,,,C-Band,449,256QAM,0.77,1
+USA 227 (NRO),131.06,IPYU,Transmit,4958.3 - 5843.1,55.7 (EIRP),Atlantic Region,North East,,,,,C-Band,159,16QAM,0.77,1
+USA 227 (NRO),131.06,O4EH,Receive,5618.6 - 6134.9,13.2 (G/T),Atlantic Region,,,,,,C-Band,275,256QAM,0.76,1
+USA 227 (NRO),131.06,P2EE,Receive,4895.6 - 5668.0,12.3 (G/T),Global,,,,,,C-Band,205,128QAM,0.76,1
+USA 236 (NRO),-10.11,06L1,Transmit,19342.2 - 20237.1,52.8 (EIRP),Galapagos Islands,,,,,,K-Band,342,128QAM,0.81,1
+USA 236 (NRO),-10.11,IFFO,Transmit,19342.2 - 20237.1,52.8 (EIRP),Galapagos Islands,,,,,,K-Band,342,128QAM,0.81,1
+USA 236 (NRO),-10.11,BKX6,Transmit,1000.0 - 1820.1,47.9 (EIRP),Galapagos Islands,Western Hemisphere,,,,,L-Band,234,BPSK,0.81,1
+USA 236 (NRO),-10.11,2GDV,Transmit,19342.2 - 20237.1,52.8 (EIRP),Galapagos Islands,,,,,,K-Band,342,128QAM,0.81,1
+USA 236 (NRO),-10.11,12I3,Transmit,2244.9 - 3103.9,57.5 (EIRP),Galapagos Islands,Western Hemisphere,,,,,X-Band,86,64QAM,0.8,1
+USA 236 (NRO),-10.11,99G3,Transmit,2288.6 - 2789.0,49.2 (EIRP),Galapagos Islands,Western Hemisphere,Latin America,Andean Region,South East Pacific,,X-Band,392,256QAM,0.82,1
+USA 236 (NRO),-10.11,NBOY,Transmit,2244.9 - 3103.9,57.5 (EIRP),Galapagos Islands,Western Hemisphere,,,,,X-Band,86,64QAM,0.8,1
+USA 236 (NRO),-10.11,8MW2,Receive,1000.0 - 1722.0,10.0 (G/T),Galapagos Islands,Western Hemisphere,,,,,L-Band,110,8PSK,0.78,1
+USA 236 (NRO),-10.11,WSJT,Receive,1000.0 - 1722.0,10.0 (G/T),Galapagos Islands,Western Hemisphere,,,,,L-Band,110,8PSK,0.78,1
+USA 236 (NRO),-10.11,VFYI,Transmit,1000.0 - 1854.2,59.9 (EIRP),Galapagos Islands,,,,,,L-Band,305,128QAM,0.81,1
+USA 236 (NRO),-10.11,C20P,Transmit,1000.0 - 1580.0,55.1 (EIRP),Galapagos Islands,Western Hemisphere,Latin America,Andean Region,Southeast Pacific,,L-Band,430,BPSK,0.78,1
+USA 236 (NRO),-10.11,VHFA,Transmit,1000.0 - 1676.4,46.9 (EIRP),Galapagos Islands,Western Hemisphere,Latin America,Andean Region,,,L-Band,113,8PSK,0.86,1
+USA 236 (NRO),-10.11,ALGX,Transmit,1000.0 - 1676.4,46.9 (EIRP),Galapagos Islands,Western Hemisphere,Latin America,Andean Region,,,L-Band,113,8PSK,0.86,1
+USA 236 (NRO),-10.11,6WBC,Transmit,2063.9 - 2720.7,53.0 (EIRP),Galapagos Islands,Western Hemisphere,Latin America,Andean Region,South East Pacific,,X-Band,332,64QAM,0.89,1
+USA 236 (NRO),-10.11,27RB,Receive,24013.1 - 24694.0,13.0 (G/T),Galapagos Islands,,,,,,K-Band,151,QPSK,0.77,1
+USA 236 (NRO),-10.11,9XNB,Transmit,1000.0 - 1735.0,59.1 (EIRP),Galapagos Islands,Western Hemisphere,Latin America,Andean Region,,,L-Band,259,8PSK,0.75,1
+USA 236 (NRO),-10.11,TE34,Transmit,1000.0 - 1706.5,58.7 (EIRP),Global,,,,,,L-Band,492,128QAM,0.79,1
+USA 236 (NRO),-10.11,R2WA,Receive,2001.1 - 2696.4,14.1 (G/T),Galapagos Islands,,,,,,X-Band,38,128QAM,0.88,1
+USA 252 (NRO),170.09,L7BB,Receive,15488.9 - 16136.3,9.7 (G/T),West Coast of Europe,Greenland,Atlantic Region,,,,Ku-Band,438,16QAM,0.87,1
+USA 252 (NRO),170.09,31QK,Receive,15488.9 - 16136.3,9.7 (G/T),West Coast of Europe,Greenland,Atlantic Region,,,,Ku-Band,438,16QAM,0.87,1
+USA 252 (NRO),170.09,AGG9,Receive,15139.6 - 15907.6,6.4 (G/T),West Coast of Europe,Greenland,,,,,Ku-Band,344,8PSK,0.82,1
+USA 252 (NRO),170.09,GN2D,Receive,2567.7 - 3341.6,11.0 (G/T),Global,Africa,,,,,X-Band,90,64QAM,0.82,1
+USA 252 (NRO),170.09,I461,Receive,15488.9 - 16136.3,9.7 (G/T),West Coast of Europe,Greenland,Atlantic Region,Washington State,,,Ku-Band,438,16QAM,0.87,1
+USA 252 (NRO),170.09,D3TC,Transmit,2598.4 - 3210.0,47.3 (EIRP),West Coast of Europe,Greenland,,,,,X-Band,269,16QAM,0.87,1
+USA 252 (NRO),170.09,N0RI,Receive,2567.7 - 3341.6,11.0 (G/T),Global,South West,,,,,X-Band,90,64QAM,0.82,1
+USA 252 (NRO),170.09,MDSX,Transmit,16179.8 - 17172.8,58.0 (EIRP),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,,,Ku-Band,293,BPSK,0.75,1
+USA 252 (NRO),170.09,OJQ3,Transmit,13687.4 - 14284.2,46.8 (EIRP),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,North East,,Ku-Band,123,QPSK,0.85,1
+USA 252 (NRO),170.09,WMVH,Transmit,16795.2 - 17681.1,56.8 (EIRP),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,,,Ku-Band,42,128QAM,0.86,1
+USA 252 (NRO),170.09,91A0,Receive,12380.3 - 13294.4,11.3 (G/T),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,North East,Thailand,Ku-Band,131,128QAM,0.86,1
+USA 252 (NRO),170.09,OD88,Receive,2114.2 - 3060.9,5.0 (G/T),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,North East,,X-Band,495,BPSK,0.79,1
+USA 252 (NRO),170.09,ALPF,Receive,15139.6 - 15907.6,6.4 (G/T),West Coast of Europe,Greenland,,,,,Ku-Band,344,8PSK,0.82,1
+USA 252 (NRO),170.09,VDET,Transmit,12988.8 - 13761.0,57.1 (EIRP),West Coast of Europe,,,,,,Ku-Band,179,128QAM,0.79,1
+USA 269 (ATLAS),92.01,XA4H,Receive,33869.2 - 34786.8,6.7 (G/T),South Pacific,Pacific Ocean,,,,,Ka-Band,31,BPSK,0.84,1
+USA 269 (ATLAS),92.01,6AUC,Receive,2865.0 - 3509.0,14.8 (G/T),South Pacific,Pacific,Pacific Ocean,,,,X-Band,65,QPSK,0.82,1
+USA 269 (ATLAS),92.01,7XA0,Transmit,5897.5 - 6510.9,57.5 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,Southeast Pacific,South East Pacific,C-Band,54,BPSK,0.82,1
+USA 269 (ATLAS),92.01,NNT5,Transmit,5336.8 - 6232.8,47.0 (EIRP),Global,,,,,,C-Band,249,BPSK,0.82,1
+USA 269 (ATLAS),92.01,QPJP,Transmit,4136.7 - 4803.3,52.4 (EIRP),South Pacific,Pacific,Pacific Ocean,,,,C-Band,459,16QAM,0.76,1
+USA 269 (ATLAS),92.01,RVQW,Transmit,5371.4 - 5975.9,58.9 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,,,C-Band,305,16QAM,0.83,1
+USA 269 (ATLAS),92.01,NMAL,Transmit,6329.3 - 6966.2,49.8 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,Southeast Pacific,South East Pacific,C-Band,261,64QAM,0.88,1
+USA 269 (ATLAS),92.01,SRK5,Transmit,30458.7 - 31095.6,51.0 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,,,Ka-Band,405,256QAM,0.85,1
+USA 269 (ATLAS),92.01,VR6S,Transmit,32648.1 - 33264.6,55.5 (EIRP),South Pacific,,,,,,Ka-Band,292,64QAM,0.8,1
+USA 269 (ATLAS),92.01,Q70G,Transmit,6329.3 - 6966.2,49.8 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,Southeast Pacific,South East Pacific,C-Band,261,64QAM,0.88,1
+USA 269 (ATLAS),92.01,HITB,Transmit,6890.1 - 7394.1,55.6 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,,,C-Band,424,256QAM,0.81,1
+USA 269 (ATLAS),92.01,Y22U,Transmit,6120.0 - 6648.7,46.7 (EIRP),South Pacific,Pacific,,,,,C-Band,317,8PSK,0.85,1
+USA 269 (ATLAS),92.01,SCFE,Transmit,5897.5 - 6510.9,57.5 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,Southeast Pacific,South East Pacific,C-Band,54,BPSK,0.82,1
+USA 269 (ATLAS),92.01,J6C6,Transmit,29068.7 - 29600.4,54.2 (EIRP),South Pacific,Pacific Ocean,Pacific,Southern Pacific,,,Ka-Band,204,16QAM,0.83,1
+USA 269 (ATLAS),92.01,C0B5,Transmit,6890.1 - 7394.1,55.6 (EIRP),South Pacific,Pacific,Pacific Ocean,Southern Pacific,,,C-Band,424,256QAM,0.81,1
+USA 269 (ATLAS),92.01,70L9,Transmit,6249.7 - 6972.7,45.3 (EIRP),Global,,,,,,C-Band,49,BPSK,0.75,1
+USA 269 (ATLAS),92.01,7DLR,Transmit,2132.1 - 2779.1,55.8 (EIRP),South Pacific,Pacific Ocean,Pacific,Southwestern United States,,,X-Band,487,64QAM,0.8,1
+USA 269 (ATLAS),92.01,DUDM,Transmit,2771.5 - 3570.3,57.2 (EIRP),Global,,,,,,X-Band,156,QPSK,0.81,1
+USA 269 (ATLAS),92.01,4H8L,Transmit,30407.3 - 31377.9,51.9 (EIRP),South Pacific,Pacific Ocean,Pacific,Southern Pacific,,,Ka-Band,476,BPSK,0.89,1
+USA 269 (ATLAS),92.01,5CL6,Transmit,2390.0 - 3262.6,57.6 (EIRP),South Pacific,Pacific Ocean,Pacific,Southern Pacific,Southeast Pacific,South East Pacific,X-Band,129,BPSK,0.87,1
+USA 279 (ATLAS),91.07,U229,Receive,24618.4 - 25311.2,10.8 (G/T),Russia,Europe,Western Europe,West Europe,,,K-Band,193,8PSK,0.82,1
+USA 279 (ATLAS),91.07,UE9A,Transmit,13322.6 - 14108.2,48.4 (EIRP),Russia,Europe,,,,,Ku-Band,444,QPSK,0.81,1
+USA 279 (ATLAS),91.07,8L89,Transmit,19562.7 - 20483.4,57.7 (EIRP),Russia,Europe,Western Europe,West Europe,,,K-Band,231,128QAM,0.85,1
+USA 279 (ATLAS),91.07,AIH1,Transmit,13322.6 - 14108.2,48.4 (EIRP),Russia,Europe,,,,,Ku-Band,444,QPSK,0.81,1
+USA 279 (ATLAS),91.07,OCMK,Transmit,19562.7 - 20483.4,57.7 (EIRP),Russia,Europe,Western Europe,West Europe,,,K-Band,231,128QAM,0.85,1
+USA 279 (ATLAS),91.07,ND2A,Transmit,13322.6 - 14108.2,48.4 (EIRP),Russia,Europe,,,,,Ku-Band,444,QPSK,0.81,1
+USA 279 (ATLAS),91.07,FX2B,Transmit,2663.3 - 3550.9,45.1 (EIRP),Russia,Europe,Western Europe,,,,X-Band,481,32QAM,0.83,1
+USA 279 (ATLAS),91.07,DOJH,Transmit,13322.6 - 14108.2,48.4 (EIRP),Russia,Europe,,,,,Ku-Band,444,QPSK,0.81,1
+USA 279 (ATLAS),91.07,PAGG,Transmit,14369.9 - 15067.5,49.8 (EIRP),Russia,Europe,West Europe,Western Europe,,,Ku-Band,262,8PSK,0.81,1
+USA 279 (ATLAS),91.07,D3OE,Transmit,14369.9 - 15067.5,49.8 (EIRP),Russia,Europe,West Europe,Western Europe,,,Ku-Band,262,8PSK,0.81,1
+USA 279 (ATLAS),91.07,4JK1,Transmit,19562.7 - 20483.4,57.7 (EIRP),Russia,Europe,Western Europe,West Europe,,,K-Band,231,128QAM,0.85,1
+USA 146 (UFO),72.67,EYBV,Receive,1000.0 - 1767.3,6.1 (G/T),West Asia,Middle East,India,South Asia,Eastern Africa,,L-Band,169,QPSK,0.88,1
+USA 146 (UFO),72.67,MQEW,Receive,1000.0 - 1767.3,6.1 (G/T),West Asia,Middle East,India,South Asia,Eastern Africa,,L-Band,169,QPSK,0.88,1
+USA 146 (UFO),72.67,QM5H,Receive,1000.0 - 1767.3,6.1 (G/T),West Asia,Middle East,India,South Asia,Eastern Africa,,L-Band,169,QPSK,0.88,1
+USA 146 (UFO),72.67,KXNT,Transmit,1000.0 - 1742.6,47.5 (EIRP),West Asia,Middle East,India,South Asia,,,L-Band,312,BPSK,0.76,1
+USA 146 (UFO),72.67,AXDE,Receive,1000.0 - 1633.3,9.1 (G/T),Global,,,,,,L-Band,362,QPSK,0.76,1
+USA 146 (UFO),72.67,Z6P9,Transmit,1000.0 - 1742.6,47.5 (EIRP),West Asia,Middle East,India,South Asia,,,L-Band,312,BPSK,0.76,1
+USA 146 (UFO),72.67,QI4S,Transmit,18141.7 - 19097.1,46.1 (EIRP),West Asia,Middle East,India,South Asia,Eastern Africa,,K-Band,128,BPSK,0.75,1
+USA 146 (UFO),72.67,3DGQ,Transmit,19112.6 - 20103.2,56.8 (EIRP),West Asia,Middle East,India,,,,K-Band,345,64QAM,0.82,1
+USA 146 (UFO),72.67,RPBJ,Receive,1000.0 - 1767.3,6.1 (G/T),West Asia,Middle East,India,South Asia,Eastern Africa,,L-Band,169,QPSK,0.88,1
+USA 146 (UFO),72.67,XTCL,Receive,22336.6 - 22865.5,7.8 (G/T),West Asia,Middle East,India,South Asia,Eastern Africa,,K-Band,384,8PSK,0.87,1
+USA 146 (UFO),72.67,7GP1,Transmit,20705.9 - 21409.2,46.3 (EIRP),West Asia,Middle East,India,South Asia,Eastern Africa,Eastern Hemisphere,K-Band,417,64QAM,0.89,1
+USA 146 (UFO),72.67,6CFN,Transmit,23421.2 - 23986.9,59.8 (EIRP),West Asia,Middle East,India,,,,K-Band,168,BPSK,0.76,1
+USA 174 (UFO),71.44,IJD2,Transmit,20716.8 - 21705.7,53.0 (EIRP),West Coast of Europe,,,,,,K-Band,442,BPSK,0.78,1
+USA 174 (UFO),71.44,H833,Transmit,23257.1 - 23887.4,59.2 (EIRP),West Coast of Europe,,,,,,K-Band,427,QPSK,0.88,1
+USA 174 (UFO),71.44,4FRK,Transmit,20716.8 - 21705.7,53.0 (EIRP),West Coast of Europe,,,,,,K-Band,442,BPSK,0.78,1
+USA 174 (UFO),71.44,AFB2,Transmit,21521.1 - 22204.3,50.6 (EIRP),West Coast of Europe,Greenland,Atlantic Region,,,,K-Band,308,32QAM,0.83,1
+USA 174 (UFO),71.44,R5FH,Transmit,20716.8 - 21705.7,53.0 (EIRP),West Coast of Europe,,,,,,K-Band,442,BPSK,0.78,1
+USA 174 (UFO),71.44,9TDS,Receive,23377.4 - 24293.0,6.5 (G/T),Global,,,,,,K-Band,73,256QAM,0.83,1
+USA 174 (UFO),71.44,WQAH,Transmit,20701.2 - 21513.0,48.9 (EIRP),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,North East,,K-Band,298,32QAM,0.86,1
+USA 174 (UFO),71.44,TS60,Receive,23377.4 - 24293.0,6.5 (G/T),Global,,,,,,K-Band,73,256QAM,0.83,1
+USA 174 (UFO),71.44,11W4,Receive,23377.4 - 24293.0,6.5 (G/T),Global,,,,,,K-Band,73,256QAM,0.83,1
+USA 174 (UFO),71.44,376K,Transmit,20716.8 - 21705.7,53.0 (EIRP),West Coast of Europe,,,,,,K-Band,442,BPSK,0.78,1
+USA 174 (UFO),71.44,XMKV,Transmit,20716.8 - 21705.7,53.0 (EIRP),West Coast of Europe,,,,,,K-Band,442,BPSK,0.78,1
+USA 174 (UFO),71.44,32A2,Transmit,24774.8 - 25538.9,53.8 (EIRP),Global,,,,,,K-Band,172,BPSK,0.77,1
+USA 174 (UFO),71.44,YF1F,Transmit,21521.1 - 22204.3,50.6 (EIRP),West Coast of Europe,Greenland,Atlantic Region,,,,K-Band,308,32QAM,0.83,1
+USA 174 (UFO),71.44,2BU7,Transmit,23114.5 - 23627.8,56.4 (EIRP),West Coast of Europe,,,,,,K-Band,417,128QAM,0.88,1
+USA 174 (UFO),71.44,0BNQ,Transmit,19713.4 - 20538.9,51.6 (EIRP),West Coast of Europe,Greenland,Atlantic Region,,,,K-Band,135,128QAM,0.88,1
+USA 174 (UFO),71.44,AI4E,Transmit,21905.9 - 22659.0,53.2 (EIRP),West Coast of Europe,Greenland,Atlantic Region,,,,K-Band,316,QPSK,0.86,1
+USA 174 (UFO),71.44,D2Z0,Transmit,19713.4 - 20538.9,51.6 (EIRP),West Coast of Europe,Greenland,Atlantic Region,,,,K-Band,135,128QAM,0.88,1
+USA 174 (UFO),71.44,1B6Y,Transmit,22155.5 - 23147.5,58.0 (EIRP),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,,,K-Band,282,8PSK,0.86,1
+USA 174 (UFO),71.44,JUXJ,Receive,20662.0 - 21305.6,8.1 (G/T),West Coast of Europe,Greenland,Atlantic Region,Eastern Canada,North East,East coast of the United States,K-Band,474,128QAM,0.8,1
+USA 95 (UFO),28.79,9S55,Transmit,20793.0 - 21482.1,52.6 (EIRP),United States West Coast,Western United States,Western North America,Northwestern United States,Gilbert AZ,,K-Band,371,QPSK,0.79,1
+USA 95 (UFO),28.79,M2DZ,Receive,20060.8 - 20841.6,13.2 (G/T),United States West Coast,Western United States,Western North America,Eastern United States,,,K-Band,187,16QAM,0.78,1
+USA 95 (UFO),28.79,AXT4,Transmit,18805.7 - 19395.9,58.6 (EIRP),Global,,,,,,K-Band,220,QPSK,0.83,1
+USA 95 (UFO),28.79,ZBS1,Transmit,24579.5 - 25304.0,47.6 (EIRP),United States West Coast,,,,,,K-Band,426,16QAM,0.89,1
+USA 95 (UFO),28.79,1NDB,Transmit,24579.5 - 25304.0,47.6 (EIRP),United States West Coast,,,,,,K-Band,426,16QAM,0.89,1
+USA 108 (UFO),-177.12,30OR,Transmit,38202.8 - 39001.1,50.1 (EIRP),West Asia,,,,,,Ka-Band,35,256QAM,0.77,1
+USA 108 (UFO),-177.12,2B8E,Receive,19885.1 - 20739.3,9.5 (G/T),West Asia,Middle East,India,South Asia,,,K-Band,50,8PSK,0.86,1
+USA 108 (UFO),-177.12,CND3,Transmit,21754.0 - 22443.4,46.1 (EIRP),West Asia,Middle East,India,South Asia,Eastern Hemisphere,Southern Europe,K-Band,246,8PSK,0.82,1
+USA 108 (UFO),-177.12,TI9S,Transmit,23323.2 - 23836.5,55.3 (EIRP),West Asia,Middle East,India,South Asia,Eastern Hemisphere,,K-Band,58,8PSK,0.82,1
+USA 108 (UFO),-177.12,VA2K,Receive,20144.4 - 21024.9,12.1 (G/T),West Asia,Middle East,India,South Asia,Eastern Hemisphere,South Europe,K-Band,414,256QAM,0.87,1
+USA 108 (UFO),-177.12,7MDQ,Transmit,20468.5 - 21425.5,45.1 (EIRP),West Asia,Middle East,India,,,,K-Band,298,8PSK,0.75,1
+USA 108 (UFO),-177.12,6Y29,Transmit,4320.1 - 5006.8,58.0 (EIRP),Global,,,,,,C-Band,91,BPSK,0.84,1
+USA 108 (UFO),-177.12,K6BC,Transmit,5198.9 - 5734.4,49.0 (EIRP),West Asia,,,,,,C-Band,303,BPSK,0.76,1
+USA 108 (UFO),-177.12,I2UV,Receive,5667.4 - 6662.5,7.0 (G/T),West Asia,Middle East,India,South Asia,,,C-Band,309,128QAM,0.78,1
+USA 108 (UFO),-177.12,H6K3,Transmit,23323.2 - 23836.5,55.3 (EIRP),West Asia,Middle East,India,South Asia,Eastern Hemisphere,,K-Band,58,8PSK,0.82,1
+USA 108 (UFO),-177.12,RRSJ,Transmit,32802.5 - 33540.3,53.9 (EIRP),West Asia,Middle East,India,South Asia,Eastern Hemisphere,Southern Europe,Ka-Band,141,16QAM,0.83,1
+USA 108 (UFO),-177.12,Y04G,Transmit,28357.9 - 29083.0,46.4 (EIRP),West Asia,Middle East,,,,,Ka-Band,481,128QAM,0.82,1
+USA 108 (UFO),-177.12,73NO,Transmit,21230.1 - 21923.9,55.7 (EIRP),West Asia,Middle East,,,,,K-Band,86,BPSK,0.84,1
+USA 108 (UFO),-177.12,SV63,Transmit,6446.7 - 7122.2,58.8 (EIRP),West Asia,Middle East,,,,,C-Band,326,64QAM,0.89,1
+USA 138 (UFO),172.28,R4RV,Transmit,2280.0 - 2898.9,47.4 (EIRP),Southeast Pacific,South East Pacific,Galapagos Islands,,,,X-Band,64,BPSK,0.83,1
+USA 138 (UFO),172.28,7U4S,Transmit,2537.1 - 3475.0,59.4 (EIRP),Southeast Pacific,South East Pacific,Galapagos Islands,Western Hemisphere,Andean Region,,X-Band,239,BPSK,0.8,1
+USA 138 (UFO),172.28,2KRA,Transmit,2598.5 - 3228.6,53.8 (EIRP),Southeast Pacific,,,,,,X-Band,244,16QAM,0.86,1
+USA 138 (UFO),172.28,SCQA,Transmit,2466.9 - 3321.8,53.4 (EIRP),Global,,,,,,X-Band,300,QPSK,0.88,1
+USA 138 (UFO),172.28,XP6V,Transmit,2549.3 - 3248.1,48.7 (EIRP),South East Pacific,Southeast Pacific,Galapagos Islands,,,,X-Band,296,BPSK,0.83,1
+USA 138 (UFO),172.28,Z3YD,Receive,2523.6 - 3169.1,6.0 (G/T),South East Pacific,,,,,,X-Band,387,8PSK,0.89,1
+USA 138 (UFO),172.28,HLRD,Transmit,2549.3 - 3248.1,48.7 (EIRP),South East Pacific,Southeast Pacific,Galapagos Islands,,,,X-Band,296,BPSK,0.83,1
+USA 138 (UFO),172.28,5DQ7,Transmit,2280.0 - 2898.9,47.4 (EIRP),Southeast Pacific,South East Pacific,Galapagos Islands,,,,X-Band,64,BPSK,0.83,1
+USA 138 (UFO),172.28,24F2,Transmit,2546.6 - 3063.0,48.6 (EIRP),Global,,,,,,X-Band,45,8PSK,0.85,1
+USA 138 (UFO),172.28,M62C,Transmit,2550.0 - 3373.8,57.4 (EIRP),Southeast Pacific,South East Pacific,,,,,X-Band,482,256QAM,0.84,1
+USA 138 (UFO),172.28,93NE,Transmit,2550.0 - 3373.8,57.4 (EIRP),Southeast Pacific,South East Pacific,,,,,X-Band,482,256QAM,0.84,1
+USA 138 (UFO),172.28,A7C1,Transmit,2983.0 - 3912.2,52.4 (EIRP),Southeast Pacific,South East Pacific,,,,,X-Band,63,32QAM,0.87,1
+USA 138 (UFO),172.28,KRWU,Transmit,2613.0 - 3497.1,50.7 (EIRP),Southeast Pacific,,,,,,X-Band,477,QPSK,0.85,1
+USA 138 (UFO),172.28,BB7B,Transmit,2537.1 - 3475.0,59.4 (EIRP),Southeast Pacific,South East Pacific,Galapagos Islands,Western Hemisphere,Andean Region,Northern Africa,X-Band,239,BPSK,0.8,1
+USA 138 (UFO),172.28,0U59,Transmit,2720.6 - 3564.1,51.2 (EIRP),Global,,,,,,X-Band,232,16QAM,0.82,1
+USA 138 (UFO),172.28,7C1C,Receive,2257.5 - 2801.3,12.4 (G/T),South East Pacific,Southeast Pacific,,,,,X-Band,182,128QAM,0.83,1
+USA 138 (UFO),172.28,KMZQ,Transmit,2550.0 - 3373.8,57.4 (EIRP),Southeast Pacific,South East Pacific,,,,,X-Band,482,256QAM,0.84,1
+USA 138 (UFO),172.28,FLR4,Transmit,2062.1 - 2991.4,58.1 (EIRP),South East Pacific,Southeast Pacific,Galapagos Islands,Western Hemisphere,Andean Region,,X-Band,447,QPSK,0.78,1
+USA 138 (UFO),172.28,NKQQ,Transmit,2896.1 - 3495.1,49.4 (EIRP),South East Pacific,Southeast Pacific,Galapagos Islands,Western Hemisphere,Andean Region,,X-Band,290,16QAM,0.78,1
+USA 138 (UFO),172.28,TYF6,Transmit,2694.0 - 3667.3,56.0 (EIRP),South East Pacific,Southeast Pacific,Galapagos Islands,Western Hemisphere,Andean Region,,X-Band,392,QPSK,0.88,1
+USA 138 (UFO),172.28,MWRP,Transmit,2537.1 - 3475.0,59.4 (EIRP),Southeast Pacific,South East Pacific,Galapagos Islands,Western Hemisphere,Andean Region,,X-Band,239,BPSK,0.8,1
+USA 195 (WGS),179.88,V5AL,Transmit,1000.0 - 1813.1,54.4 (EIRP),West Coast of Europe,Atlantic Region,Greenland,North East,,,L-Band,61,128QAM,0.8,1
+USA 195 (WGS),179.88,F5KZ,Transmit,1000.0 - 1950.3,52.5 (EIRP),West Coast of Europe,Atlantic Region,Greenland,North East,Eastern Canada,East coast of the United States,L-Band,161,QPSK,0.76,1
+USA 195 (WGS),179.88,MM3H,Receive,1000.0 - 1857.7,11.6 (G/T),West Coast of Europe,,,,,,L-Band,295,16QAM,0.77,1
+USA 195 (WGS),179.88,OCOD,Transmit,1000.0 - 1548.8,51.1 (EIRP),Global,,,,,,L-Band,192,8PSK,0.86,1
+USA 195 (WGS),179.88,FYGE,Receive,1000.0 - 1617.8,5.6 (G/T),Global,,,,,,L-Band,399,16QAM,0.76,1
+USA 195 (WGS),179.88,WITH,Transmit,1000.0 - 1788.2,56.1 (EIRP),West Coast of Europe,Atlantic Region,,,,,L-Band,346,256QAM,0.76,1
+USA 195 (WGS),179.88,PLJO,Transmit,1000.0 - 1548.8,51.1 (EIRP),Global,,,,,,L-Band,192,8PSK,0.86,1
+USA 195 (WGS),179.88,WXRA,Transmit,1000.0 - 1548.8,51.1 (EIRP),Global,,,,,,L-Band,192,8PSK,0.86,1
+USA 195 (WGS),179.88,T1DL,Transmit,1000.0 - 1553.7,53.7 (EIRP),West Coast of Europe,Atlantic Region,Greenland,,,,L-Band,278,256QAM,0.86,1
+USA 195 (WGS),179.88,2YJ7,Transmit,1000.0 - 1721.9,49.1 (EIRP),West Coast of Europe,Atlantic Region,Greenland,,,,L-Band,286,128QAM,0.79,1
+USA 195 (WGS),179.88,4WIK,Receive,1000.0 - 1830.4,6.0 (G/T),West Coast of Europe,Atlantic Region,Greenland,North East,Eastern Canada,East coast of the United States,L-Band,191,BPSK,0.81,1
+USA 195 (WGS),179.88,JVBD,Transmit,1000.0 - 1788.2,56.1 (EIRP),West Coast of Europe,Atlantic Region,,,,,L-Band,346,256QAM,0.76,1
+USA 291 (WGS),-52,I6JA,Transmit,9519.2 - 10420.3,57.8 (EIRP),Falkland Islands,Southern South America,,,,,X-Band,130,128QAM,0.86,1
+USA 291 (WGS),-52,Z914,Transmit,10374.0 - 11236.5,58.0 (EIRP),Falkland Islands,Southern South America,Argentina,South Cone,Brazil,South America,X-Band,255,QPSK,0.83,1
+USA 291 (WGS),-52,HD3W,Transmit,21596.7 - 22126.1,47.4 (EIRP),Falkland Islands,Southern South America,Argentina,,,,K-Band,449,BPSK,0.83,1
+USA 291 (WGS),-52,LUM5,Transmit,10176.1 - 11041.4,49.0 (EIRP),Falkland Islands,Southern South America,,,,,X-Band,135,8PSK,0.76,1
+USA 291 (WGS),-52,D4OI,Receive,8824.2 - 9422.6,10.5 (G/T),Global,,,,,,X-Band,206,32QAM,0.86,1
+USA 291 (WGS),-52,EEY5,Transmit,10745.6 - 11401.1,47.2 (EIRP),Falkland Islands,Southern South America,,,,,X-Band,149,8PSK,0.88,1
+USA 291 (WGS),-52,JC0X,Transmit,22526.0 - 23307.2,53.8 (EIRP),Global,,,,,,K-Band,203,QPSK,0.83,1
+USA 204 (WGS),60.18,S4QW,Transmit,2539.6 - 3341.6,54.4 (EIRP),Southern Pacific,South Pacific,Pacific Ocean,Pacific,South East Pacific,Southeast Pacific,X-Band,112,64QAM,0.8,1
+USA 204 (WGS),60.18,8FCS,Transmit,29243.0 - 30038.8,49.6 (EIRP),Southern Pacific,South Pacific,,,,,Ka-Band,140,64QAM,0.8,1
+USA 204 (WGS),60.18,ZWDK,Transmit,2014.2 - 2744.1,48.0 (EIRP),Southern Pacific,South Pacific,Pacific Ocean,Pacific,South East Pacific,,X-Band,39,QPSK,0.81,1
+USA 204 (WGS),60.18,OGI6,Transmit,26233.2 - 26993.9,50.2 (EIRP),Southern Pacific,South Pacific,Pacific Ocean,Pacific,,,Ka-Band,410,8PSK,0.76,1
+USA 204 (WGS),60.18,AODP,Transmit,2539.6 - 3341.6,54.4 (EIRP),Southern Pacific,South Pacific,Pacific Ocean,Pacific,South East Pacific,Southeast Pacific,X-Band,112,64QAM,0.8,1
+USA 204 (WGS),60.18,SKMY,Transmit,31669.2 - 32368.7,49.6 (EIRP),Global,,,,,,Ka-Band,312,32QAM,0.83,1
+USA 204 (WGS),60.18,1YRW,Transmit,2395.2 - 3253.9,53.7 (EIRP),Southern Pacific,South Pacific,Pacific Ocean,Pacific,,,X-Band,225,QPSK,0.81,1
+USA 204 (WGS),60.18,1MCA,Transmit,31137.9 - 32010.4,49.6 (EIRP),Global,,,,,,Ka-Band,408,256QAM,0.75,1
+USA 204 (WGS),60.18,O8UY,Transmit,2539.6 - 3341.6,54.4 (EIRP),Southern Pacific,South Pacific,Pacific Ocean,Pacific,South East Pacific,Southeast Pacific,X-Band,112,64QAM,0.8,1
+USA 204 (WGS),60.18,CZLM,Transmit,2765.0 - 3686.8,58.0 (EIRP),Southern Pacific,South Pacific,,,,,X-Band,335,256QAM,0.86,1
+USA 204 (WGS),60.18,FB37,Receive,28714.5 - 29452.5,7.4 (G/T),Global,,,,,,Ka-Band,358,128QAM,0.77,1
+USA 204 (WGS),60.18,UTO0,Transmit,2575.5 - 3246.6,50.8 (EIRP),Southern Pacific,South Pacific,,,,,X-Band,73,32QAM,0.85,1
+USA 211 (WGS),-12,J148,Receive,5023.3 - 5973.8,7.6 (G/T),Andean Region,,,,,,C-Band,238,256QAM,0.79,1
+USA 211 (WGS),-12,W4I2,Transmit,4240.2 - 4859.6,50.8 (EIRP),Andean Region,Galapagos Islands,Southern Continental United States,,,,C-Band,233,BPSK,0.83,1
+USA 211 (WGS),-12,KYTY,Transmit,4240.2 - 4859.6,50.8 (EIRP),Andean Region,Galapagos Islands,,,,,C-Band,233,BPSK,0.83,1
+USA 211 (WGS),-12,PJA8,Receive,5023.3 - 5973.8,7.6 (G/T),Andean Region,,,,,,C-Band,238,256QAM,0.79,1
+USA 211 (WGS),-12,5K9I,Transmit,26346.1 - 26952.2,56.2 (EIRP),Global,Southern United States,,,,,Ka-Band,323,BPSK,0.86,1
+USA 211 (WGS),-12,ZJ3S,Receive,32812.1 - 33350.9,9.6 (G/T),Andean Region,Galapagos Islands,Western Hemisphere,Latin America,,,Ka-Band,104,QPSK,0.85,1
+USA 211 (WGS),-12,1ZWV,Transmit,26346.1 - 26952.2,56.2 (EIRP),Global,,,,,,Ka-Band,323,BPSK,0.86,1
+USA 211 (WGS),-12,KCI0,Transmit,29735.0 - 30673.7,57.3 (EIRP),Andean Region,,,,,,Ka-Band,162,128QAM,0.83,1
+USA 211 (WGS),-12,LS52,Receive,36297.9 - 37234.6,11.1 (G/T),Andean Region,Galapagos Islands,Western Hemisphere,Latin America,South Cone,South America,Ka-Band,50,64QAM,0.77,1
+USA 211 (WGS),-12,FVZC,Transmit,26346.1 - 26952.2,56.2 (EIRP),Global,,,,,,Ka-Band,323,BPSK,0.86,1
+USA 211 (WGS),-12,OO23,Transmit,26346.1 - 26952.2,56.2 (EIRP),Global,,,,,,Ka-Band,323,BPSK,0.86,1
+USA 211 (WGS),-12,FGW8,Receive,38911.3 - 39727.6,7.4 (G/T),Global,,,,,,Ka-Band,169,256QAM,0.88,1
+USA 211 (WGS),-12,Q6WR,Transmit,34731.0 - 35303.1,55.9 (EIRP),Andean Region,,,,,,Ka-Band,203,64QAM,0.8,1
+USA 233 (WGS),-124.5,0LQL,Receive,2832.3 - 3696.3,6.0 (G/T),Atlantic Ocean,Central Atlantic,Atlantic Region,West Africa,Global,US Virgin Islands,X-Band,470,8PSK,0.79,1
+USA 233 (WGS),-124.5,RCOR,Transmit,29943.4 - 30460.9,48.5 (EIRP),Atlantic Ocean,Central Atlantic,Atlantic Region,West Africa,Global,US Virgin Islands,Ka-Band,307,BPSK,0.81,1
+USA 233 (WGS),-124.5,1P7P,Receive,26595.7 - 27158.4,7.9 (G/T),Atlantic Ocean,,,,,,Ka-Band,498,QPSK,0.79,1
+USA 233 (WGS),-124.5,5P16,Receive,2832.3 - 3696.3,6.0 (G/T),Atlantic Ocean,Central Atlantic,Atlantic Region,West Africa,Global,US Virgin Islands,X-Band,470,8PSK,0.79,1
+USA 233 (WGS),-124.5,RXU9,Receive,2247.4 - 2883.2,9.3 (G/T),Global,,,,,,X-Band,144,64QAM,0.76,1
+USA 233 (WGS),-124.5,1Q1E,Receive,2832.3 - 3696.3,6.0 (G/T),Atlantic Ocean,Central Atlantic,Atlantic Region,West Africa,Global,US Virgin Islands,X-Band,470,8PSK,0.79,1
+USA 233 (WGS),-124.5,MSNW,Transmit,36508.2 - 37106.8,56.4 (EIRP),Atlantic Ocean,Central Atlantic,Atlantic Region,West Africa,,,Ka-Band,217,16QAM,0.9,1
+USA 243 (WGS),-52.5,BMOL,Transmit,1000.0 - 1884.8,47.1 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,,,L-Band,133,BPSK,0.83,1
+USA 243 (WGS),-52.5,O12C,Transmit,1000.0 - 1877.2,50.2 (EIRP),New Zealand,Eastern Australia,Malaysia,,,,L-Band,69,8PSK,0.83,1
+USA 243 (WGS),-52.5,2DB1,Transmit,1000.0 - 1809.8,55.8 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,,,L-Band,35,64QAM,0.76,1
+USA 243 (WGS),-52.5,Q1VU,Transmit,1000.0 - 1809.8,55.8 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,,,L-Band,35,64QAM,0.76,1
+USA 243 (WGS),-52.5,R3RK,Transmit,1000.0 - 1984.1,55.1 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,Southwestern Pacific,,L-Band,84,128QAM,0.9,1
+USA 243 (WGS),-52.5,9N7J,Transmit,1000.0 - 1809.8,55.8 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,,,L-Band,35,64QAM,0.76,1
+USA 243 (WGS),-52.5,B1Y5,Transmit,1000.0 - 1662.6,58.6 (EIRP),New Zealand,Eastern Australia,Australia,Western Australia,South West Pacific,,L-Band,164,BPSK,0.75,1
+USA 244 (WGS),-135.22,P7AE,Receive,1000.0 - 1872.5,6.5 (G/T),Global,,,,,,L-Band,452,BPSK,0.77,1
+USA 244 (WGS),-135.22,CLIC,Receive,1000.0 - 1947.2,9.2 (G/T),Greenland,Eastern Canada,Canada,North East,West Coast of Europe,Middle Africa,L-Band,231,16QAM,0.89,1
+USA 244 (WGS),-135.22,QKGH,Receive,1000.0 - 1849.1,12.8 (G/T),Greenland,Eastern Canada,Canada,,,,L-Band,413,32QAM,0.79,1
+USA 244 (WGS),-135.22,7748,Receive,1000.0 - 1673.3,11.8 (G/T),Greenland,,,,,,L-Band,228,32QAM,0.76,1
+USA 244 (WGS),-135.22,TJ7R,Receive,1000.0 - 1947.2,9.2 (G/T),Greenland,Eastern Canada,Canada,North East,West Coast of Europe,,L-Band,231,16QAM,0.89,1
+USA 244 (WGS),-135.22,HALG,Receive,1000.0 - 1947.2,9.2 (G/T),Greenland,Eastern Canada,Canada,North East,West Coast of Europe,,L-Band,231,16QAM,0.89,1
+USA 244 (WGS),-135.22,WKQD,Transmit,1000.0 - 1920.5,53.1 (EIRP),Greenland,Eastern Canada,Canada,,,,L-Band,151,8PSK,0.88,1
+USA 244 (WGS),-135.22,9XQK,Receive,1000.0 - 1936.8,8.9 (G/T),Greenland,Eastern Canada,Canada,North East,West Coast of Europe,Northern United States,L-Band,110,8PSK,0.78,1
+USA 244 (WGS),-135.22,00GM,Receive,1000.0 - 1847.7,6.2 (G/T),Greenland,Eastern Canada,Canada,North East,West Coast of Europe,,L-Band,148,16QAM,0.83,1
+USA 244 (WGS),-135.22,C5I6,Transmit,1000.0 - 1627.8,48.2 (EIRP),Global,,,,,,L-Band,365,256QAM,0.9,1
+USA 244 (WGS),-135.22,UVUI,Transmit,1000.0 - 1627.8,48.2 (EIRP),Global,,,,,,L-Band,365,256QAM,0.9,1
+USA 244 (WGS),-135.22,0PDO,Transmit,1000.0 - 1668.4,52.5 (EIRP),Global,,,,,,L-Band,419,16QAM,0.86,1
+USA 263 (WGS),174.96,S8IO,Transmit,8085.6 - 9035.8,46.4 (EIRP),Greenland,Alaska,Canada,Southwest Canada,Eastern Canada,,X-Band,453,8PSK,0.75,1
+USA 263 (WGS),174.96,6GM9,Transmit,8503.3 - 9488.4,57.0 (EIRP),Greenland,Alaska,Canada,Southwest Canada,,,X-Band,172,BPSK,0.84,1
+USA 263 (WGS),174.96,GWS7,Receive,5252.1 - 6188.0,10.1 (G/T),Greenland,Alaska,Canada,Southwest Canada,,,C-Band,246,BPSK,0.78,1
+USA 263 (WGS),174.96,2DK6,Transmit,8085.6 - 9035.8,46.4 (EIRP),Greenland,Alaska,Canada,Southwest Canada,Eastern Canada,,X-Band,453,8PSK,0.75,1
+USA 263 (WGS),174.96,XMZE,Receive,5252.1 - 6188.0,10.1 (G/T),Greenland,Alaska,Canada,Southwest Canada,,,C-Band,246,BPSK,0.78,1
+USA 263 (WGS),174.96,9764,Transmit,5188.0 - 6164.5,50.1 (EIRP),Greenland,Alaska,,,,,C-Band,450,BPSK,0.82,1
+USA 263 (WGS),174.96,57X7,Transmit,8503.3 - 9488.4,57.0 (EIRP),Greenland,Alaska,Canada,Southwest Canada,,,X-Band,172,BPSK,0.84,1
+USA 263 (WGS),174.96,1JZ6,Transmit,8503.3 - 9488.4,57.0 (EIRP),Greenland,Alaska,Canada,Southwest Canada,,,X-Band,172,BPSK,0.84,1
+USA 263 (WGS),174.96,07BN,Transmit,6432.7 - 7217.2,53.9 (EIRP),Greenland,,,,,,C-Band,159,32QAM,0.76,1
+USA 263 (WGS),174.96,6XRE,Transmit,6430.6 - 7144.7,46.8 (EIRP),Global,,,,,,C-Band,241,8PSK,0.76,1
+USA 263 (WGS),174.96,D707,Transmit,10921.8 - 11894.8,56.2 (EIRP),Greenland,Alaska,Canada,Southwest Canada,,,X-Band,154,256QAM,0.75,1
+USA 263 (WGS),174.96,1QLP,Transmit,10769.0 - 11516.4,50.7 (EIRP),Greenland,Alaska,Canada,Southwest Canada,Eastern Canada,,X-Band,329,32QAM,0.81,1
+USA 263 (WGS),174.96,40G5,Transmit,6847.6 - 7803.4,51.6 (EIRP),Greenland,Alaska,,,,,C-Band,66,BPSK,0.85,1
+USA 263 (WGS),174.96,CR6W,Receive,6654.6 - 7520.1,6.2 (G/T),Greenland,Alaska,Canada,Southwest Canada,,,C-Band,75,16QAM,0.79,1
+USA 263 (WGS),174.96,3RM2,Transmit,4368.6 - 5144.9,56.9 (EIRP),Greenland,,,,,,C-Band,97,64QAM,0.89,1
+USA 263 (WGS),174.96,MRBW,Transmit,9911.4 - 10865.7,56.4 (EIRP),Global,North America,,,,,X-Band,334,16QAM,0.79,1
+USA 263 (WGS),174.96,CMEK,Transmit,6285.4 - 7279.8,52.3 (EIRP),Greenland,Alaska,Canada,,,,C-Band,349,128QAM,0.75,1
+USA 263 (WGS),174.96,0QMN,Transmit,4049.2 - 4735.7,52.4 (EIRP),Greenland,Alaska,Canada,Southwest Canada,Eastern Canada,West Coast of Europe,C-Band,442,BPSK,0.89,1
+USA 263 (WGS),174.96,QCR6,Transmit,6682.6 - 7337.1,58.1 (EIRP),Global,,,,,,C-Band,357,8PSK,0.9,1
+USA 263 (WGS),174.96,B2DH,Transmit,4101.3 - 4810.7,53.8 (EIRP),Global,,,,,,C-Band,130,128QAM,0.84,1
+USA 263 (WGS),174.96,MEM4,Transmit,10704.2 - 11204.6,58.6 (EIRP),Greenland,,,,,,X-Band,448,256QAM,0.8,1
+USA 272 (WGS),-150,T6V7,Receive,1000.0 - 1883.3,13.9 (G/T),Central Atlantic,Brazil,South America,Atlantic Ocean,,,L-Band,275,BPSK,0.86,1
+USA 272 (WGS),-150,3MWF,Transmit,1000.0 - 1523.9,55.1 (EIRP),Central Atlantic,Brazil,South America,Atlantic Ocean,Andean Region,Latin America,L-Band,93,8PSK,0.76,1
+USA 272 (WGS),-150,RTL2,Transmit,1000.0 - 1720.2,50.7 (EIRP),Central Atlantic,Brazil,South America,,,,L-Band,56,16QAM,0.79,1
+USA 272 (WGS),-150,59ST,Transmit,1000.0 - 1523.9,55.1 (EIRP),Central Atlantic,Brazil,South America,Atlantic Ocean,Andean Region,Latin America,L-Band,93,8PSK,0.76,1
+USA 272 (WGS),-150,OGQF,Receive,1000.0 - 1960.9,12.8 (G/T),Central Atlantic,Brazil,South America,Atlantic Ocean,Andean Region,,L-Band,460,8PSK,0.78,1
+USA 272 (WGS),-150,RPT5,Receive,1000.0 - 1806.1,7.6 (G/T),Central Atlantic,Brazil,,,,,L-Band,94,16QAM,0.76,1
+USA 272 (WGS),-150,S1N4,Transmit,1000.0 - 1599.0,55.5 (EIRP),Central Atlantic,Brazil,,,,,L-Band,73,256QAM,0.82,1
+USA 272 (WGS),-150,YSFG,Transmit,1000.0 - 1652.8,46.0 (EIRP),Central Atlantic,Brazil,South America,,,,L-Band,120,32QAM,0.83,1
+USA 272 (WGS),-150,X2CQ,Transmit,1000.0 - 1599.0,55.5 (EIRP),Central Atlantic,Brazil,,,,,L-Band,73,256QAM,0.82,1
+USA 272 (WGS),-150,F7YA,Transmit,1000.0 - 1955.0,57.5 (EIRP),Central Atlantic,Brazil,South America,Atlantic Ocean,Andean Region,Latin America,L-Band,337,16QAM,0.8,1
+USA 272 (WGS),-150,XYR1,Transmit,1000.0 - 1735.2,57.2 (EIRP),Global,,,,,,L-Band,387,128QAM,0.86,1
+USA 272 (WGS),-150,HCYZ,Transmit,1000.0 - 1996.8,45.5 (EIRP),Central Atlantic,Brazil,South America,,,,L-Band,95,256QAM,0.85,1
+USA 272 (WGS),-150,0C79,Transmit,1000.0 - 1955.0,57.5 (EIRP),Central Atlantic,Brazil,South America,Atlantic Ocean,Andean Region,Latin America,L-Band,337,16QAM,0.8,1
+USA 272 (WGS),-150,NJ5R,Transmit,1000.0 - 1756.1,48.4 (EIRP),Central Atlantic,Brazil,,,,,L-Band,74,BPSK,0.89,1
+USA 272 (WGS),-150,0LEB,Transmit,1000.0 - 1983.2,50.8 (EIRP),Central Atlantic,,,,,,L-Band,165,BPSK,0.89,1
+USA 272 (WGS),-150,GW7X,Transmit,1000.0 - 1761.9,45.6 (EIRP),Global,,,,,,L-Band,494,64QAM,0.77,1
+USA 272 (WGS),-150,5QWT,Transmit,1000.0 - 1955.0,57.5 (EIRP),Central Atlantic,Brazil,South America,Atlantic Ocean,Andean Region,Latin America,L-Band,337,16QAM,0.8,1
+USA 272 (WGS),-150,7UEJ,Transmit,1000.0 - 1996.8,45.5 (EIRP),Central Atlantic,Brazil,South America,,,,L-Band,95,256QAM,0.85,1
+USA 275 (WGS),149.81,Y4X4,Transmit,14298.0 - 15014.7,55.3 (EIRP),South Pacific,,,,,,Ku-Band,174,256QAM,0.88,1
+USA 275 (WGS),149.81,A9BQ,Transmit,14298.0 - 15014.7,55.3 (EIRP),South Pacific,,,,,,Ku-Band,174,256QAM,0.88,1
+USA 275 (WGS),149.81,TZZL,Receive,12935.8 - 13902.7,14.2 (G/T),Global,,,,,,Ku-Band,226,QPSK,0.8,1
+USA 275 (WGS),149.81,R4UL,Transmit,14298.0 - 15014.7,55.3 (EIRP),South Pacific,,,,,,Ku-Band,174,256QAM,0.88,1
+USA 275 (WGS),149.81,LPG9,Transmit,14298.0 - 15014.7,55.3 (EIRP),South Pacific,,,,,,Ku-Band,174,256QAM,0.88,1
+USA 275 (WGS),149.81,LGJC,Receive,13443.4 - 14180.6,6.4 (G/T),Global,,,,,,Ku-Band,140,BPSK,0.83,1
+USA 275 (WGS),149.81,IVVW,Transmit,15727.7 - 16422.5,51.9 (EIRP),South Pacific,Southern Pacific,Pacific Ocean,Pacific,Southeast Pacific,,Ku-Band,459,16QAM,0.85,1
+USA 275 (WGS),149.81,GBPX,Transmit,14389.9 - 14919.9,46.5 (EIRP),Global,,,,,,Ku-Band,113,8PSK,0.84,1
+USA 275 (WGS),149.81,FMPK,Transmit,6216.2 - 7177.6,50.3 (EIRP),South Pacific,Southern Pacific,Pacific Ocean,Pacific,,,C-Band,60,256QAM,0.89,1
+USA 275 (WGS),149.81,ELRV,Transmit,4183.3 - 4872.3,50.8 (EIRP),Global,,,,,,C-Band,418,128QAM,0.87,1
+USA 275 (WGS),149.81,JQSS,Transmit,15727.7 - 16422.5,51.9 (EIRP),South Pacific,Southern Pacific,Pacific Ocean,Pacific,Southeast Pacific,,Ku-Band,459,16QAM,0.85,1
+XTAR-EUR (XTAR),29.03,X6JN,Receive,8179.1 - 8821.1,10.3 (G/T),Guam,Asia Pacific,Japan,,,,X-Band,388,8PSK,0.79,1
+XTAR-EUR (XTAR),29.03,232U,Receive,8179.1 - 8821.1,10.3 (G/T),Guam,Asia Pacific,Japan,,,,X-Band,388,8PSK,0.79,1
+XTAR-EUR (XTAR),29.03,UPKD,Transmit,9747.1 - 10327.3,47.3 (EIRP),Guam,Asia Pacific,Japan,Korea,,,X-Band,127,64QAM,0.8,1
+XTAR-EUR (XTAR),29.03,LHBP,Transmit,10835.1 - 11495.0,55.0 (EIRP),Global,,,,,,X-Band,181,BPSK,0.89,1
+XTAR-EUR (XTAR),29.03,PN8K,Transmit,10857.0 - 11523.8,54.1 (EIRP),Global,,,,,,X-Band,321,8PSK,0.85,1
+XTAR-EUR (XTAR),29.03,JHEF,Transmit,9853.3 - 10536.4,55.5 (EIRP),Guam,Asia Pacific,Japan,Korea,East Asia,,X-Band,468,32QAM,0.79,1
+XTAR-EUR (XTAR),29.03,QAII,Transmit,10477.1 - 11450.8,50.7 (EIRP),Guam,,,,,,X-Band,327,128QAM,0.85,1
+XTAR-EUR (XTAR),29.03,4HT5,Receive,8179.1 - 8821.1,10.3 (G/T),Guam,Asia Pacific,Japan,,,,X-Band,388,8PSK,0.79,1
+XTAR-EUR (XTAR),29.03,NQHP,Transmit,10298.8 - 10801.9,47.1 (EIRP),Guam,Asia Pacific,,,,,X-Band,144,128QAM,0.8,1
+XTAR-EUR (XTAR),29.03,QF7O,Transmit,10298.8 - 10801.9,47.1 (EIRP),Guam,Asia Pacific,Southeast Asia,,,,X-Band,144,128QAM,0.8,1
+XTAR-EUR (XTAR),29.03,F7IA,Transmit,9747.1 - 10327.3,47.3 (EIRP),Guam,Asia Pacific,Japan,Korea,,,X-Band,127,64QAM,0.8,1
+XTAR-EUR (XTAR),29.03,Q7Z2,Transmit,10298.8 - 10801.9,47.1 (EIRP),Guam,Asia Pacific,,,,,X-Band,144,128QAM,0.8,1
+XTAR-EUR (XTAR),29.03,3NLT,Receive,10279.1 - 10829.2,9.9 (G/T),Guam,Asia Pacific,,,,,X-Band,355,8PSK,0.78,1
+XTAR-EUR (XTAR),29.03,K4EJ,Transmit,10857.0 - 11523.8,54.1 (EIRP),Global,,,,,,X-Band,321,8PSK,0.85,1

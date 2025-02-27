@@ -1,0 +1,110 @@
+﻿Generalized Location,Location,Latitude,Longitude
+Africa,Africa,0,20
+CONUS,Alaska,64,-152
+MENA,Algeria,28,3
+LATAM,Andean Region,-15,-72
+LATAM,Argentina,-38,-64
+APAC,Asia,34,100
+APAC,Asia Pacific,0,130
+Global,Atlantic Ocean,0,-30
+Global,Atlantic Region,35,-40
+Oceania,Australia,-25,133
+LATAM,Brazil,-14,-51
+North America,Canada,56,-106
+LATAM,Caribbean,18,-72
+Africa,Central Africa,0,20
+LATAM,Central America,12,-85
+Global,Central Atlantic,0,-40
+CONUS,Central United States,39,-98
+CONUS,Cheyenne WY,41,-104
+APAC,China,35,105
+CONUS,Continental United States,40,-98
+APAC,East Asia,30,120
+APAC,East Indian Ocean Region,-5,90
+CONUS,East coast of the United States,38,-78
+Africa,Eastern Africa,0,38
+APAC,Eastern Asia,35,120
+Oceania,Eastern Australia,-30,145
+Global,Eastern Canada,50,-80
+Global,Eastern Hemisphere,30,90
+CONUS,Eastern United States,37,-82
+Europe,Europe,50,10
+LATAM,Falkland Islands,-51.7,-59.5
+LATAM,Galapagos Islands,-0.4,-90.3
+CONUS,Gilbert AZ,33.3,-111.7
+Global,Global,0,0
+North America,Greenland,72,-40
+Oceania,Guam,13.4,144.8
+CONUS,Hawaii,19.9,-155.6
+APAC,India,20,77
+APAC,Indochina,15,105
+APAC,Indonesia,-5,120
+APAC,Japan,36,138
+APAC,Korea,36,128
+LATAM,Latin America,0,-80
+APAC,Malaysia,4,102
+MENA,Mediterranean,38,15
+LATAM,Mexico,23,-102
+LATAM,Mexico City,19.4,-99.1
+Africa,Mid and Southern Africa,-10,25
+Africa,Middle Africa,0,20
+MENA,Middle East,29,41
+MENA,Mozambique,-18.7,35.5
+APAC,New Zealand,-41,174
+MENA,North Africa,28,13
+North America,North America,40,-100
+North America,North East,42,-72
+APAC,North East Asia,40,127
+APAC,North Pacific,30,-170
+North America,North West,45,-110
+Africa,Northern Africa,25,15
+APAC,Northern China,40,110
+APAC,Northern Pacific,40,-170
+LATAM,Northern South America,5,-65
+CONUS,Northern United States,45,-100
+LATAM,Northwest Mexico,28,-110
+CONUS,Northwestern United States,45,-116
+APAC,Pacific,0,-160
+APAC,Pacific Ocean,0,-160
+LATAM,Puerto Rico,18.2,-66.5
+Europe,Russia,60,100
+Africa,South Africa,-29,24
+LATAM,South America,-15,-60
+APAC,South Asia,20,80
+North America,South Cone,-35,-65
+North America,South East,33,-82
+APAC,South East Pacific,-20,-120
+Europe,South Europe,40,15
+APAC,South Pacific,-20,-160
+North America,South West,33,-112
+MENA,South West Africa,-22,18
+APAC,South West Pacific,-20,160
+CONUS,South West United States,33,-112
+APAC,Southeast Asia,10,106
+APAC,Southeast Pacific,-20,-120
+Africa,Southern Africa,-25,25
+CONUS,Southern Continental United States,33,-98
+Europe,Southern Europe,40,15
+APAC,Southern Pacific,-30,-160
+LATAM,Southern South America,-40,-65
+CONUS,Southern United States,33,-98
+North America,Southwest Canada,52,-120
+CONUS,Southwest United States,33,-112
+APAC,Southwestern Pacific,-20,160
+CONUS,Southwestern United States,33,-112
+Africa,Sub-Saharan Africa,5,20
+APAC,Thailand,15,101
+LATAM,US Virgin Islands,18.3,-64.8
+CONUS,United States,40,-98
+CONUS,United States West Coast,37,-122
+CONUS,Washington State,47.4,-120.7
+MENA,West Africa,10,0
+APAC,West Asia,35,60
+Europe,West Coast of Europe,50,-5
+Europe,West Europe,50,5
+APAC,West Indian Ocean Region,-10,60
+Global,Western Australia,-25,120
+Europe,Western Europe,50,5
+Global,Western Hemisphere,0,-90
+Global,Western North America,45,-120
+CONUS,Western United States,40,-115

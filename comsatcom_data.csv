@@ -1,0 +1,1321 @@
+﻿Satellite Name,Orbital Location,Beam Name,Type,Frequency Range (MHz),EIRP (dBW) / G/T (dB/K),Service Area 1,Service Area 2,Service Area 3,Service Area 4,Service Area 5,Service Area 6,Band,Bandwidth Capacity (MHz),Modulation,FEC,Integrated
+AFRISTAR-2,21,AU2,Receive,7025.0 - 7075.0,-10.0 (G/T),Global,,,,,,C-Band,72,QPSK,0.42,0
+AFRISTAR-2,21,SD1,Transmit,1452.0 - 1492.0,59.8 (EIRP),Global,,,,,,L-Band,2.6,QPSK,0.42,0
+AFRISTAR-2,21,DD2,Transmit,1452.0 - 1492.0,-2.0 (EIRP),Global,,,,,,L-Band,0.5,QPSK,0.42,0
+AMAZONAS NEXUS,-61,US3V,Receive,13750.0 - 14500.0,11.1 (G/T),Continental United States,Atlantic Ocean,,,,,Ku-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,WB1V,Receive,14000.0 - 14250.0,5.1 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,US1V,Receive,13750.0 - 14500.0,17.4 (G/T),Continental United States,Caribbean,,,,,Ku-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,GW1L,Receive,27500.0 - 28600.0,18.2 (G/T),Continental United States,,,,,,Ka-Band,1100,QPSK,0.667,0
+AMAZONAS NEXUS,-61,WB1H,Receive,14000.0 - 14250.0,5.1 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,US1H,Receive,13750.0 - 14500.0,17.4 (G/T),Continental United States,Caribbean,,,,,Ku-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,GW1R,Receive,27500.0 - 28600.0,18.2 (G/T),Continental United States,,,,,,Ka-Band,1100,QPSK,0.667,0
+AMAZONAS NEXUS,-61,US3H,Receive,13750.0 - 14500.0,11.1 (G/T),Puerto Rico,Caribbean,,,,,Ku-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,WB2V,Transmit,11700.0 - 11950.0,53.3 (EIRP),Continental United States,,,,,,X-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,US2V,Transmit,10700.0 - 12200.0,64.1 (EIRP),Continental United States,Caribbean,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,GW2L,Transmit,17850.0 - 18800.0,64.4 (EIRP),Continental United States,,,,,,Ku-Band,950,QPSK,0.667,0
+AMAZONAS NEXUS,-61,WB2H,Transmit,11700.0 - 11950.0,53.3 (EIRP),Continental United States,,,,,,X-Band,36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,US2H,Transmit,10700.0 - 12200.0,64.1 (EIRP),Continental United States,Caribbean,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,GW2R,Transmit,17850.0 - 18800.0,64.4 (EIRP),Continental United States,,,,,,Ku-Band,950,QPSK,0.667,0
+AMAZONAS NEXUS,-61,US4V,Transmit,10700.0 - 12200.0,62.8 (EIRP),Puerto Rico,Caribbean,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+AMAZONAS NEXUS,-61,US4H,Transmit,10700.0 - 12200.0,62.8 (EIRP),Continental United States,Atlantic Ocean,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+AMAZONAS-2,-61,KURV,Receive,12750.0 - 13000.0,6.7 (G/T),Continental United States,Puerto Rico,,,,,Ku-Band,36,QPSK,0.5,0
+AMAZONAS-2,-61,KURH,Receive,12750.0 - 13250.0,6.7 (G/T),Continental United States,Puerto Rico,,,,,Ku-Band,36,QPSK,0.5,0
+AMAZONAS-2,-61,KUTH,Transmit,10700.0 - 10950.0,52.0 (EIRP),Continental United States,Puerto Rico,,,,,X-Band,36,QPSK,0.5,0
+AMAZONAS-2,-61,KUTv,Transmit,10700.0 - 10950.0,52.0 (EIRP),Continental United States,Puerto Rico,,,,,X-Band,36,QPSK,0.5,0
+AMAZONAS-2,-61,KUT,Transmit,11200.0 - 11450.0,52.0 (EIRP),Continental United States,Puerto Rico,,,,,X-Band,36,QPSK,0.5,0
+AMAZONAS-3,-61,CRH,Receive,5850.0 - 6425.0,-1.0 (G/T),Global,,,,,,C-Band,54,QPSK,0.66666667,0
+AMAZONAS-3,-61,CRV,Receive,5850.0 - 6425.0,-1.0 (G/T),Global,,,,,,C-Band,54,QPSK,0.66666667,0
+AMAZONAS-3,-61,KUR,Receive,14000.0 - 14500.0,4.7 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.66666667,0
+AMAZONAS-3,-61,CTH,Transmit,3625.0 - 4200.0,41.0 (EIRP),Global,,,,,,C-Band,54,QPSK,0.66666667,0
+AMAZONAS-3,-61,CTV,Transmit,3625.0 - 4200.0,41.0 (EIRP),Global,,,,,,C-Band,54,QPSK,0.66666667,0
+AMAZONAS-3,-61,KUT,Transmit,11700.0 - 12200.0,48.0 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.66666667,0
+AMAZONAS-3,-61,KUTV,Transmit,11700.0 - 12200.0,48.0 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.66666667,0
+AMC-11,-111,CMD,Receive,6423.0 - 6424.0,-14.3 (G/T),Global,,,,,,C-Band,0.4,QPSK,0.66666667,1
+AMC-11,-111,ARV,Receive,5925.0 - 6425.0,5.2 (G/T),North America,,,,,,C-Band,36,QPSK,0.66666667,1
+AMC-11,-111,ARH,Receive,5925.0 - 6425.0,5.2 (G/T),North America,,,,,,C-Band,36,QPSK,0.66666667,1
+AMC-11,-111,ATH,Transmit,3700.0 - 4200.0,42.5 (EIRP),North America,,,,,,C-Band,36,QPSK,0.66666667,1
+AMC-11,-111,ATV,Transmit,3700.0 - 4200.0,42.5 (EIRP),North America,,,,,,C-Band,36,QPSK,0.66666667,1
+AMC-11,-111,TM1,Transmit,3700.0 - 3701.0,13.0 (EIRP),Global,,,,,,L-Band,0.12,QPSK,0.66666667,1
+AMC-11,-111,TM2,Transmit,4199.0 - 4200.0,13.0 (EIRP),Global,,,,,,C-Band,0.12,QPSK,0.66666667,1
+AMC-11,-111,TM3,Transmit,4199.0 - 4200.0,13.0 (EIRP),Global,,,,,,C-Band,0.12,QPSK,0.66666667,1
+AMC-15,-105.05,TC1,Receive,14001.1 - 14001.9,0.0 (G/T),Global,,,,,,Ku-Band,0.8,QPSK,0.5,1
+AMC-15,-105.05,KURV,Receive,14000.0 - 14500.0,6.06 (G/T),North America,Caribbean,Central America,,,,Ku-Band,36,QPSK,0.875,1
+AMC-15,-105.05,KURH,Receive,14000.0 - 14500.0,5.98 (G/T),North America,Caribbean,Central America,,,,Ku-Band,36,QPSK,0.875,1
+AMC-15,-105.05,2AU,Receive,29500.0 - 30000.0,17.34 (G/T),North America,Caribbean,Central America,,,,Ka-Band,125,QPSK,0.875,1
+AMC-15,-105.05,1AU,Receive,28400.0 - 28600.0,17.34 (G/T),North America,Caribbean,Central America,,,,Ka-Band,125,QPSK,0.875,1
+AMC-15,-105.05,KUTV,Transmit,11700.0 - 12200.0,52.72 (EIRP),North America,Caribbean,Central America,,,,"X-Band, Ku-Band",36,QPSK,0.875,1
+AMC-15,-105.05,KUTH,Transmit,11700.0 - 12200.0,51.91 (EIRP),North America,Caribbean,Central America,,,,"X-Band, Ku-Band",36,QPSK,0.875,1
+AMC-15,-105.05,1BD,Transmit,18580.0 - 18800.0,61.74 (EIRP),North America,Caribbean,Central America,,,,Ku-Band,125,QPSK,0.875,1
+AMC-15,-105.05,2BD,Transmit,19700.0 - 20200.0,61.74 (EIRP),North America,Caribbean,Central America,,,,Ku-Band,125,QPSK,0.875,1
+AMC-18,-83,CMD,Receive,6422.5 - 6424.5,-12.6 (G/T),Global,,,,,,C-Band,2,QPSK,0.69,1
+AMC-18,-83,CRV,Receive,5925.0 - 6425.0,3.83 (G/T),Continental United States,Canada,,,,,C-Band,500,QPSK,0.69,1
+AMC-18,-83,CRH,Receive,5925.0 - 6425.0,3.84 (G/T),Continental United States,Canada,,,,,C-Band,500,QPSK,0.69,1
+AMC-18,-83,CTM,Transmit,3700.0 - 4200.0,6.0 (EIRP),Global,,,,,,C-Band,500,QPSK,0.69,1
+AMC-18,-83,CTH,Transmit,3700.0 - 4200.0,41.68 (EIRP),Continental United States,Canada,,,,,C-Band,500,QPSK,0.69,1
+AMC-18,-83,CTV,Transmit,3700.0 - 4200.0,41.89 (EIRP),Continental United States,Canada,,,,,C-Band,500,QPSK,0.69,1
+AMC-4,-135,KSRH,Receive,13750.0 - 14500.0,4.85 (G/T),Pacific Ocean,North America,,,,,Ku-Band,36,QPSK,0.5,1
+AMC-4,-135,KSRV,Receive,13750.0 - 14500.0,5.16 (G/T),Pacific Ocean,North America,,,,,Ku-Band,36,QPSK,0.5,1
+AMC-4,-135,CRH,Receive,5925.0 - 6425.0,5.86 (G/T),Pacific Ocean,North America,Caribbean,,,,C-Band,36,QPSK,0.5,1
+AMC-4,-135,KNRH,Receive,13750.0 - 14500.0,5.92 (G/T),Pacific Ocean,North America,,,,,Ku-Band,36,QPSK,0.5,1
+AMC-4,-135,CRV,Receive,5925.0 - 6425.0,5.46 (G/T),Pacific Ocean,North America,Caribbean,,,,C-Band,36,QPSK,0.5,1
+AMC-4,-135,KNRV,Receive,13750.0 - 14500.0,5.59 (G/T),Pacific Ocean,North America,,,,,Ku-Band,36,QPSK,0.5,1
+AMC-4,-135,CMD,Receive,6422.5 - 6424.5,-17.0 (G/T),Global,,,,,,C-Band,0.8,QPSK,0.5,1
+AMC-4,-135,CTV,Transmit,3700.0 - 4200.0,41.72 (EIRP),Pacific Ocean,North America,,,,,C-Band,36,QPSK,0.5,1
+AMC-4,-135,CTH,Transmit,3700.0 - 4200.0,41.52 (EIRP),Pacific Ocean,North America,,,,,C-Band,36,QPSK,0.5,1
+AMC-4,-135,KSTH,Transmit,11450.0 - 12200.0,50.91 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+AMC-4,-135,KSTV,Transmit,11450.0 - 12200.0,51.21 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+AMC-4,-135,KNTV,Transmit,11450.0 - 12200.0,52.39 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+AMC-4,-135,CTM,Transmit,3700.0 - 4200.0,7.6 (EIRP),Global,,,,,,C-Band,0.65,QPSK,0.5,1
+AMC-4,-135,KNTH,Transmit,11450.0 - 12200.0,52.47 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+AMC-4,-135,DNV,Transmit,11700.0 - 12200.0,52.39 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+AMC-4,-135,DNH,Transmit,11700.0 - 12200.0,52.47 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+AMC-4,-135,DSH,Transmit,11700.0 - 12200.0,50.91 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+AMC-4,-135,DSV,Transmit,11700.0 - 12200.0,51.21 (EIRP),Pacific Ocean,North America,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+ANIK F1,-109.2,K18S-K32S,Receive,14000.0 - 14500.0,3.6 to 3.9 (G/T),Continental United States,Caribbean,Central America,,,,Ku-Band,27,QPSK,0.5,0
+ANIK F1,-109.2,CMD,Receive,14498.75 - 14499.75,-32.5 (G/T),Cheyenne WY,,,,,,Ku-Band,1,QPSK,0.5,0
+ANIK F1,-109.2,K01S-K17S,Receive,14000.0 - 14500.0,3.6 to 3.9 (G/T),Continental United States,Caribbean,Central America,,,,Ku-Band,27,QPSK,0.5,0
+ANIK F1,-109.2,T01S-T32S,Transmit,11700.0 - 12200.0,49.2 to 51.3 (EIRP),Continental United States,Caribbean,Central America,,,,"X-Band, Ku-Band",27,QPSK,0.5,0
+ANIK F1,-109.2,TM1,Transmit,11700.1 - 11700.4,15.0 (EIRP),Global,,,,,,X-Band,0.3,QPSK,0.5,0
+ANIK F1,-109.2,TM2,Transmit,11700.6 - 11700.9,15.0 (EIRP),Global,,,,,,X-Band,0.3,QPSK,0.5,0
+ANIK F1R,-107.3,CNT,Transmit,3700.0 - 4200.0,43.0 (EIRP),Canada,United States,Alaska,Hawaii,,,C-Band,36,QPSK,0.6,0
+ANIK F1R,-107.3,CNR,Receive,5925.0 - 6425.0,1.0 (G/T),Canada,United States,Alaska,Hawaii,,,C-Band,36,QPSK,0.875,0
+ANIK F1R,-107.3,KNT,Transmit,11700.0 - 12200.0,52.5 (EIRP),Canada,United States,Alaska,Hawaii,,,"X-Band, Ku-Band",27,8PSK,0.875,0
+ANIK F1R,-107.3,KNR,Receive,14000.0 - 14500.0,9.0 (G/T),Canada,United States,Alaska,Hawaii,,,Ku-Band,27,8PSK,0.875,0
+ARSAT-2,-81,CUH,Receive,17300.0 - 17800.0,3.7 (G/T),South America,,,,,,Ku-Band,72,QPSK,0.75,0
+ARSAT-2,-81,CUV,Receive,17300.0 - 17800.0,3.7 (G/T),South America,,,,,,Ku-Band,72,QPSK,0.75,0
+ARSAT-2,-81,KNUH,Receive,14000.0 - 14500.0,8.0 (G/T),South America,,,,,,Ku-Band,72,QPSK,0.75,0
+ARSAT-2,-81,KNUV,Receive,14000.0 - 14500.0,8.0 (G/T),South America,,,,,,Ku-Band,72,QPSK,0.75,0
+ARSAT-2,-81,CDH,Transmit,11700.0 - 12200.0,41.9 (EIRP),South America,,,,,,"X-Band, Ku-Band",72,QPSK,0.75,0
+ARSAT-2,-81,CDV,Transmit,11700.0 - 12200.0,41.9 (EIRP),South America,,,,,,"X-Band, Ku-Band",72,QPSK,0.75,0
+ARSAT-2,-81,KNDH,Transmit,11700.0 - 12200.0,51.9 (EIRP),South America,,,,,,"X-Band, Ku-Band",72,QPSK,0.75,0
+ARSAT-2,-81,KNDV,Transmit,11700.0 - 12200.0,51.9 (EIRP),South America,,,,,,"X-Band, Ku-Band",72,QPSK,0.75,0
+ARSAT-2,-81,TMH,Transmit,11700.0 - 12200.0,18.65 (EIRP),South America,,,,,,"X-Band, Ku-Band",0.25,QPSK,0.75,0
+ARSAT-2,-81,TMV,Transmit,11700.0 - 12200.0,18.65 (EIRP),South America,,,,,,"X-Band, Ku-Band",0.25,QPSK,0.75,0
+ASIASTAR,21,X1,Receive,7025.0 - 7075.0,-8.0 (G/T),Middle East,Africa,Southern Europe,,,,C-Band,50,QPSK,0.75,0
+ASIASTAR,21,TM2,Transmit,1491.0 - 1492.0,9.0 (EIRP),Global,,,,,,L-Band,1,QPSK,0.75,0
+ASIASTAR,21,TM1,Transmit,1452.0 - 1453.0,9.0 (EIRP),Global,,,,,,L-Band,1,QPSK,0.75,0
+ASIASTAR,21,L6,Transmit,1486.584 - 1489.184,53.7 (EIRP),Global,,,,,,L-Band,2.6,QPSK,0.75,0
+ASIASTAR,21,L5,Transmit,1480.144 - 1482.744,53.7 (EIRP),Global,,,,,,L-Band,2.6,QPSK,0.75,0
+ASIASTAR,21,L4,Transmit,1471.864 - 1474.464,53.7 (EIRP),Global,,,,,,L-Band,2.6,QPSK,0.75,0
+ASIASTAR,21,L3,Transmit,1484.284 - 1486.884,53.7 (EIRP),Global,,,,,,L-Band,2.6,QPSK,0.75,0
+ASIASTAR,21,L2,Transmit,1469.564 - 1472.164,53.7 (EIRP),Global,,,,,,L-Band,2.6,QPSK,0.75,0
+ASIASTAR,21,L1,Transmit,1476.004 - 1478.604,53.7 (EIRP),Global,,,,,,L-Band,2.6,QPSK,0.75,0
+CIEL-6I,-103,KAUL,Receive,24750.0 - 25250.0,7.4 (G/T),North America,Alaska,Hawaii,,,,Ku-Band,500,QPSK,0.5,1
+CIEL-6I,-103,KADL,Transmit,17300.0 - 17800.0,33.6 (EIRP),North America,Alaska,Hawaii,,,,Ku-Band,500,QPSK,0.5,1
+CIEL-6I,-103,KAD,Transmit,17300.0 - 17800.0,33.6 (EIRP),North America,Alaska,Hawaii,,,,Ku-Band,500,QPSK,0.5,1
+ECHOSTAR 11,-110,RR1,Receive,17300.0 - 17800.0,7.6 (G/T),Cheyenne WY,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,RL1,Receive,17300.0 - 17800.0,7.6 (G/T),Cheyenne WY,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,RR2,Receive,17300.0 - 17800.0,6.7 (G/T),Gilbert AZ,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,RL2,Receive,17300.0 - 17800.0,6.7 (G/T),Gilbert AZ,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,OMN,Receive,17300.0 - 17800.0,-37.0 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+ECHOSTAR 11,-110,TRH,Transmit,12200.0 - 12700.0,56.2 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,TLH,Transmit,12200.0 - 12700.0,56.2 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,TRS,Transmit,12200.0 - 12700.0,58.8 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,TLS,Transmit,12200.0 - 12700.0,58.8 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 11,-110,OMN,Transmit,12200.0 - 12700.0,14.8 (EIRP),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+ECHOSTAR 11,-110,TMO,Transmit,12200.0 - 12700.0,17.2 (EIRP),Continental United States,,,,,,Ku-Band,1,QPSK,0.5,1
+ECHOSTAR 23,-110,RX2L,Receive,17300.0 - 17800.0,17.6 (G/T),Global,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 23,-110,RX2R,Receive,17300.0 - 17800.0,17.6 (G/T),Global,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 23,-110,RX1L,Receive,17300.0 - 17800.0,17.6 (G/T),Global,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 23,-110,RX1R,Receive,17300.0 - 17800.0,17.6 (G/T),Global,,,,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 23,-110,CMDR,Receive,17790.5 - 17791.5,3.8 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+ECHOSTAR 23,-110,CMDL,Receive,17300.0 - 17310.0,3.8 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+ECHOSTAR 23,-110,TXL,Transmit,12200.0 - 12700.0,59.4 (EIRP),Continental United States,Alaska,Hawaii,Puerto Rico,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 23,-110,TXR,Transmit,12200.0 - 12700.0,59.4 (EIRP),Continental United States,Alaska,Hawaii,Puerto Rico,,,Ku-Band,24,QPSK,0.6912,1
+ECHOSTAR 23,-110,TLM,Transmit,12200.0 - 12210.0,14.8 (EIRP),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+ECHOSTAR XXIV,-95,GR3L,Receive,28600.0 - 29100.0,28.8 (G/T),North America,Central America,South America,,,,Ka-Band,500,QPSK,0.5,1
+ECHOSTAR XXIV,-95,CMD1,Receive,29992.0 - 29997.0,29.8 (G/T),North America,Central America,South America,,,,Ka-Band,2,QPSK,0.5,1
+ECHOSTAR XXIV,-95,UT5R,Transmit,18300.0 - 19300.0,63.7 (EIRP),North America,Central America,South America,,,,Ku-Band,1000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,UT5L,Transmit,18300.0 - 19300.0,63.7 (EIRP),North America,Central America,South America,,,,Ku-Band,1000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,UT3R,Transmit,18300.0 - 19300.0,60.5 (EIRP),North America,Central America,South America,,,,Ku-Band,1000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,UT3L,Transmit,18300.0 - 19300.0,60.5 (EIRP),North America,Central America,South America,,,,Ku-Band,1000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,UT1R,Transmit,18300.0 - 19300.0,69.0 (EIRP),North America,Central America,South America,,,,Ku-Band,1000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,UT1L,Transmit,18300.0 - 19300.0,69.0 (EIRP),North America,Central America,South America,,,,Ku-Band,1000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,GT1L,Transmit,40000.0 - 42000.0,63.7 (EIRP),North America,Central America,South America,,,,Ka-Band,2000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,GT1R,Transmit,40000.0 - 42000.0,63.7 (EIRP),North America,Central America,South America,,,,Ka-Band,2000,QPSK,0.5,1
+ECHOSTAR XXIV,-95,VT5R,Transmit,19700.0 - 20200.0,57.8 (EIRP),North America,Central America,South America,,,,Ku-Band,500,QPSK,0.5,1
+ECHOSTAR XXIV,-95,VT5L,Transmit,19700.0 - 20200.0,57.8 (EIRP),North America,Central America,South America,,,,Ku-Band,500,QPSK,0.5,1
+ECHOSTAR XXIV,-95,VT3R,Transmit,19700.0 - 20200.0,60.5 (EIRP),North America,Central America,South America,,,,Ku-Band,500,QPSK,0.5,1
+ECHOSTAR XXIV,-95,VT3L,Transmit,19700.0 - 20200.0,60.5 (EIRP),North America,Central America,South America,,,,Ku-Band,500,QPSK,0.5,1
+ECHOSTAR XXIV,-95,VT1R,Transmit,19700.0 - 20200.0,69.0 (EIRP),North America,Central America,South America,,,,Ku-Band,500,QPSK,0.5,1
+ECHOSTAR XXIV,-95,VT1L,Transmit,19700.0 - 20200.0,69.0 (EIRP),North America,Central America,South America,,,,Ku-Band,500,QPSK,0.5,1
+ECHOSTAR-15,-72.6,NAR,Receive,17300.0 - 17800.0,-10.0 (G/T),Cheyenne WY,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,NAR,Receive,17300.0 - 17800.0,-10.0 (G/T),Gilbert AZ,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,RR1,Receive,17300.0 - 17800.0,7.6 (G/T),Cheyenne WY,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,RL1,Receive,17300.0 - 17800.0,7.6 (G/T),Cheyenne WY,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,RR2,Receive,17300.0 - 17800.0,7.4 (G/T),Gilbert AZ,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,RL2,Receive,17300.0 - 17800.0,7.4 (G/T),Gilbert AZ,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,TEL,Transmit,12200.0 - 12700.0,58.1 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,TER,Transmit,12200.0 - 12700.0,58.1 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,TMO,Transmit,12200.0 - 12700.0,18.0 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,TWL,Transmit,12200.0 - 12700.0,58.1 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-15,-72.6,TWR,Transmit,12200.0 - 12700.0,58.1 (EIRP),Continental United States,,,,,,Ku-Band,24,QPSK,0.667,1
+ECHOSTAR-18,-61.35,CMD,Receive,17790.0 - 17800.0,-17.4 (G/T),Continental United States,,,,,,Ku-Band,1,QPSK,0.25,1
+ECHOSTAR-18,-61.35,OMN,Receive,17302.5 - 17303.5,-29.4 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.25,1
+ECHOSTAR-18,-61.35,TLMR,Transmit,12690.0 - 12700.0,14.3 (EIRP),Continental United States,,,,,,Ku-Band,1,QPSK,0.25,1
+ECHOSTAR-18,-61.35,TLML,Transmit,12202.5 - 12204.5,14.3 (EIRP),Continental United States,,,,,,Ku-Band,1,QPSK,0.25,1
+EchoStar-9,-121,KURH,Receive,14000.0 - 14500.0,7.7 (G/T),Continental United States,Mexico,Canada,Caribbean,,,Ku-Band,36,QPSK,0.691,1
+EchoStar-9,-121,KURV,Receive,14000.0 - 14500.0,-7.77 (G/T),Continental United States,Canada,Mexico,Caribbean,,,Ku-Band,36,QPSK,0.691,1
+EchoStar-9,-121,KUTH,Transmit,11700.0 - 12200.0,53.45 (EIRP),Continental United States,Canada,Mexico,Caribbean,,,"X-Band, Ku-Band",36,QPSK,0.691,1
+EchoStar-9,-121,KUTV,Transmit,11700.0 - 12200.0,54.86 (EIRP),Continental United States,Canada,Mexico,Caribbean,,,"X-Band, Ku-Band",36,QPSK,0.691,1
+ESTRELA DO SUL 2,-63,ARX,Receive,13750.0 - 14500.0,5.9 (G/T),Andean Region,,,,,,Ku-Band,36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,BRX,Receive,13750.0 - 14500.0,6.9 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,URX,Receive,13750.0 - 14500.0,5.9 (G/T),United States,,,,,,Ku-Band,36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,NRX,Receive,13750.0 - 14500.0,5.9 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,SRX,Receive,13750.0 - 14500.0,6.9 (G/T),South Cone,,,,,,Ku-Band,36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,ATXV,Transmit,11450.0 - 12200.0,52.0 (EIRP),Andean Region,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,BTXH,Transmit,11450.0 - 12200.0,53.0 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,BTXV,Transmit,11450.0 - 12200.0,53.0 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,UTX,Transmit,11450.0 - 12200.0,52.0 (EIRP),United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,UTXV,Transmit,11450.0 - 12200.0,52.0 (EIRP),United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,NTX,Transmit,11450.0 - 12200.0,52.0 (EIRP),North America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,NTXV,Transmit,11450.0 - 12200.0,52.0 (EIRP),North America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+ESTRELA DO SUL 2,-63,STXV,Transmit,11450.0 - 12200.0,53.0 (EIRP),South Cone,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,
+EUTELSAT 113 WEST A,-113,CCU,Receive,5925.0 - 6425.0,4.0 (G/T),South America,,,,,,C-Band,36,QPSK,0.75,1
+EUTELSAT 113 WEST A,-113,CCU,Receive,5925.0 - 6425.0,4.0 (G/T),South America,,,,,,C-Band,36,QPSK,0.75,1
+EUTELSAT 113 WEST A,-113,CCD,Transmit,3700.0 - 4200.0,45.3 (EIRP),South America,,,,,,C-Band,36,QPSK,0.75,1
+EUTELSAT 113 WEST A,-113,CCD,Transmit,3700.0 - 4200.0,45.5 (EIRP),South America,,,,,,C-Band,36,QPSK,0.75,1
+EUTELSAT 113 WEST A,-113,CHU,Receive,14000.0 - 14500.0,1.7 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.75,1
+EUTELSAT 113 WEST A,-113,CHU,Receive,14000.0 - 14500.0,0.9 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.75,1
+EUTELSAT 113 WEST A,-113,CHD,Transmit,11700.0 - 12200.0,43.1 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.75,1
+EUTELSAT 113 WEST A,-113,CHD,Transmit,11700.0 - 12200.0,41.2 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,CRH,Receive,5925.0 - 6425.0,5.8 (G/T),Canada,Continental United States,Alaska,Mexico,Galapagos Islands,South America,C-Band,72,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,CRV,Receive,5925.0 - 6425.0,5.8 (G/T),Canada,Continental United States,Alaska,Mexico,Galapagos Islands,South America,C-Band,72,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,CTH,Transmit,3700.0 - 4200.0,47.1 (EIRP),Canada,Continental United States,Alaska,Mexico,Galapagos Islands,South America,C-Band,72,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,CTV,Transmit,3700.0 - 4200.0,47.1 (EIRP),Canada,Continental United States,Alaska,Mexico,Galapagos Islands,South America,C-Band,72,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,KU1R,Receive,14000.0 - 14500.0,10.8 (G/T),Mexico,Southern United States,,,,,Ku-Band,54,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,KU1T,Transmit,11700.0 - 12200.0,55.3 (EIRP),Mexico,Southern United States,,,,,"X-Band, Ku-Band",54,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,KU3R,Receive,14000.0 - 14500.0,9.1 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,KU3T,Transmit,11700.0 - 12200.0,54.0 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,KU4R,Receive,14000.0 - 14500.0,8.4 (G/T),Canada,Continental United States,Alaska,Hawaii,,,Ku-Band,54,QPSK,0.75,1
+EUTELSAT 115 WEST B,-114.9,KU4T,Transmit,11700.0 - 12200.0,53.4 (EIRP),Canada,Continental United States,Alaska,Hawaii,,,"X-Band, Ku-Band",54,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F1H1,Receive,13750.0 - 14000.0,7.6 (G/T),Continental United States,,,,,,Ku-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F1H2,Receive,14000.0 - 14500.0,7.6 (G/T),Continental United States,,,,,,Ku-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F1V1,Receive,13750.0 - 14000.0,7.6 (G/T),Continental United States,,,,,,Ku-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F1V2,Receive,14000.0 - 14500.0,7.6 (G/T),Continental United States,,,,,,Ku-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,TCH,Receive,13750.0 - 13755.0,-5.5 (G/T),Global,,,,,,Ku-Band,0.6,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F2H1,Transmit,10950.0 - 11200.0,51.5 (EIRP),Continental United States,,,,,,X-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F2H2,Transmit,11450.0 - 11700.0,51.5 (EIRP),Continental United States,,,,,,X-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F2H3,Transmit,12500.0 - 12750.0,51.5 (EIRP),Continental United States,,,,,,Ku-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F2V1,Transmit,10950.0 - 11200.0,51.5 (EIRP),Continental United States,,,,,,X-Band,72,QPSK,0.75,1
+EUTELSAT 139 WEST A,-139,F2V2,Transmit,11450.0 - 11700.0,51.5 (EIRP),Continental United States,,,,,,X-Band,72,QPSK,0.75,1
+EUTELSAT 172B,172,OAUL,Receive,27500.0 - 29150.0,19.5 (G/T),Hawaii,Continental United States,,,,,Ka-Band,32,QPSK,0.5,1
+EUTELSAT 172B,172,OAUR,Receive,27500.0 - 29150.0,19.5 (G/T),Hawaii,Continental United States,,,,,Ka-Band,32,QPSK,0.5,1
+EUTELSAT 172B,172,NUH2,Receive,14000.0 - 14500.0,1.52 (G/T),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,CUH,Receive,5925.0 - 6425.0,0.58 (G/T),Pacific Ocean,,,,,,C-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,CUV,Receive,5925.0 - 6425.0,0.58 (G/T),Pacific Ocean,,,,,,C-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NUV2,Receive,14000.0 - 14500.0,1.52 (G/T),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,AUH2,Receive,14000.0 - 14500.0,11.11 (G/T),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NUV1,Receive,13750.0 - 14000.0,1.52 (G/T),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NUH1,Receive,13750.0 - 14000.0,1.52 (G/T),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,AUH1,Receive,13750.0 - 14000.0,11.11 (G/T),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,AUH3,Receive,13000.0 - 13250.0,11.11 (G/T),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,AUV1,Receive,13750.0 - 14000.0,11.11 (G/T),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,AUV2,Receive,14000.0 - 14500.0,11.11 (G/T),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,AUV3,Receive,13000.0 - 13250.0,11.11 (G/T),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WUH1,Receive,13750.0 - 14000.0,2.18 (G/T),South West Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WUH2,Receive,14000.0 - 14500.0,2.18 (G/T),South West Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WUV1,Receive,13750.0 - 14000.0,2.18 (G/T),South West Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WUV2,Receive,14000.0 - 14500.0,2.18 (G/T),South West Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EUH1,Receive,13750.0 - 14000.0,2.1 (G/T),South East Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EUH2,Receive,14000.0 - 14500.0,2.1 (G/T),South East Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EUV1,Receive,13750.0 - 14000.0,2.1 (G/T),South East Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EUV2,Receive,14000.0 - 14500.0,2.1 (G/T),South East Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SUH1,Receive,13750.0 - 14000.0,7.77 (G/T),South Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SUH2,Receive,14000.0 - 14500.0,7.77 (G/T),South Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SUV1,Receive,13750.0 - 14000.0,7.77 (G/T),South Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SUV2,Receive,14000.0 - 14500.0,7.77 (G/T),South Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,HUH2,Receive,14000.0 - 14500.0,13.75 (G/T),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,TUL,Receive,14499.5 - 14500.0,-7.5 (G/T),Pacific Ocean,,,,,,Ku-Band,0.5,BPSK,0.5,1
+EUTELSAT 172B,172,TUR,Receive,14499.5 - 14500.0,-7.5 (G/T),Pacific Ocean,,,,,,Ku-Band,0.5,BPSK,0.5,1
+EUTELSAT 172B,172,TULO,Receive,14499.5 - 14500.0,-25.8 (G/T),Pacific Ocean,,,,,,Ku-Band,0.5,BPSK,0.5,1
+EUTELSAT 172B,172,TURO,Receive,14499.5 - 14500.0,-25.8 (G/T),Pacific Ocean,,,,,,Ku-Band,0.5,BPSK,0.5,1
+EUTELSAT 172B,172,OADR,Transmit,18400.0 - 19200.0,62.5 (EIRP),Hawaii,Continental United States,,,,,Ku-Band,32,QPSK,0.5,1
+EUTELSAT 172B,172,CDH,Transmit,3700.0 - 4200.0,45.65 (EIRP),Pacific Ocean,,,,,,C-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,CDV,Transmit,3700.0 - 4200.0,45.65 (EIRP),Pacific Ocean,,,,,,C-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADH2,Transmit,11200.0 - 11450.0,55.87 (EIRP),North East Asia,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADH4,Transmit,12500.0 - 12750.0,55.87 (EIRP),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADV2,Transmit,11200.0 - 11450.0,55.87 (EIRP),North East Asia,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADV4,Transmit,12500.0 - 12750.0,55.87 (EIRP),North East Asia,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NDH1,Transmit,10950.0 - 11200.0,47.32 (EIRP),North Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NDH3,Transmit,11450.0 - 11700.0,47.32 (EIRP),North Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NDV1,Transmit,10950.0 - 11200.0,47.32 (EIRP),North Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NDV3,Transmit,11450.0 - 11700.0,47.32 (EIRP),North Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SDH4,Transmit,12200.0 - 12750.0,51.96 (EIRP),South Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SDV4,Transmit,12200.0 - 12750.0,51.96 (EIRP),South Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WDH3,Transmit,11450.0 - 11700.0,48.11 (EIRP),South West Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WDV3,Transmit,11450.0 - 11700.0,48.11 (EIRP),South West Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EDH3,Transmit,11450.0 - 11700.0,48.47 (EIRP),South East Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EDV3,Transmit,11450.0 - 11700.0,48.47 (EIRP),South East Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,HDV4,Transmit,12200.0 - 12750.0,54.2 (EIRP),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NDH4,Transmit,12200.0 - 12750.0,47.32 (EIRP),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,NDV4,Transmit,12200.0 - 12750.0,47.32 (EIRP),North Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADH1,Transmit,10950.0 - 11200.0,55.87 (EIRP),North East Asia,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADV1,Transmit,10950.0 - 11200.0,55.87 (EIRP),North East Asia,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADH3,Transmit,11450.0 - 11700.0,55.87 (EIRP),North East Asia,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,ADV3,Transmit,11450.0 - 11700.0,55.87 (EIRP),North East Asia,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SDH1,Transmit,10950.0 - 11200.0,51.96 (EIRP),South Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SDV1,Transmit,10950.0 - 11200.0,51.96 (EIRP),South Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SDH3,Transmit,11450.0 - 11700.0,51.96 (EIRP),South Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,SDV3,Transmit,11450.0 - 11700.0,51.96 (EIRP),South Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WDH1,Transmit,10950.0 - 11200.0,48.11 (EIRP),South West Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WDV1,Transmit,10950.0 - 11200.0,48.11 (EIRP),South West Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WDH4,Transmit,12500.0 - 12750.0,48.11 (EIRP),South West Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,WDV4,Transmit,12500.0 - 12750.0,48.11 (EIRP),South West Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EDH1,Transmit,10950.0 - 11200.0,48.47 (EIRP),South East Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EDV1,Transmit,10950.0 - 11200.0,48.47 (EIRP),South East Pacific,,,,,,X-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EDH4,Transmit,12200.0 - 12500.0,48.47 (EIRP),South East Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,EDV4,Transmit,12200.0 - 12500.0,48.47 (EIRP),South East Pacific,,,,,,Ku-Band,36,QPSK,0.5,1
+EUTELSAT 172B,172,OABR,Transmit,19201.9 - 19202.1,20.0 (EIRP),Pacific Ocean,,,,,,Ku-Band,0.2,BPSK,0.5,1
+EUTELSAT 172B,172,TDH,Transmit,12249.5 - 12250.5,19.3 (EIRP),Pacific Ocean,,,,,,Ku-Band,1,BPSK,0.5,1
+EUTELSAT 172B,172,TDV,Transmit,11200.0 - 11201.0,19.3 (EIRP),Pacific Ocean,,,,,,X-Band,1,BPSK,0.5,1
+EUTELSAT 172B,172,KBL1,Transmit,11200.0 - 11201.0,22.7 (EIRP),Pacific Ocean,,,,,,X-Band,1,BPSK,0.5,1
+EUTELSAT 172B,172,KBR2,Transmit,12249.5 - 12250.5,22.7 (EIRP),Pacific Ocean,,,,,,Ku-Band,1,BPSK,0.5,1
+EUTELSAT 172B,172,KBL2,Transmit,12249.5 - 12250.5,22.7 (EIRP),Pacific Ocean,,,,,,Ku-Band,1,BPSK,0.5,1
+EUTELSAT 172B,172,KBR1,Transmit,11200.0 - 11201.0,22.7 (EIRP),Pacific Ocean,,,,,,X-Band,1,BPSK,0.5,1
+EUTELSAT 172B,172,CBH,Transmit,4198.85 - 4198.95,13.3 (EIRP),Pacific Ocean,,,,,,C-Band,0.1,BPSK,0.5,1
+EUTELSAT 172B,172,CBV,Transmit,4199.85 - 4199.95,13.3 (EIRP),Pacific Ocean,,,,,,C-Band,0.1,BPSK,0.5,1
+EUTELSAT 172B,172,KBH,Transmit,12249.5 - 12250.5,19.3 (EIRP),Pacific Ocean,,,,,,Ku-Band,1,BPSK,0.5,1
+EUTELSAT 172B,172,KBV,Transmit,11200.0 - 11201.0,19.3 (EIRP),Pacific Ocean,,,,,,X-Band,1,BPSK,0.5,1
+EUTELSAT 65 W A,-65,SAUV,Receive,12750.0 - 13250.0,7.1 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,BUH,Receive,12750.0 - 13250.0,6.4 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,BUV,Receive,12750.0 - 13250.0,6.4 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,SADH,Transmit,10700.0 - 10950.0,50.4 (EIRP),South America,,,,,,X-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,BDH,Transmit,10700.0 - 10950.0,51.9 (EIRP),Brazil,,,,,,X-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,BDV,Transmit,10700.0 - 10950.0,51.9 (EIRP),Brazil,,,,,,X-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,SAD2,Transmit,11200.0 - 11450.0,50.4 (EIRP),South America,,,,,,X-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,BDH2,Transmit,11200.0 - 11450.0,51.9 (EIRP),Brazil,,,,,,X-Band,36,QPSK,0.806,1
+EUTELSAT 65 W A,-65,BDV2,Transmit,11200.0 - 11450.0,51.9 (EIRP),Brazil,,,,,,X-Band,36,QPSK,0.806,1
+Eutelsat 8 West B,-8,UUH1,Receive,13750.0 - 14000.0,10.1 (G/T),North America,South America,,,,,Ku-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UUH2,Receive,14000.0 - 14500.0,10.1 (G/T),North America,South America,,,,,Ku-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UUV1,Receive,13750.0 - 14000.0,10.1 (G/T),North America,South America,,,,,Ku-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UUV2,Receive,14000.0 - 14500.0,10.1 (G/T),North America,South America,,,,,Ku-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UUF2,Receive,13750.0 - 13755.0,-10.1 (G/T),Global,,,,,,Ku-Band,1,BPSK,0.5,1
+Eutelsat 8 West B,-8,UUF3,Receive,14245.0 - 14500.0,-10.1 (G/T),Global,,,,,,Ku-Band,255,8PSK,0.75,1
+Eutelsat 8 West B,-8,UUF4,Receive,13750.0 - 13755.0,-16.0 (G/T),Global,,,,,,Ku-Band,1,BPSK,0.5,1
+Eutelsat 8 West B,-8,UUF5,Receive,14245.0 - 14500.0,-16.0 (G/T),Global,,,,,,Ku-Band,255,8PSK,0.75,1
+Eutelsat 8 West B,-8,UDH1,Transmit,10950.0 - 11200.0,54.0 (EIRP),North America,South America,,,,,X-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UDH2,Transmit,11450.0 - 11700.0,54.0 (EIRP),North America,South America,,,,,X-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UDV1,Transmit,10950.0 - 11200.0,54.0 (EIRP),North America,South America,,,,,X-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UDV2,Transmit,11450.0 - 11700.0,54.0 (EIRP),North America,South America,,,,,X-Band,36,8PSK,0.75,1
+Eutelsat 8 West B,-8,UDF2,Transmit,11195.0 - 11205.0,19.5 (EIRP),Global,,,,,,X-Band,0.4,BPSK,0.5,1
+Eutelsat 8 West B,-8,UDF3,Transmit,12500.0 - 12505.0,19.5 (EIRP),Global,,,,,,Ku-Band,0.4,BPSK,0.5,1
+Eutelsat 8 West B,-8,UDF4,Transmit,11195.0 - 11205.0,22.3 (EIRP),Global,,,,,,X-Band,0.4,BPSK,0.5,1
+Eutelsat 8 West B,-8,UDF5,Transmit,12500.0 - 12505.0,22.3 (EIRP),Global,,,,,,Ku-Band,0.4,BPSK,0.5,1
+GALAXY 12,-129,NCHU,Receive,5925.0 - 6425.0,3.1 (G/T),Global,,,,,,C-Band,36,QPSK,0.75,1
+GALAXY 12,-129,NCVU,Receive,5925.0 - 6425.0,3.2 (G/T),Global,,,,,,C-Band,36,QPSK,0.75,1
+GALAXY 12,-129,NCHD,Transmit,3700.0 - 4200.0,42.6 (EIRP),Global,,,,,,C-Band,36,QPSK,0.75,1
+GALAXY 12,-129,NCVD,Transmit,3700.0 - 4200.0,42.2 (EIRP),Global,,,,,,C-Band,36,QPSK,0.75,1
+GALAXY 16,-99,CHU,Receive,5925.0 - 6425.0,3.8 (G/T),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 16,-99,CVU,Receive,5925.0 - 6425.0,3.8 (G/T),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 16,-99,KHU,Receive,14000.0 - 14500.0,6.1 (G/T),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,Ku-Band,36,QPSK,0.75,1
+GALAXY 16,-99,KVU,Receive,14000.0 - 14500.0,6.1 (G/T),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,Ku-Band,36,QPSK,0.75,1
+GALAXY 16,-99,CHD,Transmit,3700.0 - 4200.0,43.7 (EIRP),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 16,-99,CVD,Transmit,3700.0 - 4200.0,43.7 (EIRP),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 16,-99,KHD,Transmit,11700.0 - 12200.0,51.9 (EIRP),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,"X-Band, Ku-Band",36,QPSK,0.75,1
+GALAXY 16,-99,KVD,Transmit,11700.0 - 12200.0,51.9 (EIRP),Continental United States,Hawaii,Alaska,Puerto Rico,Canada,Mexico,"X-Band, Ku-Band",36,QPSK,0.75,1
+GALAXY 18,-123,CHU,Receive,5925.0 - 6425.0,5.4 (G/T),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 18,-123,CVU,Receive,5925.0 - 6425.0,5.4 (G/T),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 18,-123,CHD,Transmit,3700.0 - 4200.0,46.5 (EIRP),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 18,-123,CVD,Transmit,3700.0 - 4200.0,46.5 (EIRP),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,C-Band,36,QPSK,0.75,1
+GALAXY 18,-123,KHU,Receive,13750.0 - 14500.0,8.3 (G/T),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,Ku-Band,36,QPSK,0.75,1
+GALAXY 18,-123,KVUL,Receive,13750.0 - 14500.0,8.3 (G/T),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,Ku-Band,36,QPSK,0.75,1
+GALAXY 18,-123,KHD,Transmit,11700.0 - 12200.0,53.6 (EIRP),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,"X-Band, Ku-Band",36,QPSK,0.75,1
+GALAXY 18,-123,KVDL,Transmit,11700.0 - 12200.0,53.6 (EIRP),Continental United States,Alaska,Hawaii,Puerto Rico,Canada,Mexico,"X-Band, Ku-Band",36,QPSK,0.75,1
+GALAXY 28,-89,NCHU,Receive,5925.0 - 6425.0,3.3 (G/T),North America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 28,-89,NCVU,Receive,5925.0 - 6425.0,3.5 (G/T),North America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 28,-89,SCVU,Receive,5925.0 - 6425.0,3.2 (G/T),South America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 28,-89,NHKU,Receive,14000.0 - 14500.0,5.6 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+GALAXY 28,-89,NKVU,Receive,14000.0 - 14500.0,5.9 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+GALAXY 28,-89,SKVU,Receive,14000.0 - 14500.0,5.5 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.5,1
+GALAXY 28,-89,01LU,Receive,29509.0 - 29575.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,16LU,Receive,29592.0 - 29658.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,17RU,Receive,29675.0 - 29741.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,08RU,Receive,29758.0 - 29824.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,24RU,Receive,29841.0 - 29907.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,15LU,Receive,29924.0 - 29990.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,18LU,Receive,29506.0 - 29575.0,-0.1 (G/T),North America,,,,,,Ka-Band,69,QPSK,0.5,1
+GALAXY 28,-89,02RU,Receive,29592.0 - 29658.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,03LU,Receive,29675.0 - 29741.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,22LU,Receive,29758.0 - 29824.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,09LU,Receive,29841.0 - 29907.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,10RU,Receive,29924.0 - 29990.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,04RU,Receive,29509.0 - 29575.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,05LU,Receive,29592.0 - 29658.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,20LU,Receive,29675.0 - 29741.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,11RU,Receive,29758.0 - 29824.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,12LU,Receive,29841.0 - 29907.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,23LU,Receive,29924.0 - 29990.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,21RU,Receive,29509.0 - 29575.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,19RU,Receive,29592.0 - 29658.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,06RU,Receive,29675.0 - 29741.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,14LU,Receive,29758.0 - 29824.0,-0.1 (G/T),North America,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,07RU,Receive,29841.0 - 29907.0,-0.1 (G/T),Global,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,13RU,Receive,29924.0 - 29990.0,-0.1 (G/T),Global,,,,,,Ka-Band,66,QPSK,0.5,1
+GALAXY 28,-89,CMD1,Receive,5926.02 - 5926.98,-99.0 (G/T),North America,,,,,,C-Band,0.96,QPSK,0.5,1
+GALAXY 28,-89,CMD2,Receive,6423.02 - 6423.98,-99.0 (G/T),North America,,,,,,C-Band,0.96,QPSK,0.5,1
+GALAXY 28,-89,NCVD,Transmit,3700.0 - 4200.0,43.6 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 28,-89,NCHD,Transmit,3700.0 - 4200.0,43.3 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 28,-89,TLMC,Transmit,4194.825 - 4195.175,18.5 (EIRP),Global,,,,,,C-Band,0.35,QPSK,0.5,1
+GALAXY 28,-89,TLMB,Transmit,4199.325 - 4199.675,15.1 (EIRP),Global,,,,,,C-Band,0.35,QPSK,0.5,1
+GALAXY 28,-89,TLMD,Transmit,4199.325 - 4199.675,18.5 (EIRP),South America,,,,,,C-Band,0.35,QPSK,0.5,1
+GALAXY 28,-89,ULPA,Transmit,11701.988 - 11702.013,21.1 (EIRP),North America,,,,,,X-Band,0.025,QPSK,0.5,1
+GALAXY 28,-89,SCHD,Transmit,3700.0 - 4200.0,48.1 (EIRP),North America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 28,-89,NKVD,Transmit,11700.0 - 12200.0,51.7 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+GALAXY 28,-89,NKHD,Transmit,11700.0 - 12200.0,51.6 (EIRP),North America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+GALAXY 28,-89,SKHD,Transmit,11700.0 - 12200.0,51.7 (EIRP),North America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+GALAXY 28,-89,LALD,Transmit,19700.0 - 20200.0,45.5 (EIRP),North America,,,,,,Ku-Band,66,QPSK,0.5,1
+GALAXY 28,-89,DARD,Transmit,19700.0 - 20200.0,45.5 (EIRP),North America,,,,,,Ku-Band,66,QPSK,0.5,1
+GALAXY 28,-89,CALD,Transmit,19700.0 - 20200.0,45.5 (EIRP),North America,,,,,,Ku-Band,66,QPSK,0.5,1
+GALAXY 28,-89,YARD,Transmit,19700.0 - 20200.0,45.5 (EIRP),North America,,,,,,Ku-Band,66,QPSK,0.5,1
+GALAXY 28,-89,TLMA,Transmit,4194.825 - 4195.175,14.6 (EIRP),North America,,,,,,C-Band,0.35,QPSK,0.5,1
+GALAXY 30,-125,CAHU,Receive,5927.0 - 6703.0,4.8 (G/T),Continental United States,Alaska,Hawaii,,,,C-Band,36,QPSK,0.75,1
+GALAXY 30,-125,CAVU,Receive,5927.0 - 6703.0,4.8 (G/T),Continental United States,Alaska,Hawaii,,,,C-Band,36,QPSK,0.75,1
+GALAXY 30,-125,KSHV,Receive,13770.0 - 14480.0,18.1 (G/T),Continental United States,Alaska,Hawaii,,,,Ku-Band,36,QPSK,0.75,1
+GALAXY 30,-125,KSVV,Receive,13770.0 - 14480.0,18.1 (G/T),Continental United States,Alaska,Hawaii,,,,Ku-Band,36,QPSK,0.75,1
+GALAXY 30,-125,ASLU,Receive,27620.0 - 28575.0,19.0 (G/T),Continental United States,,,,,,Ka-Band,450,QPSK,0.75,1
+GALAXY 30,-125,ASLV,Receive,29025.0 - 29975.0,19.0 (G/T),Continental United States,,,,,,Ka-Band,450,QPSK,0.75,1
+GALAXY 30,-125,ASRU,Receive,27620.0 - 28575.0,19.0 (G/T),Continental United States,,,,,,Ka-Band,450,QPSK,0.75,1
+GALAXY 30,-125,ASRV,Receive,29025.0 - 29975.0,19.0 (G/T),Continental United States,,,,,,Ka-Band,450,QPSK,0.75,1
+GALAXY 30,-125,CAHD,Transmit,3702.0 - 4198.0,45.5 (EIRP),Continental United States,,,,,,C-Band,36,QPSK,0.75,1
+GALAXY 30,-125,CAVD,Transmit,3702.0 - 4198.0,45.5 (EIRP),Continental United States,,,,,,C-Band,36,QPSK,0.75,1
+GALAXY 30,-125,KSHD,Transmit,10720.0 - 11180.0,62.0 (EIRP),Continental United States,,,,,,X-Band,460,QPSK,0.75,1
+GALAXY 30,-125,KSVD,Transmit,10720.0 - 11180.0,62.0 (EIRP),Continental United States,,,,,,X-Band,460,QPSK,0.75,1
+GALAXY 30,-125,ASLD,Transmit,17820.0 - 18775.0,64.0 (EIRP),Continental United States,,,,,,Ku-Band,955,QPSK,0.75,1
+GALAXY 30,-125,ASLE,Transmit,19225.0 - 20175.0,64.0 (EIRP),Continental United States,,,,,,Ku-Band,450,QPSK,0.75,1
+GALAXY 30,-125,ASRD,Transmit,17820.0 - 18775.0,64.0 (EIRP),Continental United States,,,,,,Ku-Band,955,QPSK,0.75,1
+GALAXY 30,-125,ASRE,Transmit,19225.0 - 20175.0,64.0 (EIRP),Continental United States,,,,,,Ku-Band,450,QPSK,0.75,1
+Galaxy 31,-121,CAHU,Receive,5925.0 - 6425.0,4.5 (G/T),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.6667,1
+Galaxy 31,-121,CAVU,Receive,5925.0 - 6425.0,4.5 (G/T),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.6667,1
+Galaxy 31,-121,CAHD,Transmit,3700.0 - 4200.0,47.0 (EIRP),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.6667,1
+Galaxy 31,-121,CAVD,Transmit,3700.0 - 4200.0,47.0 (EIRP),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.6667,1
+GALAXY 32,-91,CAHU,Receive,5925.0 - 6425.0,4.5 (G/T),Global,,,,,,C-Band,126,QPSK,0.5,1
+GALAXY 32,-91,CAVU,Receive,5925.0 - 6425.0,4.5 (G/T),Global,,,,,,C-Band,126,QPSK,0.5,1
+GALAXY 32,-91,KUHU,Receive,13750.0 - 14000.0,5.0 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.5,1
+GALAXY 32,-91,KUVU,Receive,13750.0 - 14000.0,5.0 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.5,1
+GALAXY 32,-91,CMD1,Receive,6421.5 - 6422.5,-99.0 (G/T),Global,,,,,,C-Band,1,QPSK,0.5,1
+GALAXY 32,-91,CMD2,Receive,6421.5 - 6422.5,-99.0 (G/T),Global,,,,,,C-Band,1,QPSK,0.5,1
+GALAXY 32,-91,CMD3,Receive,6424.0 - 6425.0,-99.0 (G/T),Global,,,,,,C-Band,1,QPSK,0.5,1
+GALAXY 32,-91,CMD4,Receive,6424.0 - 6425.0,-99.0 (G/T),Global,,,,,,C-Band,1,QPSK,0.5,1
+GALAXY 32,-91,CAHD,Transmit,3700.0 - 4200.0,47.0 (EIRP),Global,,,,,,C-Band,126,QPSK,0.5,1
+GALAXY 32,-91,CAVD,Transmit,3700.0 - 4200.0,47.0 (EIRP),Global,,,,,,C-Band,126,QPSK,0.5,1
+GALAXY 32,-91,KUHD,Transmit,11450.0 - 11701.0,52.5 (EIRP),Continental United States,,,,,,X-Band,36,QPSK,0.5,1
+GALAXY 32,-91,KUVD,Transmit,11450.0 - 11701.0,52.5 (EIRP),Continental United States,,,,,,X-Band,36,QPSK,0.5,1
+GALAXY 32,-91,TLMD,Transmit,4198.0 - 4198.5,7.5 (EIRP),Global,,,,,,C-Band,0.5,QPSK,0.5,1
+GALAXY 32,-91,TLMO,Transmit,4198.0 - 4198.5,7.5 (EIRP),Global,,,,,,C-Band,0.5,QPSK,0.5,1
+GALAXY 32,-91,TLMP,Transmit,4198.5 - 4199.0,7.5 (EIRP),Global,,,,,,C-Band,0.5,QPSK,0.5,1
+GALAXY 32,-91,TLMM,Transmit,4198.5 - 4199.0,7.5 (EIRP),Global,,,,,,C-Band,0.5,QPSK,0.5,1
+GALAXY 32,-91,UPC1,Transmit,4199.937 - 4199.962,7.5 (EIRP),Global,,,,,,C-Band,0.025,QPSK,0.5,1
+GALAXY 32,-91,UPC2,Transmit,11700.237 - 11700.262,11.5 (EIRP),Global,,,,,,X-Band,0.025,QPSK,0.5,1
+GALAXY 34,-129,CAHU,Receive,5925.0 - 6425.0,3.5 (G/T),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.75,1
+GALAXY 34,-129,CAVU,Receive,5925.0 - 6425.0,3.5 (G/T),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.75,1
+GALAXY 34,-129,CAHD,Transmit,3700.0 - 4200.0,46.1 (EIRP),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.75,1
+GALAXY 34,-129,CAVD,Transmit,3700.0 - 4200.0,46.1 (EIRP),North America,Alaska,Hawaii,Central America,Caribbean,,C-Band,36,QPSK,0.75,1
+GALAXY 3C,-95.05,CNHU,Receive,5925.0 - 6675.0,2.7 (G/T),North America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 3C,-95.05,CNVU,Receive,5925.0 - 6675.0,3.3 (G/T),North America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 3C,-95.05,KNHU,Receive,14263.0 - 14500.0,5.3 (G/T),North America,,,,,,Ku-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,KNVU,Receive,13750.0 - 14500.0,4.5 (G/T),North America,,,,,,Ku-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,KPHU,Receive,14000.0 - 14263.0,2.4 (G/T),North America,Puerto Rico,,,,,Ku-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,KVHU,Receive,13750.0 - 14000.0,3.3 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,KVHV,Receive,14248.0 - 14500.0,3.3 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,SSVU,Receive,14248.0 - 14500.0,9.8 (G/T),Southern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,TCNU,Receive,14488.0 - 14498.0,-4.7 (G/T),Global,,,,,,Ku-Band,8,QPSK,0.5,1
+GALAXY 3C,-95.05,CMDO,Receive,14000.5 - 14001.5,-99.0 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+GALAXY 3C,-95.05,CMDP,Receive,13752.5 - 13753.5,-99.0 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+GALAXY 3C,-95.05,CMDC,Receive,14000.5 - 14001.5,-99.0 (G/T),North America,,,,,,Ku-Band,1,QPSK,0.5,1
+GALAXY 3C,-95.05,CNHD,Transmit,3700.0 - 4200.0,41.6 (EIRP),North America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 3C,-95.05,CNVD,Transmit,3700.0 - 4200.0,42.0 (EIRP),North America,,,,,,C-Band,36,QPSK,0.5,1
+GALAXY 3C,-95.05,KNHD,Transmit,11700.0 - 12200.0,50.8 (EIRP),North America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+GALAXY 3C,-95.05,KNVD,Transmit,11700.0 - 12200.0,50.8 (EIRP),North America,Puerto Rico,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+GALAXY 3C,-95.05,KPVD,Transmit,11700.0 - 11957.0,50.5 (EIRP),South America,,,,,,X-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,KSRD,Transmit,11948.0 - 12200.0,52.6 (EIRP),South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+GALAXY 3C,-95.05,KSLD,Transmit,11948.0 - 12200.0,52.9 (EIRP),North America,South America,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+GALAXY 3C,-95.05,NSLD,Transmit,11450.0 - 11700.0,51.5 (EIRP),North America,South America,,,,,X-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,NSRD,Transmit,11450.0 - 11700.0,51.7 (EIRP),Global,,,,,,X-Band,24,QPSK,0.5,1
+GALAXY 3C,-95.05,TLMP,Transmit,11701.825 - 11703.175,9.1 (EIRP),Global,,,,,,X-Band,0.3,QPSK,0.5,1
+GALAXY 3C,-95.05,TLMB,Transmit,11701.825 - 11703.175,8.7 (EIRP),Global,,,,,,X-Band,0.3,QPSK,0.5,1
+HISPASAT 143W-1,-143,EUHU,Receive,14000.0 - 14500.0,12.17 (G/T),West Coast of Europe,,,,,,Ku-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,EUVU,Receive,13750.0 - 14500.0,12.17 (G/T),Global,,,,,,Ku-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,AMVU,Receive,13750.0 - 14500.0,4.63 (G/T),North America,Central America,South America,,,,Ku-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,AMHU,Receive,14000.0 - 14250.0,4.63 (G/T),North America,Central America,South America,,,,Ku-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,EKHU,Receive,17300.0 - 17800.0,12.17 (G/T),Europe,,,,,,Ku-Band,33,QPSK,0.75,0
+HISPASAT 143W-1,-143,EUHD,Transmit,11450.0 - 11700.0,52.9 (EIRP),Europe,,,,,,X-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,EUVD,Transmit,11450.0 - 11700.0,52.9 (EIRP),Europe,,,,,,X-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,EBVD,Transmit,12200.0 - 12750.0,52.9 (EIRP),Global,,,,,,Ku-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,EBHD,Transmit,12500.0 - 12750.0,52.9 (EIRP),Global,,,,,,Ku-Band,72,QPSK,0.75,0
+HISPASAT 143W-1,-143,AMVD,Transmit,11700.0 - 11950.0,48.43 (EIRP),North America,Central America,South America,,,,X-Band,72,QPSK,0.75,0
+HISPASAT 30W-6,-30,CUR,Receive,6725 - 7025,0.39 (G/T),Global,,,,,,C-Band,54,8PSK,0.75,0
+HISPASAT 30W-6,-30,KUR,Receive,13000 - 14500,5.1 (G/T),Global,,,,,,Ku-Band,36,8PSK,0.75,0
+HISPASAT 30W-6,-30,CUT,Transmit,4500 - 4800,41.4 (EIRP),Global,,,,,,C-Band,54,8PSK,0.75,0
+HISPASAT 30W-6,-30,KUT,Transmit,11200 - 12200,49.2 (EIRP),Global,,,,,,"X-Band, Ku-Band",36,8PSK,0.75,0
+HISPASAT 30W-6,-30,KUTV,Transmit,11200 - 12200,49.2 (EIRP),Global,,,,,,"X-Band, Ku-Band",36,8PSK,0.75,0
+Horizons 2,-74,NAVU,Receive,14000.0 - 14500.0,8.2 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.83,0
+Horizons 2,-74,NAHU,Receive,14000.0 - 14500.0,8.3 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.83,0
+Horizons 2,-74,BMHU,Receive,14000.0 - 14500.0,8.5 (G/T),Global,,,,,,Ku-Band,36,QPSK,0.83,0
+Horizons 2,-74,NAVD,Transmit,11700.0 - 12200.0,53.6 (EIRP),Continental United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.83,0
+Horizons 2,-74,NAHD,Transmit,11700.0 - 12200.0,50.9 (EIRP),Continental United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.83,0
+Horizons 2,-74,BMVD,Transmit,11700.0 - 12200.0,54.9 (EIRP),Global,,,,,,"X-Band, Ku-Band",36,QPSK,0.83,0
+HORIZONS-3e,169,CGV,Receive,5925.0 - 6425.0,20.8 (G/T),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,CHLU,Receive,5925.0 - 6425.0,4.8 (G/T),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,TGH,Transmit,3700.0 - 4200.0,56.1 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,TPLD,Transmit,3700.0 - 4200.0,56.1 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,THLD,Transmit,3700.0 - 4200.0,56.1 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,CLHD,Transmit,3700.0 - 4200.0,56.1 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,KLRD,Transmit,3700.0 - 4200.0,56.1 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,KLLD,Transmit,3700.0 - 4200.0,56.1 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,0
+HORIZONS-3e,169,PVR,Receive,14000.0 - 14500.0,29.6 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.83,0
+HORIZONS-3e,169,PHR,Receive,14000.0 - 14500.0,29.6 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.83,0
+HORIZONS-3e,169,PHT,Transmit,11700.0 - 12200.0,56.1 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.83,0
+HORIZONS-3e,169,PVT,Transmit,11700.0 - 12200.0,56.1 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.83,0
+HORIZONS-3e,169,GLR,Receive,14000.0 - 14500.0,21.1 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.83,0
+HORIZONS-3e,169,GRR,Receive,14000.0 - 14500.0,21.1 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.83,0
+HORIZONS-3e,169,GRT,Transmit,11700.0 - 12200.0,56.1 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.83,0
+HORIZONS-3e,169,GLT,Transmit,11700.0 - 12200.0,56.1 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.83,0
+HYLAS-4,-34,RAU1,Receive,29500.0 - 30000.0,14.9 (G/T),United States,,,,,,Ka-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RAU2,Receive,29500.0 - 30000.0,14.9 (G/T),United States,,,,,,Ka-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RAU3,Receive,29500.0 - 30000.0,14.9 (G/T),United States,,,,,,Ka-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RCU1,Receive,29500.0 - 30000.0,15.4 (G/T),United States,,,,,,Ka-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RCU2,Receive,29500.0 - 30000.0,15.4 (G/T),United States,,,,,,Ka-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RCU3,Receive,29500.0 - 30000.0,15.4 (G/T),United States,,,,,,Ka-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RAD1,Transmit,19700.0 - 20200.0,59.6 (EIRP),United States,,,,,,Ku-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RAD2,Transmit,19700.0 - 20200.0,59.6 (EIRP),United States,,,,,,Ku-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RAD3,Transmit,19700.0 - 20200.0,59.6 (EIRP),United States,,,,,,Ku-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RCD1,Transmit,19700.0 - 20200.0,58.8 (EIRP),United States,,,,,,Ku-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RCD2,Transmit,19700.0 - 20200.0,58.8 (EIRP),United States,,,,,,Ku-Band,230,8PSK,0.75,0
+HYLAS-4,-34,RCD3,Transmit,19700.0 - 20200.0,58.8 (EIRP),United States,,,,,,Ku-Band,230,8PSK,0.75,0
+ICO G1,-92.85,SU,Receive,2000.0 - 2020.0,18.0 (G/T),Continental United States,Alaska,Hawaii,Puerto Rico,US Virgin Islands,,L-Band,20,QPSK,0.5,0
+ICO G1,-92.85,KAUL,Receive,29250.0 - 30000.0,17.3 (G/T),Global,,,,,,Ka-Band,20,QPSK,0.5,0
+ICO G1,-92.85,KAU,Receive,29250.0 - 30000.0,17.3 (G/T),Global,,,,,,Ka-Band,20,QPSK,0.5,0
+ICO G1,-92.85,GBL,Receive,29250.0 - 30000.0,-9.6 (G/T),Global,,,,,,Ka-Band,20,QPSK,0.5,0
+ICO G1,-92.85,OMN,Receive,29250.0 - 30000.0,-30.0 (G/T),Global,,,,,,Ka-Band,20,QPSK,0.5,0
+ICO G1,-92.85,SD,Transmit,2180.0 - 2200.0,78.8 (EIRP),Continental United States,Alaska,Hawaii,Puerto Rico,US Virgin Islands,,L-Band,20,QPSK,0.5,0
+ICO G1,-92.85,KADL,Transmit,18550.0 - 20200.0,69.5 (EIRP),Global,,,,,,Ku-Band,20,QPSK,0.5,0
+ICO G1,-92.85,KAD,Transmit,18550.0 - 20200.0,69.5 (EIRP),Global,,,,,,Ku-Band,20,QPSK,0.5,0
+ICO G1,-92.85,GBL,Transmit,18550.0 - 20200.0,16.0 (EIRP),Global,,,,,,Ku-Band,20,QPSK,0.5,0
+ICO G1,-92.85,OMN,Transmit,18550.0 - 20200.0,3.5 (EIRP),Global,,,,,,Ku-Band,20,QPSK,0.5,0
+INMARSAT-5 F2,-55,S1UR,Receive,27500.0 - 30000.0,12.6 (G/T),Global,,,,,,Ka-Band,32,QPSK,0.6,1
+INMARSAT-5 F2,-55,S1DL,Transmit,17700.0 - 20200.0,56.1 (EIRP),Global,,,,,,Ku-Band,32,QPSK,0.6,1
+INMARSAT-5 F3,179.7,S1DL,Transmit,17700.0 - 20200.0,56.1 (EIRP),Global,,,,,,Ku-Band,32,QPSK,0.5,1
+INMARSAT-5 F3,179.7,S1UR,Receive,27500.0 - 30000.0,12.6 (G/T),Global,,,,,,Ka-Band,32,QPSK,0.5,1
+INMARSAT-5 F3,179.7,KFDR,Transmit,17700.0 - 20200.0,41.1 (EIRP),Global,,,,,,Ku-Band,32,QPSK,0.5,1
+INMARSAT-5 F3,179.7,KFUR,Receive,27500.0 - 30000.0,11.1 (G/T),Global,,,,,,Ka-Band,32,QPSK,0.5,1
+INMARSAT-5 F3,179.7,KHDL,Transmit,17700.0 - 20200.0,57.0 (EIRP),Global,,,,,,Ku-Band,100,8PSK,0.89,1
+INMARSAT-5 F3,179.7,KHUL,Receive,27500.0 - 30000.0,14.0 (G/T),Global,,,,,,Ka-Band,100,8PSK,0.89,1
+INMARSAT-5 F3,179.7,KGD,Transmit,17700.0 - 20200.0,35.6 (EIRP),Global,,,,,,Ku-Band,5,BPSK,0.5,1
+INMARSAT-5 F3,179.7,KGU,Receive,27500.0 - 30000.0,-4.3 (G/T),Global,,,,,,Ka-Band,5,BPSK,0.5,1
+INMARSAT-5 F3,179.7,COD,Transmit,17700.0 - 20200.0,11.9 (EIRP),Global,,,,,,Ku-Band,1.2,BPSK,0.5,1
+INMARSAT-5 F3,179.7,COU,Receive,27500.0 - 30000.0,-18.0 (G/T),Global,,,,,,Ka-Band,1.2,BPSK,0.5,1
+INTELSAT 10,47.5,GCVU,Receive,5925.0 - 6425.0,-0.4 (G/T),Global,,,,,,C-Band,54,QPSK,0.42,1
+INTELSAT 10,47.5,GCHU,Receive,5925.0 - 6425.0,0.4 (G/T),Global,,,,,,C-Band,54,QPSK,0.42,1
+INTELSAT 10,47.5,AKVU,Receive,14250.0 - 14500.0,4.4 (G/T),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,AFHU,Receive,14250.0 - 14500.0,2.1 (G/T),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,AFVU,Receive,14250.0 - 14500.0,2.3 (G/T),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,MKVU,Receive,14000.0 - 14250.0,4.8 (G/T),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,EKHU,Receive,14000.0 - 14250.0,6.4 (G/T),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,GCHD,Transmit,3700.0 - 4200.0,41.4 (EIRP),Global,,,,,,C-Band,54,QPSK,0.42,1
+INTELSAT 10,47.5,GCVD,Transmit,3700.0 - 4200.0,41.8 (EIRP),Global,,,,,,C-Band,54,QPSK,0.42,1
+INTELSAT 10,47.5,AKVD,Transmit,12500.0 - 12750.0,49.0 (EIRP),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,AFHD,Transmit,12500.0 - 12750.0,47.4 (EIRP),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,AFVD,Transmit,12500.0 - 12750.0,47.6 (EIRP),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,MKVD,Transmit,11450.0 - 11700.0,49.3 (EIRP),Global,,,,,,X-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,EKHD,Transmit,11450.0 - 11700.0,49.1 (EIRP),Global,,,,,,X-Band,36,QPSK,0.42,1
+INTELSAT 10,47.5,IKHD,Transmit,12250.0 - 12500.0,52.0 (EIRP),Global,,,,,,Ku-Band,36,QPSK,0.42,1
+Intelsat 1002,-1,WHLU,Receive,5850.0 - 6425.0,2.4 (G/T),North America,Caribbean,South America,,,,C-Band,72,8PSK,0.75,1
+Intelsat 1002,-1,EHLU,Receive,5850.0 - 6425.0,-0.2 (G/T),Europe,Africa,Middle East,Russia,,,C-Band,72,8PSK,0.75,1
+Intelsat 1002,-1,S1HU,Receive,14000.0 - 14500.0,6.6 (G/T),Europe,North Africa,,,,,Ku-Band,72,8PSK,0.75,1
+Intelsat 1002,-1,S3VU,Receive,13750.0 - 14000.0,5.7 (G/T),Europe,North Africa,Russia,,,,Ku-Band,36,8PSK,0.75,1
+Intelsat 1002,-1,WHRD,Transmit,3625.0 - 4200.0,43.5 (EIRP),North America,Caribbean,South America,,,,C-Band,72,8PSK,0.75,1
+Intelsat 1002,-1,EHRD,Transmit,3625.0 - 4200.0,44.1 (EIRP),Europe,Africa,Middle East,Russia,,,C-Band,72,8PSK,0.75,1
+Intelsat 1002,-1,S1VD,Transmit,10950.0 - 11200.0,54.2 (EIRP),Europe,North Africa,,,,,X-Band,36,8PSK,0.75,1
+Intelsat 1002,-1,S1VE,Transmit,11450.0 - 11700.0,54.2 (EIRP),Europe,North Africa,,,,,X-Band,36,8PSK,0.75,1
+Intelsat 1002,-1,S3HD,Transmit,12500.0 - 12750.0,55.0 (EIRP),Europe,North Africa,,,,,Ku-Band,36,8PSK,0.75,1
+Intelsat 11,-43,ACHU,Receive,5925.0 - 6425.0,4.7 (G/T),North America,South America,Europe,,,,C-Band,500,QPSK,0.5,1
+Intelsat 11,-43,ACVU,Receive,5925.0 - 6425.0,4.2 (G/T),North America,South America,Europe,,,,C-Band,500,QPSK,0.5,1
+Intelsat 11,-43,AKHU,Receive,12750.0 - 13250.0,3.5 (G/T),North America,South America,Europe,,,,Ku-Band,500,QPSK,0.5,1
+Intelsat 11,-43,A1HU,Receive,13750.0 - 14000.0,3.5 (G/T),North America,South America,Europe,,,,Ku-Band,250,QPSK,0.5,1
+Intelsat 11,-43,AKVU,Receive,12750.0 - 13250.0,3.8 (G/T),North America,South America,Europe,,,,Ku-Band,500,QPSK,0.5,1
+Intelsat 11,-43,A1VU,Receive,13750.0 - 14000.0,3.8 (G/T),North America,South America,Europe,,,,Ku-Band,250,QPSK,0.5,1
+Intelsat 11,-43,CMD1,Receive,13246.0 - 13247.0,-34.3 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+Intelsat 11,-43,CMD2,Receive,13246.0 - 13247.0,-34.4 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+Intelsat 11,-43,CMD4,Receive,13995.0 - 13996.0,-34.3 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+Intelsat 11,-43,CMD5,Receive,13995.0 - 13996.0,-34.4 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+Intelsat 11,-43,TLME,Transmit,11448.825 - 11449.175,13.5 (EIRP),Global,,,,,,X-Band,0.35,QPSK,0.5,1
+Intelsat 11,-43,ULP1,Transmit,3700.987 - 3701.012,9.0 (EIRP),Global,,,,,,L-Band,0.025,QPSK,0.5,1
+Intelsat 11,-43,ULP2,Transmit,4199.487 - 4199.512,9.0 (EIRP),Global,,,,,,C-Band,0.025,QPSK,0.5,1
+Intelsat 11,-43,ACHD,Transmit,3700.0 - 4200.0,43.5 (EIRP),North America,South America,Europe,,,,C-Band,500,QPSK,0.5,1
+Intelsat 11,-43,ACVD,Transmit,3700.0 - 4200.0,43.4 (EIRP),North America,South America,Europe,,,,C-Band,500,QPSK,0.5,1
+Intelsat 11,-43,BKHD,Transmit,10700.0 - 11450.0,56.3 (EIRP),Brazil,,,,,,X-Band,750,QPSK,0.5,1
+Intelsat 11,-43,BKVD,Transmit,10700.0 - 11450.0,56.5 (EIRP),Brazil,,,,,,X-Band,750,QPSK,0.5,1
+Intelsat 11,-43,TLMA,Transmit,11447.825 - 11448.175,13.5 (EIRP),Global,,,,,,X-Band,0.35,QPSK,0.5,1
+Intelsat 11,-43,TLMB,Transmit,11447.825 - 11448.17,13.5 (EIRP),Global,,,,,,X-Band,0.345,QPSK,0.5,1
+Intelsat 11,-43,TLMD,Transmit,11448.825 - 11449.175,13.5 (EIRP),Global,,,,,,X-Band,0.35,QPSK,0.5,1
+INTELSAT 14,-45,CEU,Receive,5925.0 - 6425.0,4.5 (G/T),Europe,Africa,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,CAU,Receive,5925.0 - 6425.0,0.6 (G/T),North America,Central America,South America,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,KEU,Receive,14000.0 - 14500.0,7.6 (G/T),Europe,Africa,United States,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,KAU,Receive,14000.0 - 14500.0,2.8 (G/T),North America,Central America,South America,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,CED,Transmit,3700.0 - 4200.0,45.2 (EIRP),Europe,Africa,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,CAD,Transmit,3700.0 - 4200.0,43.5 (EIRP),North America,Central America,South America,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,KED,Transmit,11450.0 - 11950.0,53.9 (EIRP),Europe,Africa,United States,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,KAD,Transmit,11450.0 - 11950.0,49.4 (EIRP),North America,Central America,South America,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 14,-45,CMD,Receive,5925.0 - 6425.0,-16.9 (G/T),North America,Central America,South America,,,,C-Band,1,BPSK,0.5,1
+INTELSAT 14,-45,TLM,Transmit,3700.0 - 4200.0,17.2 (EIRP),North America,Central America,South America,,,,C-Band,0.5,BPSK,0.5,1
+INTELSAT 14,-45,UPC,Transmit,3700.0 - 4200.0,14.6 (EIRP),Global,,,,,,C-Band,0.025,BPSK,0.5,1
+INTELSAT 14,-45,UPK,Transmit,11450.0 - 11950.0,16.5 (EIRP),Global,,,,,,X-Band,0.025,BPSK,0.5,1
+INTELSAT 15,85.15,MEH,Receive,13750.0 - 14500.0,8.0 (G/T),Middle East,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15,85.15,MEV,Receive,13750.0 - 14500.0,9.0 (G/T),Middle East,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15,85.15,RUH,Receive,13750.0 - 14000.0,5.8 (G/T),Russia,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15,85.15,EIVU,Receive,14000.0 - 14250.0,2.5 (G/T),East Asia,Indochina,Malaysia,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15,85.15,WIV,Receive,14000.0 - 14500.0,3.7 (G/T),Middle East,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15,85.15,MEH,Transmit,11970.0 - 12200.0,55.3 (EIRP),Middle East,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15,85.15,MEV,Transmit,11970.0 - 12200.0,54.7 (EIRP),Middle East,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15,85.15,RUV,Transmit,11700.0 - 12200.0,52.0 (EIRP),Russia,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15,85.15,EIHD,Transmit,12500.0 - 12750.0,46.9 (EIRP),East Asia,Indochina,Malaysia,,,,Ku-Band,36,8PSK,0.75,1
+INTELSAT 15,85.15,WIH,Transmit,11970.0 - 12200.0,50.3 (EIRP),Middle East,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15R,85,SKHU,Receive,13750.0 - 14500.0,12.0 (G/T),Global,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,SKVU,Receive,13750.0 - 14000.0,12.0 (G/T),Global,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,EIVU,Receive,14000.0 - 14250.0,2.5 (G/T),East Indian Ocean Region,,,,,,Ku-Band,36,8PSK,0.75,1
+INTELSAT 15R,85,WIVU,Receive,14000.0 - 14500.0,3.7 (G/T),West Indian Ocean Region,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,JSLU,Receive,27504.0 - 29970.0,15.8 (G/T),Japan,,,,,,Ka-Band,500,8PSK,0.75,1
+INTELSAT 15R,85,KSLU,Receive,27504.0 - 29970.0,15.8 (G/T),Korea,,,,,,Ka-Band,500,8PSK,0.75,1
+INTELSAT 15R,85,JSRU,Receive,27504.0 - 29970.0,15.8 (G/T),Japan,,,,,,Ka-Band,500,8PSK,0.75,1
+INTELSAT 15R,85,RUHV,Receive,17300.0 - 17800.0,3.0 (G/T),Russia,,,,,,Ku-Band,36,8PSK,0.75,1
+INTELSAT 15R,85,RUVV,Receive,17300.0 - 17800.0,3.0 (G/T),Russia,,,,,,Ku-Band,36,8PSK,0.75,1
+INTELSAT 15R,85,RUHU,Receive,13750.0 - 14500.0,3.0 (G/T),Russia,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,MEHU,Receive,13750.0 - 14500.0,8.5 (G/T),Middle East,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,RUVU,Receive,13750.0 - 14500.0,3.0 (G/T),Russia,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,MEVU,Receive,13750.0 - 14500.0,8.5 (G/T),Middle East,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,KSRU,Receive,27504.0 - 29970.0,15.8 (G/T),Korea,,,,,,Ka-Band,500,8PSK,0.75,1
+INTELSAT 15R,85,SSLU,Receive,27504.0 - 29970.0,15.8 (G/T),Global,,,,,,Ka-Band,500,8PSK,0.75,1
+INTELSAT 15R,85,SSRU,Receive,27504.0 - 29970.0,15.8 (G/T),Global,,,,,,Ka-Band,500,8PSK,0.75,1
+INTELSAT 15R,85,CMDL,Receive,14001.5 - 14005.0,-99.0 (G/T),Global,,,,,,Ku-Band,1,BPSK,0.5,1
+INTELSAT 15R,85,CMDH,Receive,14001.5 - 14005.0,-99.0 (G/T),Global,,,,,,Ku-Band,1,BPSK,0.5,1
+INTELSAT 15R,85,WIHD,Transmit,11970.0 - 12200.0,50.3 (EIRP),West Indian Ocean Region,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15R,85,WIHE,Transmit,12500.0 - 12750.0,50.3 (EIRP),West Indian Ocean Region,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,SKHD,Transmit,10950.0 - 11200.0,57.0 (EIRP),Global,,,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,SKVD,Transmit,11450.0 - 12200.0,57.0 (EIRP),Global,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15R,85,JSLD,Transmit,17804.0 - 20170.0,60.5 (EIRP),Japan,,,,,,Ku-Band,450,8PSK,0.75,1
+INTELSAT 15R,85,MEVE,Transmit,12500.0 - 12750.0,55.0 (EIRP),Middle East,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,RUHD,Transmit,11700.0 - 12200.0,52.0 (EIRP),Russia,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15R,85,RUVD,Transmit,12500.0 - 12750.0,52.0 (EIRP),Russia,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,EIHD,Transmit,12500.0 - 12750.0,46.9 (EIRP),East Indian Ocean Region,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,MEHE,Transmit,11970.0 - 12200.0,55.0 (EIRP),Middle East,,,,,,"X-Band, Ku-Band",72,8PSK,0.75,1
+INTELSAT 15R,85,JSRD,Transmit,17804.0 - 20170.0,60.5 (EIRP),Japan,,,,,,Ku-Band,450,8PSK,0.75,1
+INTELSAT 15R,85,KSLD,Transmit,17804.0 - 20170.0,60.5 (EIRP),Korea,,,,,,Ku-Band,450,8PSK,0.75,1
+INTELSAT 15R,85,KSRD,Transmit,17804.0 - 20170.0,60.5 (EIRP),Korea,,,,,,Ku-Band,450,8PSK,0.75,1
+INTELSAT 15R,85,SSLD,Transmit,17804.0 - 20170.0,60.5 (EIRP),Global,,,,,,Ku-Band,450,8PSK,0.75,1
+INTELSAT 15R,85,SSRD,Transmit,17804.0 - 20170.0,60.5 (EIRP),Global,,,,,,Ku-Band,450,8PSK,0.75,1
+INTELSAT 15R,85,MEHD,Transmit,10950.0 - 11200.0,55.0 (EIRP),Middle East,,,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,MEVD,Transmit,10950.0 - 11200.0,55.0 (EIRP),Middle East,,,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 15R,85,TLMR,Transmit,11189.7 - 11192.3,12.5 (EIRP),Global,,,,,,X-Band,0.5,BPSK,0.5,1
+INTELSAT 15R,85,TLMV,Transmit,11189.7 - 11192.3,20.5 (EIRP),Global,,,,,,X-Band,0.5,BPSK,0.5,1
+INTELSAT 15R,85,KLRD,Transmit,11187.9 - 11188.1,11.0 (EIRP),Global,,,,,,X-Band,0.025,BPSK,0.5,1
+INTELSAT 15R,85,ALVD,Transmit,20179.9 - 20180.1,12.0 (EIRP),Global,,,,,,Ku-Band,0.025,BPSK,0.5,1
+INTELSAT 17,66,HAU,Receive,5850.0 - 6425.0,-1.1 (G/T),Africa,Europe,West Asia,India,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,HBU,Receive,5850.0 - 6425.0,-1.1 (G/T),Africa,Europe,West Asia,India,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,LMU,Receive,5850.0 - 6425.0,-1.8 (G/T),Europe,Africa,Asia,Australia,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,GAU,Receive,5850.0 - 6425.0,-7.8 (G/T),Global,,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,GBU,Receive,5850.0 - 6425.0,-7.8 (G/T),Global,,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,RUU,Receive,13750.0 - 14500.0,6.0 (G/T),Europe,Russia,Northern China,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 17,66,EMU,Receive,13750.0 - 14500.0,5.2 (G/T),Northern Africa,Europe,Middle East,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 17,66,AFU,Receive,13750.0 - 14500.0,6.7 (G/T),Mid and Southern Africa,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 17,66,GSU,Receive,13750.0 - 14500.0,6.7 (G/T),Global,,,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 17,66,HAD,Transmit,3625.0 - 4200.0,39.8 (EIRP),Africa,Europe,West Asia,India,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,HBD,Transmit,3625.0 - 4200.0,39.8 (EIRP),Africa,Europe,West Asia,India,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,LMD,Transmit,3625.0 - 4200.0,39.2 (EIRP),Europe,Africa,Asia,Australia,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,GAD,Transmit,3625.0 - 4200.0,36.5 (EIRP),Global,,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,GBD,Transmit,3625.0 - 4200.0,36.5 (EIRP),Global,,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 17,66,RUD,Transmit,10950.0 - 11700.0,53.3 (EIRP),Europe,Russia,Northern China,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 17,66,EMD,Transmit,10950.0 - 11700.0,50.9 (EIRP),Northern Africa,Europe,Middle East,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 17,66,AFD,Transmit,10950.0 - 11700.0,52.1 (EIRP),Southern Africa,Middle Africa,,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 17,66,GSD,Transmit,10950.0 - 11700.0,53.2 (EIRP),Global,,,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 18,180,NAL,Receive,5925.0 - 6425.0,2.7 (G/T),East Asia,Western North America,Northern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,NBR,Receive,5925.0 - 6425.0,2.7 (G/T),East Asia,Western North America,Northern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,SALU,Receive,5925.0 - 6425.0,0.1 (G/T),Australia,New Zealand,Southern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,SBR,Receive,5925.0 - 6425.0,0.1 (G/T),Australia,New Zealand,Southern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,GAL,Receive,5925.0 - 6425.0,-5.5 (G/T),Global,,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 18,180,GBR,Receive,5925.0 - 6425.0,-5.5 (G/T),Global,,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 18,180,F1HU,Receive,14000.0 - 14500.0,8.2 (G/T),Southeast Pacific,Western North America,,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 18,180,F2HU,Receive,14000.0 - 14500.0,6.9 (G/T),Eastern Australia,New Zealand,Southwestern Pacific,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 18,180,F2VU,Receive,14000.0 - 14500.0,6.8 (G/T),Eastern Australia,New Zealand,Southwestern Pacific,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 18,180,USV,Receive,14000.0 - 14500.0,8.3 (G/T),Southeast Pacific,Western North America,,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 18,180,NAR,Transmit,3700.0 - 4200.0,41.5 (EIRP),East Asia,Western North America,Northern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,NBL,Transmit,3700.0 - 4200.0,41.6 (EIRP),East Asia,Western North America,Northern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,SAR,Transmit,3700.0 - 4200.0,40.4 (EIRP),Australia,New Zealand,Southern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,SBLD,Transmit,3700.0 - 4200.0,40.4 (EIRP),Australia,New Zealand,Southern Pacific,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 18,180,GAR,Transmit,3700.0 - 4200.0,34.9 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 18,180,GBL,Transmit,3700.0 - 4200.0,34.9 (EIRP),Global,,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 18,180,F1VD,Transmit,10950.0 - 11700.0,53.3 (EIRP),Southeast Pacific,Western North America,,,,,X-Band,72,QPSK,0.5,1
+INTELSAT 18,180,F2VD,Transmit,10950.0 - 11700.0,52.8 (EIRP),Eastern Australia,New Zealand,Southwestern Pacific,,,,X-Band,72,QPSK,0.5,1
+INTELSAT 18,180,F2HD,Transmit,10950.0 - 11700.0,52.6 (EIRP),Eastern Australia,New Zealand,Southwestern Pacific,,,,X-Band,72,QPSK,0.5,1
+INTELSAT 18,180,TLM,Transmit,12250.0 - 12750.0,12.8 (EIRP),Global,,,,,,Ku-Band,0.5,BPSK,0.5,1
+INTELSAT 18,180,UPC,Transmit,12250.0 - 12750.0,10.0 (EIRP),Global,,,,,,Ku-Band,0.025,BPSK,0.5,1
+INTELSAT 21,-58,HHU,Receive,5925.0 - 6425.0,1.0 (G/T),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 21,-58,HVUL,Receive,5925.0 - 6425.0,0.9 (G/T),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 21,-58,BHUL,Receive,14000.0 - 14500.0,8.0 (G/T),Brazil,,,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 21,-58,BVUL,Receive,14000.0 - 14500.0,8.0 (G/T),Brazil,,,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 21,-58,NHU,Receive,14000.0 - 14500.0,0.6 (G/T),United States,Mexico,Central America,Caribbean,Europe,Atlantic Ocean,Ku-Band,54,QPSK,0.5,1
+INTELSAT 21,-58,HHD,Transmit,3700.0 - 4200.0,41.2 (EIRP),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 21,-58,HVDL,Transmit,3700.0 - 4200.0,41.1 (EIRP),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 21,-58,BHDL,Transmit,11450.0 - 12200.0,54.4 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",72,QPSK,0.5,1
+INTELSAT 21,-58,BVDL,Transmit,11450.0 - 12200.0,54.4 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",72,QPSK,0.5,1
+INTELSAT 21,-58,NVDL,Transmit,11450.0 - 12200.0,46.8 (EIRP),United States,Mexico,Central America,Caribbean,Europe,Atlantic Ocean,"X-Band, Ku-Band",54,QPSK,0.5,1
+INTELSAT 22,72.1,WHL,Receive,5850.0 - 6425.0,1.8 (G/T),Africa,Europe,Middle East,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,WHR,Receive,5850.0 - 6425.0,1.8 (G/T),Africa,Europe,Middle East,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,EHLU,Receive,5850.0 - 6425.0,3.7 (G/T),East Asia,Australia,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,EHR,Receive,5850.0 - 6425.0,3.7 (G/T),East Asia,Australia,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,MAH,Receive,13750.0 - 14500.0,6.7 (G/T),Europe,Eastern Africa,Middle East,,,,Ku-Band,36,8PSK,0.75,1
+INTELSAT 22,72.1,MAV,Receive,13750.0 - 14500.0,6.7 (G/T),Europe,Eastern Africa,Middle East,,,,Ku-Band,36,8PSK,0.75,1
+INTELSAT 22,72.1,MOH,Receive,13750.0 - 14500.0,4.7 (G/T),Southeast Asia,Western Australia,India,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,MOV,Receive,13750.0 - 14500.0,4.7 (G/T),Southeast Asia,Western Australia,India,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,WHL,Transmit,3625.0 - 4200.0,44.3 (EIRP),Africa,Europe,Middle East,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,WHR,Transmit,3625.0 - 4200.0,44.3 (EIRP),Africa,Europe,Middle East,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,EHLD,Transmit,3625.0 - 4200.0,44.7 (EIRP),East Asia,Australia,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,EHR,Transmit,3625.0 - 4200.0,44.7 (EIRP),East Asia,Australia,,,,,C-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,MAH,Transmit,11450.0 - 11700.0,50.4 (EIRP),Europe,Eastern Africa,Middle East,,,,X-Band,36,8PSK,0.75,1
+INTELSAT 22,72.1,MAV,Transmit,11450.0 - 11700.0,50.4 (EIRP),Europe,Eastern Africa,Middle East,,,,X-Band,36,8PSK,0.75,1
+INTELSAT 22,72.1,MOH,Transmit,12250.0 - 12750.0,49.7 (EIRP),Southeast Asia,Western Australia,India,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 22,72.1,MOV,Transmit,12250.0 - 12750.0,49.7 (EIRP),Southeast Asia,Western Australia,India,,,,Ku-Band,72,8PSK,0.75,1
+INTELSAT 23,-53,WLU,Receive,5925.0 - 6425.0,1.8 (G/T),North America,South America,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,WRU,Receive,5925.0 - 6425.0,1.7 (G/T),North America,South America,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,ELUL,Receive,5925.0 - 6425.0,2.8 (G/T),Europe,Africa,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,ERUL,Receive,5925.0 - 6425.0,2.8 (G/T),Europe,Africa,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,GLUL,Receive,5925.0 - 6425.0,-5.1 (G/T),Global,,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,GRU,Receive,5925.0 - 6425.0,-5.0 (G/T),Global,,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,MHU,Receive,14000.0 - 14500.0,7.1 (G/T),Southern United States,Mexico,Central America,Northern South America,,,Ku-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,MVU,Receive,14000.0 - 14500.0,7.1 (G/T),Southern United States,Mexico,Central America,Northern South America,,,Ku-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,AHUL,Receive,14000.0 - 14500.0,8.2 (G/T),Argentina,,,,,,Ku-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,AVUL,Receive,14000.0 - 14500.0,8.2 (G/T),Argentina,,,,,,Ku-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,WLD,Transmit,3700.0 - 4200.0,43.3 (EIRP),North America,South America,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,WRD,Transmit,3700.0 - 4200.0,43.1 (EIRP),North America,South America,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,ELDL,Transmit,3700.0 - 4200.0,45.0 (EIRP),Europe,Africa,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,ERDL,Transmit,3700.0 - 4200.0,45.0 (EIRP),Europe,Africa,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,GLDL,Transmit,3700.0 - 4200.0,37.1 (EIRP),Global,,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,GRD,Transmit,3700.0 - 4200.0,37.1 (EIRP),Global,,,,,,C-Band,500,QPSK,0.5,1
+INTELSAT 23,-53,MHD,Transmit,11450.0 - 12200.0,53.0 (EIRP),Southern United States,Mexico,Central America,Northern South America,,,"X-Band, Ku-Band",750,QPSK,0.5,1
+INTELSAT 23,-53,MVD,Transmit,11450.0 - 12200.0,53.0 (EIRP),Southern United States,Mexico,Central America,Northern South America,,,"X-Band, Ku-Band",750,QPSK,0.5,1
+INTELSAT 23,-53,AHDL,Transmit,11450.0 - 12200.0,53.6 (EIRP),Argentina,,,,,,"X-Band, Ku-Band",750,QPSK,0.5,1
+INTELSAT 23,-53,AVDL,Transmit,11450.0 - 12200.0,53.6 (EIRP),Argentina,,,,,,"X-Band, Ku-Band",750,QPSK,0.5,1
+INTELSAT 30,-95.05,CGH,Receive,5925.0 - 6725.0,21.0 (G/T),Global,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,ABC,Receive,5925.0 - 6725.0,44.1 (G/T),Northern South America,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,BBC,Receive,5925.0 - 6725.0,44.3 (G/T),Northern South America,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,CBC,Receive,5925.0 - 6725.0,43.2 (G/T),Southern South America,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,COB,Receive,5925.0 - 6725.0,44.3 (G/T),South America,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,VBC,Receive,5925.0 - 6725.0,44.2 (G/T),South America,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,TCN,Receive,5925.0 - 6725.0,22.0 (G/T),Global,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,CBG,Transmit,3400.0 - 3700.0,39.7 (EIRP),Global,,,,,,L-Band,69.6,QPSK,0.5,1
+INTELSAT 30,-95.05,R1RD,Transmit,10950.0 - 11200.0,79.4 (EIRP),Northern South America,,,,,,X-Band,24,QPSK,0.5,1
+INTELSAT 30,-95.05,R2RD,Transmit,11450.0 - 11700.0,79.4 (EIRP),Northern South America,,,,,,X-Band,24,QPSK,0.5,1
+INTELSAT 30,-95.05,R3RD,Transmit,11700.0 - 12200.0,64.6 (EIRP),Southern South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+INTELSAT 30,-95.05,R4RD,Transmit,11700.0 - 12200.0,64.4 (EIRP),Southern South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+INTELSAT 30,-95.05,PRR,Transmit,11700.0 - 12200.0,70.8 (EIRP),South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+INTELSAT 30,-95.05,TCNL,Transmit,11700.0 - 12200.0,31.8 (EIRP),South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+INTELSAT 30,-95.05,CBCL,Transmit,11700.0 - 12200.0,3.3 (EIRP),Southwestern United States,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,1
+INTELSAT 31,-95.05,CGV,Receive,5925.0 - 6425.0,3.8 (G/T),Global,,,,,,C-Band,69.6,QPSK,0.5,1
+INTELSAT 31,-95.05,ABC,Receive,13750.0 - 14500.0,14.7 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+INTELSAT 31,-95.05,BBC,Receive,13750.0 - 14500.0,15.2 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+INTELSAT 31,-95.05,CBC,Receive,13750.0 - 14500.0,14.1 (G/T),Southern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+INTELSAT 31,-95.05,COB,Receive,13750.0 - 14500.0,15.3 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+INTELSAT 31,-95.05,VBC,Receive,13750.0 - 14500.0,15.0 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,1
+INTELSAT 31,-95.05,CBG,Transmit,3400.0 - 3700.0,39.7 (EIRP),Global,,,,,,L-Band,69.6,QPSK,0.5,1
+INTELSAT 31,-95.05,R1R,Transmit,10950.0 - 11200.0,58.3 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,R1LD,Transmit,10950.0 - 11200.0,58.3 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,R2R,Transmit,10950.0 - 11200.0,57.5 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,R2LD,Transmit,10950.0 - 11200.0,57.5 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,R3R,Transmit,10950.0 - 11200.0,58.3 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,R3LD,Transmit,10950.0 - 11200.0,55.6 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,R4R,Transmit,10950.0 - 11200.0,57.6 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,R4LD,Transmit,10950.0 - 11200.0,54.9 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,PRR,Transmit,11450.0 - 11700.0,60.3 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,PRLD,Transmit,11450.0 - 11700.0,57.8 (EIRP),South America,,,,,,X-Band,36,QPSK,0.5,1
+INTELSAT 31,-95.05,TCN,Transmit,11700.0 - 12200.0,54.3 (EIRP),South America,,,,,,"X-Band, Ku-Band",8,QPSK,0.5,1
+INTELSAT 31,-95.05,CBC,Transmit,11700.0 - 12200.0,47.2 (EIRP),Southwestern United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+INTELSAT 32,-43.1,RHU,Receive,12750.0 - 13250.0,-98.0 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,RVUL,Receive,12750.0 - 13250.0,-98.0 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,B1HU,Receive,12750.0 - 13250.0,-98.0 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,B8HU,Receive,12750.0 - 13250.0,-98.0 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,BGH,Receive,12750.0 - 13250.0,-98.0 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,BGV,Receive,12750.0 - 13250.0,-98.0 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U1VU,Receive,13750.0 - 14500.0,-106.4 (G/T),Europe,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U2H,Receive,13750.0 - 14500.0,-106.3 (G/T),Atlantic Region,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U3VU,Receive,13750.0 - 14500.0,-106.6 (G/T),Atlantic Region,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U4H,Receive,13750.0 - 14500.0,-106.3 (G/T),Atlantic Region,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U5H,Receive,13750.0 - 14500.0,-106.4 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U6VU,Receive,13750.0 - 14500.0,-106.8 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U7H,Receive,13750.0 - 14500.0,-105.8 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U9VU,Receive,13750.0 - 14500.0,-106.0 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UAV,Receive,13750.0 - 14500.0,-106.0 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UBH,Receive,13750.0 - 14500.0,-106.1 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UCV,Receive,13750.0 - 14500.0,-105.8 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UDH,Receive,13750.0 - 14500.0,-105.9 (G/T),North America,Central America,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UEV,Receive,13750.0 - 14500.0,-106.5 (G/T),Caribbean,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UFH,Receive,13750.0 - 14500.0,-105.9 (G/T),Caribbean,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UGV,Receive,13750.0 - 14500.0,-106.4 (G/T),Caribbean,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,G9H,Receive,28650.0 - 30000.0,-107.0 (G/T),North America,,,,,,Ka-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,G9V,Receive,28650.0 - 30000.0,-107.0 (G/T),North America,,,,,,Ka-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,GBH,Receive,28650.0 - 30000.0,-107.3 (G/T),North America,,,,,,Ka-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,GBV,Receive,28650.0 - 30000.0,-107.4 (G/T),North America,,,,,,Ka-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,WBH,Receive,13750.0 - 14500.0,-102.3 (G/T),North America,Atlantic Region,Europe,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,NLH,Transmit,10700.0 - 12200.0,55.9 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+INTELSAT 32,-43.1,NLVD,Transmit,10700.0 - 12200.0,55.9 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+INTELSAT 32,-43.1,NEH,Transmit,10700.0 - 12200.0,54.0 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+INTELSAT 32,-43.1,NEV,Transmit,10700.0 - 12200.0,54.0 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,1
+INTELSAT 32,-43.1,U1H,Transmit,18850.0 - 20200.0,61.1 (EIRP),Europe,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U2VD,Transmit,18850.0 - 20200.0,61.6 (EIRP),Atlantic Region,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U3H,Transmit,18850.0 - 20200.0,61.3 (EIRP),Atlantic Region,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U4VD,Transmit,18850.0 - 20200.0,61.3 (EIRP),Atlantic Region,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U5VD,Transmit,18850.0 - 20200.0,61.1 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U6H,Transmit,18850.0 - 20200.0,61.4 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U7VD,Transmit,18850.0 - 20200.0,61.2 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,U9H,Transmit,18850.0 - 20200.0,61.1 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UAH,Transmit,18850.0 - 20200.0,61.1 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UBV,Transmit,18850.0 - 20200.0,61.0 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UCH,Transmit,18850.0 - 20200.0,61.1 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UDV,Transmit,18850.0 - 20200.0,60.6 (EIRP),North America,Central America,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UEH,Transmit,18850.0 - 20200.0,61.0 (EIRP),Caribbean,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UFV,Transmit,18850.0 - 20200.0,61.3 (EIRP),Caribbean,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,UGH,Transmit,18850.0 - 20200.0,61.2 (EIRP),Caribbean,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,G9H,Transmit,18850.0 - 20200.0,61.0 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,G9V,Transmit,18850.0 - 20200.0,60.7 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,GBH,Transmit,18850.0 - 20200.0,60.7 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,GBV,Transmit,18850.0 - 20200.0,60.5 (EIRP),North America,,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 32,-43.1,WBV,Transmit,18850.0 - 20200.0,47.4 (EIRP),North America,Atlantic Region,Europe,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 33e,60,CSLU,Receive,5850.0 - 6725.0,0.6 (G/T),Sub-Saharan Africa,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CSR,Receive,5850.0 - 6725.0,0.6 (G/T),Sub-Saharan Africa,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CGL,Receive,5850.0 - 6725.0,-5.8 (G/T),Global,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CGR,Receive,5850.0 - 6725.0,-5.8 (G/T),Global,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CULU,Receive,5850.0 - 6725.0,11.1 (G/T),Central Africa,Europe,Middle East,South Asia,Australia,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CUR,Receive,5850.0 - 6725.0,11.1 (G/T),Central Africa,Europe,Middle East,South Asia,Australia,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,KUH,Receive,13750.0 - 14500.0,14.9 (G/T),Africa,Europe,Middle East,Asia,,,Ku-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,KUV,Receive,13750.0 - 14500.0,14.6 (G/T),Africa,Europe,Middle East,Asia,,,Ku-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CSLD,Transmit,3625.0 - 4200.0,42.2 (EIRP),Sub-Saharan Africa,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CSR,Transmit,3625.0 - 4200.0,42.3 (EIRP),Sub-Saharan Africa,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CGL,Transmit,3625.0 - 4200.0,36.3 (EIRP),Global,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CGR,Transmit,3625.0 - 4200.0,36.3 (EIRP),Global,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CULD,Transmit,3625.0 - 4200.0,51.7 (EIRP),Central Africa,Europe,Middle East,South Asia,Australia,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,CUR,Transmit,3625.0 - 4200.0,51.6 (EIRP),Central Africa,Europe,Middle East,South Asia,Australia,,C-Band,72,QPSK,0.42,1
+INTELSAT 33e,60,KUH,Transmit,10950.0 - 12750.0,58.1 (EIRP),Africa,Europe,Middle East,Asia,,,"X-Band, Ku-Band",72,QPSK,0.42,1
+INTELSAT 33e,60,KUV,Transmit,10950.0 - 12750.0,57.6 (EIRP),Africa,Europe,Middle East,Asia,,,"X-Band, Ku-Band",72,QPSK,0.42,1
+INTELSAT 34,-55.5,HHU,Receive,5925.0 - 6425.0,1.0 (G/T),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 34,-55.5,HVUL,Receive,5925.0 - 6425.0,0.9 (G/T),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 34,-55.5,BHUL,Receive,14000.0 - 14500.0,8.0 (G/T),Brazil,,,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 34,-55.5,BVUL,Receive,14000.0 - 14500.0,8.0 (G/T),Brazil,,,,,,Ku-Band,72,QPSK,0.5,1
+INTELSAT 34,-55.5,NHU,Receive,14000.0 - 14500.0,0.6 (G/T),United States,Mexico,Central America,Caribbean,Europe,Atlantic Ocean,Ku-Band,36,QPSK,0.5,1
+INTELSAT 34,-55.5,HHD,Transmit,3700.0 - 4200.0,41.2 (EIRP),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 34,-55.5,HVDL,Transmit,3700.0 - 4200.0,41.1 (EIRP),North America,South America,Europe,,,,C-Band,72,QPSK,0.5,1
+INTELSAT 34,-55.5,BHDL,Transmit,11700.0 - 12200.0,54.4 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",72,QPSK,0.5,1
+INTELSAT 34,-55.5,BVDL,Transmit,11700.0 - 12200.0,54.4 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",72,QPSK,0.5,1
+INTELSAT 34,-55.5,NVDL,Transmit,11450.0 - 11700.0,46.8 (EIRP),United States,Mexico,Central America,Caribbean,Europe,Atlantic Ocean,X-Band,36,QPSK,0.5,1
+INTELSAT 35e,-34.5,CSLU,Receive,5850.0 - 6425.0,-108.0 (G/T),Caribbean,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,CSR,Receive,5850.0 - 6425.0,-108.0 (G/T),Caribbean,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,CGL,Receive,5850.0 - 6425.0,-102.9 (G/T),Global,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,CGR,Receive,5850.0 - 6425.0,-102.9 (G/T),Global,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,CSLD,Transmit,3625.0 - 4200.0,51.0 (EIRP),Caribbean,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,CSR,Transmit,3625.0 - 4200.0,51.0 (EIRP),Caribbean,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,CGL,Transmit,3625.0 - 4200.0,37.3 (EIRP),Global,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,CGR,Transmit,3625.0 - 4200.0,37.3 (EIRP),Global,,,,,,C-Band,36,QPSK,0.691,1
+INTELSAT 35e,-34.5,KCH,Receive,13750.0 - 14500.0,-110.4 (G/T),Europe,Mediterranean,,,,,Ku-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KCV,Receive,13750.0 - 14500.0,-110.4 (G/T),Europe,Mediterranean,,,,,Ku-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KMH,Receive,13750.0 - 14500.0,-110.8 (G/T),Europe,West Africa,,,,,Ku-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KMV,Receive,13750.0 - 14500.0,-110.8 (G/T),Europe,West Africa,,,,,Ku-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KAH,Receive,13750.0 - 14500.0,-106.7 (G/T),South America,Caribbean,Greenland,Europe,West Africa,,Ku-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KCH,Transmit,10950.0 - 11700.0,53.7 (EIRP),Europe,Mediterranean,,,,,X-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KCV,Transmit,10950.0 - 11700.0,56.0 (EIRP),Europe,Mediterranean,,,,,X-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KMH,Transmit,10950.0 - 11700.0,55.3 (EIRP),Europe,West Africa,,,,,X-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KMV,Transmit,10950.0 - 11700.0,55.7 (EIRP),Europe,West Africa,,,,,X-Band,54,QPSK,0.691,1
+INTELSAT 35e,-34.5,KAV,Transmit,10950.0 - 11700.0,49.5 (EIRP),South America,Caribbean,Greenland,Europe,West Africa,,X-Band,54,QPSK,0.691,1
+Intelsat 37e,-18,CELU,Receive,5850 - 6425,-1.0 (G/T),Africa,Europe,,,,,C-Band,226.55,8PSK,0.75,1
+Intelsat 37e,-18,CER,Receive,5850 - 6425,-1.0 (G/T),Africa,Europe,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,KZVU,Receive,13750 - 14000,12.0 (G/T),Algeria,,,,,,Ku-Band,164.1,8PSK,0.75,1
+Intelsat 37e,-18,C1LU,Receive,5850 - 6650,13.0 (G/T),Central Africa,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C1R,Receive,5850 - 6650,13.0 (G/T),Central Africa,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C2LU,Receive,5850 - 6650,13.0 (G/T),Latin America,,,,,,C-Band,132.8,8PSK,0.75,1
+Intelsat 37e,-18,C2R,Receive,5850 - 6650,13.0 (G/T),Latin America,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C3LU,Receive,5850 - 6650,12.0 (G/T),South America,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C3R,Receive,5850 - 6650,12.0 (G/T),South America,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C4R,Receive,5850 - 6650,12.0 (G/T),Falkland Islands,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,CALU,Receive,5850 - 6425,3.0 (G/T),Central Africa,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,CAR,Receive,5850 - 6425,3.0 (G/T),Central Africa,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,CGL,Receive,5850 - 6425,-6.0 (G/T),Global,,,,,,C-Band,75.5,8PSK,0.75,1
+Intelsat 37e,-18,CGR,Receive,5850 - 6425,-6.0 (G/T),Global,,,,,,C-Band,75.5,8PSK,0.75,1
+Intelsat 37e,-18,KUV,Receive,13750 - 14500,14.0 (G/T),Africa,Europe,Middle East,North America,Asia,,Ku-Band,125,8PSK,0.75,1
+Intelsat 37e,-18,KUH,Receive,13750 - 14500,14.0 (G/T),Africa,Europe,Middle East,North America,Asia,,Ku-Band,125,8PSK,0.75,1
+Intelsat 37e,-18,K56U,Receive,14000 - 14500,10.0 (G/T),Central Atlantic,,,,,,Ku-Band,109.4,8PSK,0.75,1
+Intelsat 37e,-18,KSH,Receive,13750 - 14500,12.0 (G/T),Europe,Middle East,Asia,,,,Ku-Band,109.4,8PSK,0.75,1
+Intelsat 37e,-18,KSV,Receive,13750 - 14500,12.0 (G/T),Europe,Middle East,Asia,,,,Ku-Band,109.4,8PSK,0.75,1
+Intelsat 37e,-18,KGV,Receive,13000 - 14500,14.0 (G/T),Africa,South America,Europe,,,,Ku-Band,250,8PSK,0.75,1
+Intelsat 37e,-18,KGH,Receive,13000 - 14500,14.0 (G/T),Africa,South America,Europe,,,,Ku-Band,250,8PSK,0.75,1
+Intelsat 37e,-18,ASLU,Receive,28350 - 30000,11.0 (G/T),Global,,,,,,Ka-Band,440.1,8PSK,0.75,1
+Intelsat 37e,-18,ASR,Receive,28350 - 30000,11.0 (G/T),Global,,,,,,Ka-Band,440.1,8PSK,0.75,1
+Intelsat 37e,-18,CML,Receive,5850 - 6425,1.0 (G/T),South America,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,CMR,Receive,5850 - 6425,1.0 (G/T),South America,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,CELD,Transmit,3400 - 4200,43.3 (EIRP),Africa,Europe,,,,,C-Band,231.7,8PSK,0.75,1
+Intelsat 37e,-18,CER,Transmit,3400 - 4200,43.3 (EIRP),Africa,Europe,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,KZH,Transmit,10700 - 11700,51.5 (EIRP),Algeria,,,,,,X-Band,164.1,8PSK,0.75,1
+Intelsat 37e,-18,C1LD,Transmit,3400 - 4200,52.1 (EIRP),Central Africa,,,,,,C-Band,411.4,8PSK,0.75,1
+Intelsat 37e,-18,C1R,Transmit,3400 - 4200,52.1 (EIRP),Central Africa,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C2LD,Transmit,3400 - 4200,52.1 (EIRP),Latin America,,,,,,C-Band,210.9,8PSK,0.75,1
+Intelsat 37e,-18,C2R,Transmit,3400 - 4200,52.1 (EIRP),Latin America,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C3LD,Transmit,3400 - 4200,51.8 (EIRP),South America,,,,,,C-Band,210.9,8PSK,0.75,1
+Intelsat 37e,-18,C3R,Transmit,3400 - 4200,51.8 (EIRP),South America,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,C4LD,Transmit,3400 - 4200,51.4 (EIRP),Falkland Islands,,,,,,C-Band,210.9,8PSK,0.75,1
+Intelsat 37e,-18,CALD,Transmit,3400 - 4200,47.9 (EIRP),Central Africa,,,,,,C-Band,229.1,8PSK,0.75,1
+Intelsat 37e,-18,CAR,Transmit,3400 - 4200,47.9 (EIRP),Central Africa,,,,,,C-Band,213.5,8PSK,0.75,1
+Intelsat 37e,-18,CGL,Transmit,3400 - 4200,38.0 (EIRP),Global,,,,,,C-Band,75.5,8PSK,0.75,1
+Intelsat 37e,-18,CGR,Transmit,3400 - 4200,38.0 (EIRP),Global,,,,,,C-Band,75.5,8PSK,0.75,1
+Intelsat 37e,-18,KUH,Transmit,10700 - 12750,51.0 (EIRP),Africa,Europe,Middle East,South America,North America,Asia,"X-Band, Ku-Band",125,8PSK,0.75,1
+Intelsat 37e,-18,KUV,Transmit,10700 - 12750,51.0 (EIRP),Africa,Europe,Middle East,South America,North America,Asia,"X-Band, Ku-Band",125,8PSK,0.75,1
+Intelsat 37e,-18,K56D,Transmit,10700 - 11700,50.3 (EIRP),Central Atlantic,,,,,,X-Band,109.4,8PSK,0.75,1
+Intelsat 37e,-18,KSH,Transmit,10700 - 12750,56.0 (EIRP),Europe,Middle East,Asia,,,,"X-Band, Ku-Band",109.4,8PSK,0.75,1
+Intelsat 37e,-18,KSV,Transmit,10700 - 12750,56.0 (EIRP),Europe,Middle East,Asia,,,,"X-Band, Ku-Band",109.4,8PSK,0.75,1
+Intelsat 37e,-18,KGH,Transmit,10700 - 12750,50.8 (EIRP),Africa,South America,Europe,,,,"X-Band, Ku-Band",250,8PSK,0.75,1
+Intelsat 37e,-18,KGV,Transmit,10700 - 12750,50.8 (EIRP),Africa,South America,Europe,,,,"X-Band, Ku-Band",250,8PSK,0.75,1
+Intelsat 37e,-18,ASLD,Transmit,18300 - 20200,58.0 (EIRP),Global,,,,,,Ku-Band,440.1,8PSK,0.75,1
+Intelsat 37e,-18,ASR,Transmit,18300 - 20200,58.0 (EIRP),Global,,,,,,Ku-Band,440.1,8PSK,0.75,1
+Intelsat 37e,-18,CML,Transmit,3400 - 4200,46 (EIRP),Global,,,,,,C-Band,213.5,8PSK,0.75,1
+INTELSAT 39,62,WHLU,Receive,5850.0 - 6425.0,3.6 (G/T),Africa,Europe,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,WHRU,Receive,5850.0 - 6425.0,3.6 (G/T),Africa,Europe,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MZLU,Receive,5850.0 - 6010.0,10.0 (G/T),Mozambique,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MZRU,Receive,5850.0 - 6010.0,10.0 (G/T),Mozambique,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EHLU,Receive,5850.0 - 6425.0,3.1 (G/T),Asia,Australia,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EHRU,Receive,5850.0 - 6425.0,3.2 (G/T),Asia,Australia,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MEHU,Receive,14000.0 - 14500.0,6.1 (G/T),Middle East,,,,,,Ku-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MEVU,Receive,14000.0 - 14250.0,6.1 (G/T),Middle East,,,,,,Ku-Band,72,QPSK,0.42,1
+INTELSAT 39,62,S1HU,Receive,14000.0 - 14250.0,12.0 (G/T),Global,,,,,,Ku-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EUHU,Receive,13750.0 - 14250.0,10.1 (G/T),Europe,,,,,,Ku-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EUVU,Receive,13750.0 - 14500.0,10.1 (G/T),Europe,,,,,,Ku-Band,72,QPSK,0.42,1
+INTELSAT 39,62,WHRD,Transmit,3625.0 - 4200.0,44.1 (EIRP),Africa,Europe,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,WHLD,Transmit,3625.0 - 4200.0,44.1 (EIRP),Africa,Europe,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MZRD,Transmit,3625.0 - 3785.0,51.6 (EIRP),Mozambique,,,,,,L-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MZLD,Transmit,3625.0 - 3785.0,51.6 (EIRP),Mozambique,,,,,,L-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EHRD,Transmit,3625.0 - 4200.0,43.9 (EIRP),Asia,Australia,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EHLD,Transmit,3625.0 - 4200.0,43.9 (EIRP),Asia,Australia,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MEVD,Transmit,10950.0 - 11200.0,52.7 (EIRP),Middle East,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 39,62,MEVE,Transmit,11450.0 - 11700.0,52.7 (EIRP),Middle East,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 39,62,S1VD,Transmit,10950.0 - 11200.0,57.2 (EIRP),Global,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 39,62,S1HD,Transmit,10700.0 - 11700.0,57.2 (EIRP),Global,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EUVD,Transmit,10700.0 - 11450.0,54.2 (EIRP),Europe,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 39,62,EUHD,Transmit,10700.0 - 11700.0,54.2 (EIRP),Europe,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 5,-137,CMDB,Receive,14497.5 - 14498.5,-12.6 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+INTELSAT 5,-137,CMDG,Receive,14497.5 - 14498.5,-12.6 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+INTELSAT 5,-137,CMDP,Receive,13998.5 - 13999.5,-25.3 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+INTELSAT 5,-137,PCHU,Receive,5925.0 - 6425.0,0.6 (G/T),Asia Pacific,Western United States,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 5,-137,PCVU,Receive,5925.0 - 6425.0,0.2 (G/T),Asia Pacific,Western United States,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 5,-137,PKHV,Receive,14000.0 - 14250.0,-12.0 (G/T),Asia Pacific,Western United States,,,,,Ku-Band,36,QPSK,0.5,1
+INTELSAT 5,-137,PCHD,Transmit,3700.0 - 4200.0,41.6 (EIRP),Asia Pacific,Western United States,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 5,-137,PCVD,Transmit,3700.0 - 4200.0,41.0 (EIRP),Asia Pacific,Western United States,,,,,C-Band,36,QPSK,0.5,1
+INTELSAT 5,-137,TLMB,Transmit,11450.75 - 11452.25,9.0 (EIRP),Global,,,,,,X-Band,1.5,QPSK,0.5,1
+INTELSAT 5,-137,TLMG,Transmit,11450.75 - 11452.25,9.2 (EIRP),Global,,,,,,X-Band,1.5,QPSK,0.5,1
+INTELSAT 5,-137,TLMP,Transmit,11450.75 - 11452.25,10.2 (EIRP),Global,,,,,,X-Band,1.5,QPSK,0.5,1
+INTELSAT 5,-137,UPCL,Transmit,11453.987 - 11454.013,11.4 (EIRP),Global,,,,,,X-Band,0.026,QPSK,0.5,1
+INTELSAT 5,-137,UPCR,Transmit,11453.987 - 11454.013,11.4 (EIRP),Global,,,,,,X-Band,0.026,QPSK,0.5,1
+INTELSAT 5,-137,S1VD,Transmit,11450.0 - 11700.0,52.6 (EIRP),Global,,,,,,X-Band,36,QPSK,0.5,1
+Intelsat 9,-50,CMDP,Receive,14000.0 - 14001.0,-99.0 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+Intelsat 9,-50,CMDB,Receive,14494.0 - 14495.0,-99.0 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+Intelsat 9,-50,AEVU,Receive,14000.0 - 14240.0,0.0 (G/T),North America,Europe,,,,,Ku-Band,240,QPSK,0.5,1
+Intelsat 9,-50,MXVU,Receive,14240.0 - 14500.0,8.6 (G/T),Caribbean,,,,,,Ku-Band,260,QPSK,0.5,1
+Intelsat 9,-50,MXHU,Receive,14260.0 - 14500.0,8.4 (G/T),Caribbean,,,,,,Ku-Band,240,QPSK,0.5,1
+Intelsat 9,-50,BRHU,Receive,14000.0 - 14260.0,3.3 (G/T),Brazil,,,,,,Ku-Band,260,QPSK,0.5,1
+Intelsat 9,-50,AMHU,Receive,5925.0 - 6425.0,-0.2 (G/T),North America,Central America,South America,Europe,,,C-Band,500,QPSK,0.5,1
+Intelsat 9,-50,CMD,Receive,14494.0 - 14495.0,-99.0 (G/T),Global,,,,,,Ku-Band,1,QPSK,0.5,1
+Intelsat 9,-50,AMVU,Receive,5925.0 - 6425.0,-0.8 (G/T),North America,Central America,South America,Europe,,,C-Band,500,QPSK,0.5,1
+Intelsat 9,-50,BRVD,Transmit,11700.0 - 11960.0,48.1 (EIRP),Brazil,,,,,,X-Band,260,QPSK,0.5,1
+Intelsat 9,-50,MXVD,Transmit,11900.0 - 12200.0,54.2 (EIRP),Caribbean,,,,,,"X-Band, Ku-Band",300,QPSK,0.5,1
+Intelsat 9,-50,MXHD,Transmit,11900.0 - 12200.0,54.2 (EIRP),Caribbean,,,,,,"X-Band, Ku-Band",300,QPSK,0.5,1
+Intelsat 9,-50,UPCV,Transmit,11702.987 - 11703.013,12.3 (EIRP),Global,,,,,,X-Band,0.026,QPSK,0.5,1
+Intelsat 9,-50,UPCH,Transmit,11698.987 - 11699.013,13.2 (EIRP),Global,,,,,,X-Band,0.026,QPSK,0.5,1
+Intelsat 9,-50,TLMB,Transmit,11700.0 - 11702.5,10.7 (EIRP),Global,,,,,,X-Band,2.5,QPSK,0.5,1
+Intelsat 9,-50,AEHD,Transmit,11450.0 - 11700.0,49.6 (EIRP),North America,,,Europe,,,X-Band,250,QPSK,0.5,1
+Intelsat 9,-50,AMVD,Transmit,3700.0 - 4200.0,42.8 (EIRP),North America,Central America,South America,Europe,,,C-Band,500,QPSK,0.5,1
+Intelsat 9,-50,TLMP,Transmit,11700.0 - 11702.5,14.8 (EIRP),Global,,,,,,X-Band,2.5,QPSK,0.5,1
+Intelsat 9,-50,TLM,Transmit,11700.0 - 11702.5,9.2 (EIRP),Global,,,,,,X-Band,2.5,QPSK,0.5,1
+Intelsat 9,-50,AMHD,Transmit,3700.0 - 4200.0,42.7 (EIRP),North America,Central America,South America,Europe,,,C-Band,500,QPSK,0.5,1
+Intelsat 901,-30,KSVU,Receive,14000.0 - 14500.0,8.9 (G/T),Global,,,,,,Ku-Band,72,8PSK,0.75,1
+Intelsat 901,-30,CGRU,Receive,6300.0 - 6425.0,-6.7 (G/T),Global,,,,,,C-Band,36,8PSK,0.75,1
+Intelsat 901,-30,CGLU,Receive,6300.0 - 6425.0,-6.7 (G/T),Global,,,,,,C-Band,36,8PSK,0.75,1
+Intelsat 901,-30,SERU,Receive,5850.0 - 6300.0,-0.8 (G/T),Sub-Saharan Africa,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,KSHU,Receive,14000.0 - 14500.0,8.7 (G/T),Global,,,,,,Ku-Band,72,8PSK,0.75,1
+Intelsat 901,-30,CELU,Receive,5850.0 - 6300.0,-2.5 (G/T),Africa,Europe,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,NERU,Receive,5850.0 - 6300.0,4.2 (G/T),Europe,Greenland,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,NWRU,Receive,5850.0 - 6300.0,5.8 (G/T),Northern United States,Eastern Canada,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,SWRU,Receive,5850.0 - 6300.0,1.5 (G/T),South America,Caribbean,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,CWLU,Receive,5850.0 - 6300.0,-2.2 (G/T),North America,South America,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,CGLD,Transmit,4075.0 - 4200.0,35.5 (EIRP),Global,,,,,,C-Band,83.4,8PSK,0.75,1
+Intelsat 901,-30,CGRD,Transmit,4075.0 - 4200.0,35.8 (EIRP),Global,,,,,,C-Band,83.4,8PSK,0.75,1
+Intelsat 901,-30,WHRD,Transmit,3625.0 - 4075.0,40.4 (EIRP),North America,South America,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,CERD,Transmit,3625.0 - 4075.0,41.0 (EIRP),Africa,Europe,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,NWLD,Transmit,3625.0 - 4075.0,42.8 (EIRP),Northern United States,Eastern Canada,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,SWLD,Transmit,3625.0 - 4075.0,44.0 (EIRP),South America,Caribbean,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,SELD,Transmit,3625.0 - 4075.0,41.1 (EIRP),Sub-Saharan Africa,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,NELD,Transmit,3625.0 - 4075.0,45.9 (EIRP),Europe,Greenland,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 901,-30,KSHD,Transmit,10950.0 - 11200.0,53.8 (EIRP),Global,,,,,,X-Band,77,8PSK,0.75,1
+Intelsat 901,-30,KSHE,Transmit,11450.0 - 11700.0,53.8 (EIRP),Global,,,,,,X-Band,72,8PSK,0.75,1
+Intelsat 901,-30,KSVE,Transmit,11450.0 - 11700.0,53.6 (EIRP),Global,,,,,,X-Band,72,8PSK,0.75,1
+Intelsat 901,-30,KSVD,Transmit,10950.0 - 11200.0,53.6 (EIRP),Global,,,,,,X-Band,77,8PSK,0.75,1
+Intelsat 902,-50,CGLU,Receive,6300.0 - 6425.0,-6.5 (G/T),Global,,,,,,C-Band,125,QPSK,0.5,1
+Intelsat 902,-50,CGRU,Receive,6300.0 - 6425.0,-6.2 (G/T),Global,,,,,,C-Band,125,QPSK,0.5,1
+Intelsat 902,-50,CWLU,Receive,5850.0 - 6300.0,-2.2 (G/T),Western Hemisphere,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CELU,Receive,5850.0 - 6300.0,1.7 (G/T),Eastern Hemisphere,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CNRU,Receive,5850.0 - 6300.0,4.3 (G/T),North West,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CSRU,Receive,5850.0 - 6300.0,0.2 (G/T),South West,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CMRU,Receive,5850.0 - 6300.0,3.0 (G/T),Middle East,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,SERU,Receive,5850.0 - 6300.0,3.0 (G/T),South East,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,NERU,Receive,5850.0 - 6300.0,4.0 (G/T),North East,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CCRU,Receive,5850.0 - 6300.0,0.3 (G/T),Eastern Hemisphere,,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,K1HU,Receive,14000.0 - 14500.0,8.8 (G/T),Global,,,,,,Ku-Band,500,QPSK,0.5,1
+Intelsat 902,-50,K2VU,Receive,14000.0 - 14500.0,8.6 (G/T),Global,,,,,,Ku-Band,500,QPSK,0.5,1
+Intelsat 902,-50,CGLD,Transmit,4075.0 - 4200.0,35.6 (EIRP),Global,,,,,,C-Band,125,QPSK,0.5,1
+Intelsat 902,-50,CGRD,Transmit,4075.0 - 4200.0,35.4 (EIRP),Global,,,,,,C-Band,125,QPSK,0.5,1
+Intelsat 902,-50,CWRD,Transmit,3625.0 - 4075.0,41.1 (EIRP),Western Hemisphere,North America,South America,Western Europe,Greenland,Caribbean,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CERD,Transmit,3625.0 - 4075.0,45.1 (EIRP),Eastern Hemisphere,West Africa,South Europe,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CNLD,Transmit,3625.0 - 4075.0,41.8 (EIRP),North West,Canada,Continental United States,Caribbean,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CSLD,Transmit,3625.0 - 4075.0,41.8 (EIRP),South West United States,Mexico,South America,Caribbean,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CMLD,Transmit,3625.0 - 4075.0,43.1 (EIRP),Middle East,Greenland,West Europe,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,SELD,Transmit,3625.0 - 4075.0,45.6 (EIRP),South East,South West Africa,,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,NELD,Transmit,3625.0 - 4075.0,44.5 (EIRP),North East,North Africa,South Europe,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,CCLD,Transmit,3625.0 - 4075.0,47.6 (EIRP),Eastern Hemisphere,Africa,South Europe,,,,C-Band,450,QPSK,0.5,1
+Intelsat 902,-50,K1VD,Transmit,10950.0 - 11200.0,53.2 (EIRP),Global,Continental United States,Canada,Mexico,Caribbean,,X-Band,250,QPSK,0.5,1
+Intelsat 902,-50,K1VE,Transmit,11450.0 - 11700.0,35.2 (EIRP),Global,Continental United States,Canada,Mexico,Caribbean,,X-Band,250,QPSK,0.5,1
+Intelsat 905,-25,CGRU,Receive,6300.0 - 6425.0,-6.7 (G/T),Global,,,,,,C-Band,36,8PSK,0.75,1
+Intelsat 905,-25,CGLU,Receive,6300.0 - 6425.0,-6.7 (G/T),Global,,,,,,C-Band,36,8PSK,0.75,1
+Intelsat 905,-25,SERU,Receive,5850.0 - 6300.0,-0.8 (G/T),Malaysia,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,CWRU,Receive,5850.0 - 6300.0,-1.9 (G/T),South America,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,S1HU,Receive,14000.0 - 14500.0,8.7 (G/T),Europe,,,,,,Ku-Band,72,8PSK,0.75,1
+Intelsat 905,-25,S2VU,Receive,14000.0 - 14500.0,8.9 (G/T),Caribbean,,,,,,Ku-Band,72,8PSK,0.75,1
+Intelsat 905,-25,EHLU,Receive,5850.0 - 6300.0,-2.5 (G/T),Africa,Europe,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,MWRU,Receive,5850.0 - 6300.0,2.7 (G/T),Central America,Caribbean,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,NERU,Receive,5850.0 - 6300.0,4.2 (G/T),Europe,Greenland,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,NWRU,Receive,5850.0 - 6300.0,5.8 (G/T),Northern United States,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,SWRU,Receive,5850.0 - 6300.0,1.5 (G/T),North America,South America,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,WHLU,Receive,5850.0 - 6300.0,-2.2 (G/T),North America,South America,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,UPKD,Transmit,11451.98 - 11452.15,11.0 (EIRP),Global,,,,,,X-Band,0.17,BPSK,0.5,1
+Intelsat 905,-25,CGLD,Transmit,4075.0 - 4200.0,35.5 (EIRP),Global,,,,,,C-Band,36,8PSK,0.75,1
+Intelsat 905,-25,CGRD,Transmit,4075.0 - 4200.0,35.8 (EIRP),Global,,,,,,C-Band,36,8PSK,0.75,1
+Intelsat 905,-25,WHRD,Transmit,3625.0 - 4075.0,40.4 (EIRP),North America,South America,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,EHRD,Transmit,3625.0 - 4075.0,41.0 (EIRP),Africa,Europe,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,NWLD,Transmit,3625.0 - 4075.0,42.8 (EIRP),Northern United States,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,S1VD,Transmit,10950.0 - 11200.0,53.6 (EIRP),Global,,,,,,X-Band,77,8PSK,0.75,1
+Intelsat 905,-25,SWLD,Transmit,3625.0 - 4075.0,44.0 (EIRP),Southern South America,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,MWLD,Transmit,3625.0 - 4075.0,47.6 (EIRP),Central America,Caribbean,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,SELD,Transmit,3625.0 - 4075.0,41.1 (EIRP),Sub-Saharan Africa,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,NELD,Transmit,3625.0 - 4075.0,45.9 (EIRP),Europe,Greenland,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,S2HD,Transmit,10950.0 - 11200.0,53.8 (EIRP),Global,,,,,,X-Band,77,8PSK,0.75,1
+Intelsat 905,-25,CWLD,Transmit,3625.0 - 4075.0,43.1 (EIRP),South America,,,,,,C-Band,72,8PSK,0.75,1
+Intelsat 905,-25,S1VE,Transmit,11450.0 - 11700.0,53.6 (EIRP),Global,,,,,,X-Band,72,8PSK,0.75,1
+Intelsat 905,-25,S2HE,Transmit,11450.0 - 11700.0,53.8 (EIRP),Global,,,,,,X-Band,72,8PSK,0.75,1
+INTELSAT 906,64.15,EHLU,Receive,5850.0 - 6300.0,-2.2 (G/T),Australia,India,Indonesia,China,Japan,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,CGRU,Receive,6300.0 - 6425.0,-6.5 (G/T),Global,,,,,,C-Band,36,QPSK,0.42,1
+INTELSAT 906,64.15,CGLU,Receive,6300.0 - 6425.0,-6.5 (G/T),Global,,,,,,C-Band,36,QPSK,0.42,1
+INTELSAT 906,64.15,SERU,Receive,5850.0 - 6300.0,-0.1 (G/T),Malaysia,Australia,Indonesia,Thailand,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,CWRU,Receive,5850.0 - 6300.0,-2.45 (G/T),South America,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,S1HU,Receive,14000.0 - 14500.0,8.9 (G/T),Europe,,,,,,Ku-Band,77,QPSK,0.42,1
+INTELSAT 906,64.15,S2VU,Receive,14000.0 - 14500.0,9.1 (G/T),Caribbean,,,,,,Ku-Band,77,QPSK,0.42,1
+INTELSAT 906,64.15,NERU,Receive,5850.0 - 6300.0,4.4 (G/T),Europe,Greenland,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,NWRU,Receive,5850.0 - 6300.0,5.6 (G/T),Northern United States,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,SWRU,Receive,5850.0 - 6300.0,1.15 (G/T),Southern South America,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,WHLU,Receive,5850.0 - 6300.0,-3.65 (G/T),North America,South America,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,EHRD,Transmit,3625.0 - 4075.0,41.0 (EIRP),Australia,India,Indonesia,China,Japan,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,CGLD,Transmit,4075.0 - 4200.0,35.4 (EIRP),Global,,,,,,C-Band,36,QPSK,0.42,1
+INTELSAT 906,64.15,CGRD,Transmit,4075.0 - 4200.0,35.2 (EIRP),Global,,,,,,C-Band,36,QPSK,0.42,1
+INTELSAT 906,64.15,WHRD,Transmit,3625.0 - 4075.0,40.65 (EIRP),North America,South America,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,NWLD,Transmit,3625.0 - 4075.0,42.7 (EIRP),Northern United States,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,SWLD,Transmit,3625.0 - 4075.0,41.85 (EIRP),Southern South America,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,SELD,Transmit,3625.0 - 4075.0,42.3 (EIRP),Sub-Saharan Africa,,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,NELD,Transmit,3625.0 - 4075.0,44.2 (EIRP),Europe,Greenland,,,,,C-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,S2HD,Transmit,10950.0 - 11200.0,53.9 (EIRP),Caribbean,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,S1VD,Transmit,10950.0 - 11200.0,53.4 (EIRP),Europe,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,S1VE,Transmit,11450.0 - 11700.0,53.4 (EIRP),Europe,,,,,,X-Band,72,QPSK,0.42,1
+INTELSAT 906,64.15,S2HE,Transmit,11450.0 - 11700.0,53.9 (EIRP),Caribbean,,,,,,X-Band,72,QPSK,0.42,1
+Intelsat-16,-76,MHUL,Receive,14000.0 - 14500.0,11.5 (G/T),Mexico,Central America,Caribbean,Puerto Rico,,,Ku-Band,72,QPSK,0.75,1
+Intelsat-16,-76,MVUL,Receive,14000.0 - 14500.0,11.5 (G/T),Mexico,Central America,Caribbean,Puerto Rico,,,Ku-Band,72,QPSK,0.75,1
+Intelsat-16,-76,MHDL,Transmit,11700.0 - 12200.0,54.2 (EIRP),Mexico,Central America,Caribbean,Puerto Rico,,,"X-Band, Ku-Band",72,QPSK,0.75,1
+Intelsat-16,-76,MVDL,Transmit,11700.0 - 12200.0,54.2 (EIRP),Mexico,Central America,Caribbean,Puerto Rico,,,"X-Band, Ku-Band",72,QPSK,0.75,1
+Intelsat-16,-76,M2DL,Transmit,11700.0 - 12200.0,57.2 (EIRP),Mexico,Central America,Caribbean,Puerto Rico,,,"X-Band, Ku-Band",72,QPSK,0.75,1
+JCSAT-5A,132,C-T-,Transmit,3702.0 - 4118.0,40.7 (EIRP),Asia,Hawaii,,,,,C-Band,36,8PSK,0.75,0
+JCSAT-5A,132,C-R-,Receive,5927.0 - 6343.0,1.8 (G/T),Asia,Hawaii,,,,,C-Band,36,8PSK,0.75,0
+JCSAT-5A,132,C-T-,Transmit,3702.0 - 4118.0,40.6 (EIRP),Asia,Hawaii,,,,,C-Band,36,8PSK,0.75,0
+JCSAT-5A,132,C-R-,Receive,5927.0 - 6343.0,1.8 (G/T),Asia,Hawaii,,,,,C-Band,36,8PSK,0.75,0
+MSAT-2,-107,LR1,Receive,1631.5 - 1660.5,3.2 (G/T),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LR2,Receive,1631.5 - 1660.5,3.2 (G/T),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LR3,Receive,1631.5 - 1660.5,3.2 (G/T),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LR4,Receive,1631.5 - 1660.5,3.2 (G/T),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LR5,Receive,1631.5 - 1660.5,-0.8 (G/T),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LR6,Receive,1631.5 - 1660.5,-0.8 (G/T),Hawaii,,,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,KU1,Receive,13000.0 - 13250.0,-3.6 (G/T),Continental United States,Alaska,Canada,Hawaii,,,Ku-Band,200,QPSK,0.5,1
+MSAT-2,-107,OMNI,Receive,14499.0 - 14500.0,-8.0 (G/T),Global,,,,,,Ku-Band,0.1,QPSK,0.5,1
+MSAT-2,-107,KU1a,Receive,14000.0 - 14001.0,-3.6 (G/T),Continental United States,Alaska,Canada,Hawaii,,,Ku-Band,0.1,QPSK,0.5,1
+MSAT-2,-107,LE1,Transmit,1530.0 - 1559.0,57.3 (EIRP),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LE2,Transmit,1530.0 - 1559.0,57.3 (EIRP),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LE3,Transmit,1530.0 - 1559.0,57.3 (EIRP),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LE4,Transmit,1530.0 - 1559.0,57.3 (EIRP),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LE5,Transmit,1530.0 - 1559.0,57.3 (EIRP),Continental United States,Alaska,Canada,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,LE6,Transmit,1530.0 - 1559.0,57.3 (EIRP),Hawaii,,,,,,L-Band,29,QPSK,0.5,1
+MSAT-2,-107,KUE,Transmit,10750.0 - 10950.0,36.2 (EIRP),Continental United States,Alaska,Canada,Hawaii,,,X-Band,200,QPSK,0.5,1
+MSAT-2,-107,KUaE,Transmit,11700.35 - 11700.65,36.2 (EIRP),Continental United States,Alaska,Canada,Hawaii,,,X-Band,0.3,QPSK,0.5,1
+MSAT-2,-107,KUbE,Transmit,11700.85 - 11701.15,36.2 (EIRP),Continental United States,Alaska,Canada,Hawaii,,,X-Band,0.3,QPSK,0.5,1
+MSAT-2,-107,OMNE,Transmit,11700.35 - 11700.65,7.4 (EIRP),Global,,,,,,X-Band,0.3,QPSK,0.5,1
+MSAT-2,-107,OMNa,Transmit,11700.85 - 11701.15,7.4 (EIRP),Global,,,,,,X-Band,0.3,QPSK,0.5,1
+NIMIQ 5,-72.7,RXL,Receive,17324.0 - 17761.4,8.0 (G/T),Global,,,,,,Ku-Band,24,QPSK,0.691,0
+NIMIQ 5,-72.7,RXR,Receive,17324.0 - 17761.4,8.0 (G/T),Global,,,,,,Ku-Band,24,QPSK,0.691,0
+NIMIQ 5,-72.7,TXL,Transmit,12224.0 - 12661.4,55.5 (EIRP),Global,,,,,,Ku-Band,24,QPSK,0.691,0
+NIMIQ 5,-72.7,TXR,Transmit,12224.0 - 12661.4,55.5 (EIRP),Global,,,,,,Ku-Band,24,QPSK,0.691,0
+NSS-11,176,BCAR,Receive,14000.0 - 14500.0,14.61 (G/T),Global,,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,CHRH,Receive,14000.0 - 14500.0,6.42 (G/T),Alaska,Hawaii,Canada,Eastern Asia,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,GBLR,Receive,14000.0 - 14500.0,14.61 (G/T),Global,,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,NERH,Receive,14000.0 - 14500.0,5.59 (G/T),Hawaii,Alaska,Canada,Northwestern United States,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,SARV,Receive,14000.0 - 14500.0,5.93 (G/T),Guam,Eastern Asia,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,NERV,Receive,14000.0 - 14500.0,5.59 (G/T),Hawaii,Alaska,Canada,Northwestern United States,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,BCAT,Transmit,12250.0 - 12750.0,6.0 (EIRP),Global,,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,BTX2,Transmit,12250.0 - 12750.0,19.7 (EIRP),Pacific Ocean,,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,BTX1,Transmit,12250.0 - 12750.0,14.6 (EIRP),Pacific Ocean,,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,GBLH,Transmit,12250.0 - 12750.0,6.0 (EIRP),Global,,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,CHTV,Transmit,12250.0 - 12750.0,54.19 (EIRP),Alaska,Hawaii,Canada,Eastern Asia,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,NETV,Transmit,12250.0 - 12750.0,54.41 (EIRP),Hawaii,Alaska,Canada,Northwestern United States,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,NETH,Transmit,12250.0 - 12750.0,54.41 (EIRP),Hawaii,Alaska,Canada,Northwestern United States,,,Ku-Band,72,QPSK,0.5,1
+NSS-11,176,SATH,Transmit,12250.0 - 12750.0,54.15 (EIRP),Guam,Eastern Asia,,,,,Ku-Band,72,QPSK,0.5,1
+NSS-6,-169,RCH,Receive,13750.0 - 14500.0,9.31 (G/T),Canada,United States West Coast,Alaska,Pacific,,,Ku-Band,54,QPSK,0.75,1
+NSS-6,-169,RCV,Receive,13750.0 - 14500.0,9.36 (G/T),Canada,United States West Coast,Alaska,Pacific,,,Ku-Band,54,QPSK,0.75,1
+NSS-6,-169,RNH,Receive,13750.0 - 14500.0,8.51 (G/T),Pacific Ocean,United States West Coast,,,,,Ku-Band,54,QPSK,0.75,1
+NSS-6,-169,RNV,Receive,13750.0 - 14500.0,8.9 (G/T),Pacific Ocean,United States West Coast,,,,,Ku-Band,54,QPSK,0.75,1
+NSS-6,-169,RSH,Receive,13750.0 - 14500.0,7.59 (G/T),Pacific Ocean,Hawaii,,,,,Ku-Band,54,QPSK,0.75,1
+NSS-6,-169,TAV,Transmit,12500.0 - 12750.0,55.03 (EIRP),South Pacific,,,,,,Ku-Band,54,QPSK,0.75,1
+NSS-6,-169,TCHl,Transmit,10950.0 - 11200.0,54.61 (EIRP),Canada,United States West Coast,Alaska,Pacific,,,X-Band,54,QPSK,0.75,1
+NSS-6,-169,TCHm,Transmit,11450.0 - 11700.0,54.61 (EIRP),Canada,United States West Coast,Alaska,Pacific,,,X-Band,54,QPSK,0.75,1
+NSS-6,-169,TCV,Transmit,10950.0 - 11200.0,54.39 (EIRP),Canada,United States West Coast,Alaska,Pacific,,,X-Band,54,QPSK,0.75,1
+NSS-6,-169,TIHl,Transmit,10950.0 - 11200.0,56.7 (EIRP),Pacific Ocean,,,,,,X-Band,54,QPSK,0.75,1
+NSS-9,-177,EHL,Receive,5850.0 - 6425.0,-0.9 (G/T),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,EHR,Receive,5850.0 - 6425.0,-0.9 (G/T),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,EHL,Transmit,3625.0 - 4200.0,41.5 (EIRP),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,EHR,Transmit,3625.0 - 4200.0,41.5 (EIRP),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,WHL,Receive,5850.0 - 6425.0,-1.6 (G/T),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,WHR,Receive,5850.0 - 6425.0,-1.6 (G/T),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,WHL,Transmit,3625.0 - 4200.0,40.6 (EIRP),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,WHR,Transmit,3625.0 - 4200.0,40.6 (EIRP),Global,,,,,,C-Band,72,QPSK,0.75,1
+NSS-9,-177,GLLU,Receive,5850.0 - 6425.0,-7.3 (G/T),Global,,,,,,C-Band,36,QPSK,0.692,1
+NSS-9,-177,GLR,Receive,5850.0 - 6425.0,-7.3 (G/T),Global,,,,,,C-Band,36,QPSK,0.692,1
+NSS-9,-177,GLLD,Transmit,3625.0 - 4200.0,35.5 (EIRP),Global,,,,,,C-Band,36,QPSK,0.692,1
+NSS-9,-177,GLR,Transmit,3625.0 - 4200.0,35.5 (EIRP),Global,,,,,,C-Band,36,QPSK,0.692,1
+QUETZSAT-1,-77,RRC,Receive,17300.0 - 17800.0,13.0 (G/T),Cheyenne WY,,,,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,RRG,Receive,17300.0 - 17800.0,12.8 (G/T),Gilbert AZ,,,,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,RRM,Receive,17300.0 - 17800.0,9.6 (G/T),Mexico City,,,,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,RLC,Receive,17300.0 - 17800.0,12.4 (G/T),Cheyenne WY,,,,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,RLG,Receive,17300.0 - 17800.0,12.2 (G/T),Gilbert AZ,,,,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,RLM,Receive,17300.0 - 17800.0,9.2 (G/T),Mexico City,,,,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,TEL,Transmit,12200.0 - 12700.0,57.6 (EIRP),Continental United States,Puerto Rico,Mexico,Central America,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,TER,Transmit,12200.0 - 12700.0,57.5 (EIRP),Continental United States,Puerto Rico,Mexico,Central America,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,TWL,Transmit,12200.0 - 12700.0,57.5 (EIRP),Continental United States,Puerto Rico,Mexico,Central America,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,TWR,Transmit,12200.0 - 12700.0,57.4 (EIRP),Continental United States,Puerto Rico,Mexico,Central America,,,Ku-Band,24,QPSK,0.67,1
+QUETZSAT-1,-77,TMO,Transmit,12200.0 - 12700.0,24.4 (EIRP),Mexico City,,,,,,Ku-Band,24,QPSK,0.67,1
+SATMEX 8,-116.8,CUH,Receive,5925.0 - 6425.0,1.3 (G/T),South America,,,,,,C-Band,36,QPSK,0.691,1
+SATMEX 8,-116.8,CUV,Receive,5925.0 - 6425.0,1.3 (G/T),South America,,,,,,C-Band,36,QPSK,0.691,1
+SATMEX 8,-116.8,CDH,Transmit,3700.0 - 4200.0,42.7 (EIRP),South America,,,,,,C-Band,36,QPSK,0.691,1
+SATMEX 8,-116.8,CDV,Transmit,3700.0 - 4200.0,42.7 (EIRP),South America,,,,,,C-Band,36,QPSK,0.691,1
+SATMEX 8,-116.8,KHUH,Receive,14000.0 - 14500.0,4.6 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.691,1
+SATMEX 8,-116.8,KHUV,Receive,14000.0 - 14500.0,4.6 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.691,1
+SATMEX 8,-116.8,KHDH,Transmit,11700.0 - 12200.0,50.2 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.691,1
+SATMEX 8,-116.8,KHDV,Transmit,11700.0 - 12200.0,50.2 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.691,1
+SATMEX 9,-117,CGU,Receive,6628.27 - 6701.42,-5.4 (G/T),Global,,,,,,C-Band,22,BPSK,0.5,1
+SATMEX 9,-117,L1GD,Transmit,1564.42 - 1586.42,36.5 (EIRP),Global,,,,,,L-Band,22,BPSK,0.5,1
+SATMEX 9,-117,L5GD,Transmit,1165.45 - 1187.45,35.8 (EIRP),Global,,,,,,L-Band,22,BPSK,0.5,1
+SATMEX 9,-117,CGD,Transmit,4198.0 - 4200.0,11.4 (EIRP),Global,,,,,,C-Band,0.4,BPSK,0.5,1
+SES-11,-105,CRH,Receive,5925.0 - 6425.0,3.1 (G/T),Continental United States,Hawaii,Alaska,Canada,Mexico,Central America,C-Band,36,QPSK,0.6,1
+SES-11,-105,CRV,Receive,5925.0 - 6425.0,3.1 (G/T),Continental United States,Hawaii,Alaska,Canada,Mexico,Central America,C-Band,36,QPSK,0.6,1
+SES-11,-105,KUR,Receive,14000.0 - 14500.0,7.09 (G/T),Continental United States,Hawaii,Alaska,Canada,Mexico,,Ku-Band,36,8PSK,0.6667,1
+SES-11,-105,KARL,Receive,28350.0 - 30000.0,-2.568 (G/T),North America,,,,,,Ka-Band,750,QPSK,0.25,1
+SES-11,-105,CTH,Transmit,3700.0 - 4200.0,42.4 (EIRP),Continental United States,Hawaii,Alaska,Canada,Mexico,Central America,C-Band,36,QPSK,0.6,1
+SES-11,-105,CTV,Transmit,3700.0 - 4200.0,42.4 (EIRP),Continental United States,Hawaii,Alaska,Canada,Mexico,Central America,C-Band,36,QPSK,0.6,1
+SES-11,-105,KUTV,Transmit,11700.0 - 12200.0,53.68 (EIRP),Continental United States,Hawaii,Alaska,Canada,Mexico,,"X-Band, Ku-Band",36,8PSK,0.6667,1
+SES-11,-105,KUTH,Transmit,11700.0 - 12200.0,53.69 (EIRP),Continental United States,Hawaii,Alaska,Canada,Mexico,,"X-Band, Ku-Band",36,8PSK,0.6667,1
+SES-11,-105,KATR,Transmit,18300.0 - 20200.0,41.7 (EIRP),North America,,,,,,Ku-Band,750,QPSK,0.25,1
+SES-15,-129.15,NAU,Receive,14000.0 - 14500.0,6.3 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.75,1
+SES-15,-129.15,NAD,Transmit,11700.0 - 12200.0,50.4 (EIRP),North America,,,,,,"X-Band, Ku-Band",36,QPSK,0.75,1
+SES-15,-129.15,SWU,Receive,14000.0 - 14500.0,20.6 (G/T),Southwest United States,Northwest Mexico,,,,,Ku-Band,36,QPSK,0.75,1
+SES-15,-129.15,GPS,Transmit,1564.42 - 1586.42,35.5 (EIRP),Global,,,,,,L-Band,22,QPSK,0.5,1
+SES-15,-129.15,GPS,Transmit,1165.45 - 1187.45,35.5 (EIRP),Global,,,,,,L-Band,22,QPSK,0.5,1
+SES-15,-129.15,COU,Receive,14000.0 - 14500.0,19.7 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.75,1
+SES-15,-129.15,NWU,Receive,14000.0 - 14500.0,20.3 (G/T),Washington State,Southwest Canada,,,,,Ku-Band,36,QPSK,0.75,1
+SES-15,-129.15,NWD,Transmit,11700.0 - 12200.0,57.6 (EIRP),Washington State,Southwest Canada,,,,,"X-Band, Ku-Band",36,QPSK,0.75,1
+SES-15,-129.15,ECU,Receive,14000.0 - 14500.0,20.8 (G/T),East coast of the United States,,,,,,Ku-Band,36,QPSK,0.75,1
+SES-15,-129.15,ECDL,Transmit,11700.0 - 12200.0,56.6 (EIRP),East coast of the United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.75,1
+SES-2,-87,CRH,Receive,5925.0 - 6425.0,3.39 (G/T),Global,,,,,,C-Band,500,QPSK,0.69,1
+SES-2,-87,CRV,Receive,5925.0 - 6425.0,3.3 (G/T),Global,,,,,,C-Band,500,QPSK,0.69,1
+SES-2,-87,KRH,Receive,14000.0 - 14500.0,7.65 (G/T),Global,,,,,,Ku-Band,500,QPSK,0.69,1
+SES-2,-87,KRV,Receive,14000.0 - 14500.0,7.99 (G/T),Global,,,,,,Ku-Band,500,QPSK,0.69,1
+SES-2,-87,KAR,Receive,24750.0 - 25250.0,-7.35 (G/T),Global,,,,,,Ku-Band,500,QPSK,0.75,1
+SES-2,-87,CTH,Transmit,3700.0 - 4200.0,43.66 (EIRP),Global,,,,,,C-Band,500,QPSK,0.69,1
+SES-2,-87,CTV,Transmit,3700.0 - 4200.0,43.85 (EIRP),Global,,,,,,C-Band,500,QPSK,0.69,1
+SES-2,-87,KTH,Transmit,11700.0 - 12200.0,52.17 (EIRP),Global,,,,,,"X-Band, Ku-Band",500,QPSK,0.69,1
+SES-2,-87,KTV,Transmit,11700.0 - 12200.0,52.62 (EIRP),Global,,,,,,"X-Band, Ku-Band",500,QPSK,0.69,1
+SES-2,-87,KAT,Transmit,17300.0 - 17800.0,33.28 (EIRP),Global,,,,,,Ku-Band,500,QPSK,0.75,1
+SES-2,-87,KATL,Transmit,17300.0 - 17800.0,33.28 (EIRP),Global,,,,,,Ku-Band,500,QPSK,0.75,1
+SES-20,-135,CRH,Receive,5900.0 - 6425.0,2.7 (G/T),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,72,QPSK,0.75,1
+SES-20,-135,CRV,Receive,5900.0 - 6425.0,2.7 (G/T),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,72,QPSK,0.75,1
+SES-20,-135,CGR,Receive,6420.8 - 6423.7,-19.5 (G/T),Global,,,,,,C-Band,0.4,QPSK,0.5,1
+SES-20,-135,CTH,Transmit,3704.0 - 4198.0,43.4 (EIRP),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,72,QPSK,0.75,1
+SES-20,-135,CTV,Transmit,3704.0 - 4198.0,43.6 (EIRP),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,72,QPSK,0.75,1
+SES-20,-135,CGT,Transmit,4197.0 - 4199.7,10.2 (EIRP),Global,,,,,,C-Band,0.4,QPSK,0.5,1
+SES-21,-103.05,CRH,Receive,5900.0 - 6425.0,2.7 (G/T),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,36,QPSK,0.5,1
+SES-21,-103.05,CRV,Receive,5900.0 - 6425.0,2.7 (G/T),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,36,QPSK,0.5,1
+SES-21,-103.05,CGR,Receive,6420.8 - 6423.7,-19.4 (G/T),Global,,,,,,C-Band,0.4,QPSK,0.5,1
+SES-21,-103.05,CTH,Transmit,3704.0 - 4198.0,43.4 (EIRP),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,36,QPSK,0.5,1
+SES-21,-103.05,CTV,Transmit,3704.0 - 4198.0,43.6 (EIRP),Continental United States,Alaska,Hawaii,Canada,Mexico,Central America,C-Band,36,QPSK,0.5,1
+SES-21,-103.05,CGT,Transmit,4197.0 - 4199.7,10.2 (EIRP),Global,,,,,,C-Band,0.4,QPSK,0.5,1
+SES-22,-135,GRH,Receive,5947.0 - 6063.0,-4.8 (G/T),Global,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,GRV,Receive,5927.0 - 6043.0,-4.8 (G/T),Global,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,NRH,Receive,6187.0 - 6425.0,2.6 (G/T),North America,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,NRV,Receive,6167.0 - 6425.0,2.6 (G/T),North America,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,ARH,Receive,5947.0 - 6423.0,5.2 (G/T),Alaska,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,ARV,Receive,5927.0 - 6412.0,5.2 (G/T),Alaska,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,NTH,Transmit,3942.0 - 4200.0,43.9 (EIRP),North America,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,NTV,Transmit,3962.0 - 4200.0,43.9 (EIRP),North America,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,ATH,Transmit,3702.0 - 4200.0,45.3 (EIRP),Alaska,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,ATV,Transmit,3722.0 - 4200.0,45.3 (EIRP),Alaska,,,,,,C-Band,36,QPSK,0.5,1
+SES-22,-135,GTH,Transmit,3700.0 - 3818.0,37.4 (EIRP),Global,,,,,,L-Band,36,QPSK,0.5,1
+SES-22,-135,GTV,Transmit,3722.0 - 3838.0,37.4 (EIRP),Global,,,,,,L-Band,36,QPSK,0.5,1
+SES-6,-40.5,NAU,Receive,13750.0 - 14500.0,-98.0 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.691,1
+SES-6,-40.5,ANU,Receive,13750.0 - 14500.0,-98.0 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.691,1
+SES-6,-40.5,BRU,Receive,13750.0 - 14500.0,-98.0 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.691,1
+SES-6,-40.5,SCU,Receive,13750.0 - 14500.0,-98.0 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.691,1
+SES-6,-40.5,ATEU,Receive,13750.0 - 14500.0,-95.0 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.691,1
+SES-6,-40.5,CUR,Receive,5850.0 - 7025.0,-102.0 (G/T),Global,,,,,,C-Band,54,QPSK,0.691,1
+SES-6,-40.5,NAD,Transmit,10950.0 - 12200.0,54.8 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.691,1
+SES-6,-40.5,AND,Transmit,10950.0 - 12200.0,52.9 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.691,1
+SES-6,-40.5,BRD,Transmit,10950.0 - 12200.0,52.8 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.691,1
+SES-6,-40.5,SCD,Transmit,10950.0 - 12200.0,52.5 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.691,1
+SES-6,-40.5,ATED,Transmit,10950.0 - 12200.0,51.7 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.691,1
+SES-6,-40.5,CDR,Transmit,3625.0 - 4800.0,43.4 (EIRP),Global,,,,,,C-Band,54,QPSK,0.691,1
+SES-6,-40.5,TCU,Receive,13750.0 - 14500.0,-9.0 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.691,1
+SES-6,-40.5,TMD,Transmit,10950.0 - 12200.0,21.0 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.691,1
+SES-6,-40.5,OMN,Receive,13750.0 - 14500.0,-20.1 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.691,1
+SES-6,-40.5,OMN,Transmit,10950.0 - 12200.0,20.0 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.691,1
+SIRIUS FM-6,-116.15,XU1,Receive,7062.29 - 7070.21,2.9 (G/T),Eastern United States,Central United States,,,,,C-Band,4.5,QPSK,0.6667,0
+SIRIUS FM-6,-116.15,SD1,Transmit,2322.29 - 2330.21,71.6 (EIRP),Continental United States,,,,,,L-Band,4.5,QPSK,0.6667,0
+SKYTERRA 1,-101.3,CGV,Receive,5925.0 - 6425.0,-7.8 (G/T),Global,,,,,,C-Band,69.6,QPSK,0.5,0
+SKYTERRA 1,-101.3,ABC,Receive,13750.0 - 14500.0,14.7 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,0
+SKYTERRA 1,-101.3,BBC,Receive,13750.0 - 14500.0,15.2 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,0
+SKYTERRA 1,-101.3,CBC,Receive,13750.0 - 14500.0,14.1 (G/T),Southern South America,,,,,,Ku-Band,24,QPSK,0.5,0
+SKYTERRA 1,-101.3,COB,Receive,13750.0 - 14500.0,15.3 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,0
+SKYTERRA 1,-101.3,VBC,Receive,13750.0 - 14500.0,15.0 (G/T),Northern South America,,,,,,Ku-Band,24,QPSK,0.5,0
+SKYTERRA 1,-101.3,CBG,Transmit,3700.0 - 4200.0,39.7 (EIRP),Global,,,,,,C-Band,69.6,QPSK,0.5,0
+SKYTERRA 1,-101.3,R1LD,Transmit,11700.0 - 12200.0,58.3 (EIRP),South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,0
+SKYTERRA 1,-101.3,R1R,Transmit,11700.0 - 12200.0,58.3 (EIRP),South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,0
+SKYTERRA 1,-101.3,R2LD,Transmit,11700.0 - 12200.0,57.5 (EIRP),South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,0
+SKYTERRA 1,-101.3,R2R,Transmit,11700.0 - 12200.0,57.5 (EIRP),South America,,,,,,"X-Band, Ku-Band",24,QPSK,0.5,0
+SKYTERRA 1,-101.3,R3LD,Transmit,11700.0 - 12200.0,55.6 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,0
+SKYTERRA 1,-101.3,R3R,Transmit,11700.0 - 12200.0,58.3 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,0
+SKYTERRA 1,-101.3,R4R,Transmit,11700.0 - 12200.0,57.6 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,0
+SKYTERRA 1,-101.3,R4LD,Transmit,11700.0 - 12200.0,54.9 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,0
+SKYTERRA 1,-101.3,PRLD,Transmit,11700.0 - 12200.0,57.8 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,0
+SKYTERRA 1,-101.3,PRR,Transmit,11700.0 - 12200.0,60.3 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,0
+SKYTERRA 1,-101.3,TCN,Transmit,11700.0 - 12200.0,54.3 (EIRP),South America,,,,,,"X-Band, Ku-Band",8,QPSK,0.5,0
+SKYTERRA 1,-101.3,CBC,Transmit,11700.0 - 12200.0,47.2 (EIRP),Southwestern United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.5,0
+SPACEWAY 2,-138.9,RX5L,Receive,29250.0 - 30000.0,22.0 (G/T),Global,,,,,,Ka-Band,62.5,QPSK,0.75,1
+SPACEWAY 2,-138.9,RX1L,Receive,29250.0 - 30000.0,22.0 (G/T),Global,,,,,,Ka-Band,62.5,QPSK,0.75,1
+SPACEWAY 2,-138.9,CMD,Receive,29250.0 - 30000.0,22.0 (G/T),Global,,,,,,Ka-Band,62.5,QPSK,0.75,1
+SPACEWAY 2,-138.9,RX7L,Receive,28350.0 - 28600.0,22.0 (G/T),Global,,,,,,Ka-Band,165,QPSK,0.75,1
+SPACEWAY 2,-138.9,RX6L,Receive,28350.0 - 28600.0,22.0 (G/T),Global,,,,,,Ka-Band,165,QPSK,0.75,1
+SPACEWAY 2,-138.9,TLM,Transmit,19700.0 - 20200.0,59.5 (EIRP),Global,,,,,,Ku-Band,62.5,QPSK,0.75,1
+SPACEWAY 2,-138.9,TX4R,Transmit,18300.0 - 18800.0,45.0 (EIRP),Alaska,,,,,,Ku-Band,165,QPSK,0.75,1
+SPACEWAY 2,-138.9,TX4L,Transmit,18300.0 - 18800.0,45.0 (EIRP),Alaska,,,,,,Ku-Band,165,QPSK,0.75,1
+SPACEWAY 2,-138.9,TX3R,Transmit,19700.0 - 20200.0,59.5 (EIRP),Global,,,,,,Ku-Band,62.5,QPSK,0.75,1
+SPACEWAY 2,-138.9,TX2R,Transmit,19700.0 - 20200.0,59.5 (EIRP),Global,,,,,,Ku-Band,62.5,QPSK,0.75,1
+SPACEWAY 4,-107.1,G1U,Receive,29250.0 - 30000.0,22.0 (G/T),Continental United States,Canada,,,,,Ka-Band,250,16QAM,0.6642,1
+SPACEWAY 4,-107.1,G1D,Transmit,19700.0 - 20200.0,65.0 (EIRP),Continental United States,Canada,,,,,Ku-Band,250,16QAM,0.6642,1
+SPACEWAY 4,-107.1,U1U,Receive,28350.0 - 29100.0,22.0 (G/T),Continental United States,Canada,,,,,Ka-Band,250,8PSK,0.747,1
+SPACEWAY 4,-107.1,U1D,Transmit,18300.0 - 19300.0,67.0 (EIRP),Continental United States,Canada,,,,,Ku-Band,250,8PSK,0.747,1
+SPACEWAY 4,-107.1,TCL,Receive,28351.0 - 28353.0,15.5 (G/T),Continental United States,Canada,,,,,Ka-Band,1,QPSK,0.5,1
+SPACEWAY 4,-107.1,TMR,Transmit,19700.5 - 19702.5,24.0 (EIRP),Continental United States,Canada,,,,,Ku-Band,0.8,QPSK,0.5,1
+SPACEWAY 4,-107.1,BCN,Transmit,20199.5 - 20199.5,30.0 (EIRP),Continental United States,Canada,,,,,Ku-Band,0.025,BPSK,0.5,1
+SPACEWAY 4,-107.1,OMN,Receive,29998 - 29998,20.0 (EIRP),Global,,,,,,Ka-Band,0.025,BPSK,0.5,1
+SPACEWAY 4,-107.1,OMN,Transmit,29998 - 29998,20.0 (EIRP),Global,,,,,,Ka-Band,0.025,BPSK,0.5,1
+SPACEWAY 4,-107.1,RFT1,Receive,29998 - 29998,14.0 (G/T),Continental United States,Canada,,,,,Ka-Band,0.025,BPSK,0.5,1
+STAR ONE C2,-70,MKR,Receive,14000.0 - 14500.0,6.1 (G/T),Southern Continental United States,,,,,,Ku-Band,36,QPSK,0.806,0
+STAR ONE C2,-70,MKT,Transmit,11700.0 - 12200.0,51.4 (EIRP),Southern Continental United States,,,,,,"X-Band, Ku-Band",36,QPSK,0.806,0
+STAR ONE C2,-70,BRR,Receive,14000.0 - 14500.0,5.9 (G/T),Brazil,,,,,,Ku-Band,72,QPSK,0.806,0
+STAR ONE C2,-70,BRT,Transmit,11700.0 - 12200.0,51.3 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",72,QPSK,0.806,0
+STAR ONE C2,-70,GBL,Transmit,11700.0 - 12200.0,9.0 (EIRP),Global,,,,,,"X-Band, Ku-Band",0.025,QPSK,0.5,0
+STAR ONE C3,-75,ANDUH,Receive,13750.0 - 14000.0,6.9 (G/T),South America,,,,,,Ku-Band,72,QPSK,0.841,0
+STAR ONE C3,-75,ANDUV,Receive,13750.0 - 14000.0,6.9 (G/T),South America,,,,,,Ku-Band,72,QPSK,0.841,0
+STAR ONE C3,-75,BRAUH,Receive,13750.0 - 14000.0,7.7 (G/T),Brazil,,,,,,Ku-Band,72,QPSK,0.841,0
+STAR ONE C3,-75,BRAUV,Receive,13750.0 - 14000.0,7.7 (G/T),Brazil,,,,,,Ku-Band,72,QPSK,0.841,0
+STAR ONE C3,-75,ANDDH,Transmit,10950.0 - 11200.0,52.2 (EIRP),South America,,,,,,X-Band,72,QPSK,0.841,0
+STAR ONE C3,-75,ANDDV,Transmit,10950.0 - 11200.0,52.2 (EIRP),South America,,,,,,X-Band,72,QPSK,0.841,0
+STAR ONE C3,-75,BRADH,Transmit,10950.0 - 11200.0,54.8 (EIRP),Brazil,,,,,,X-Band,72,QPSK,0.841,0
+STAR ONE C3,-75,BRADV,Transmit,10950.0 - 11200.0,54.8 (EIRP),Brazil,,,,,,X-Band,72,QPSK,0.841,0
+Star One D2,-70,CAMK,Receive,14002.0 - 14498.0,7.08 (G/T),Global,,,,,,Ku-Band,36,QPSK,0.806,0
+Star One D2,-70,CAM1,Transmit,11702.0 - 12198.0,53.56 (EIRP),Global,,,,,,"X-Band, Ku-Band",36,QPSK,0.806,0
+SXM-7,-85,XU1,Receive,7025.0 - 7075.0,0.85 (G/T),Global,,,,,,C-Band,50,QPSK,0.75,0
+SXM-7,-85,OMC1,Receive,6422.0 - 6425.0,-36.1 (G/T),Global,,,,,,C-Band,3,QPSK,0.75,0
+SXM-7,-85,OSC1,Receive,7025.0 - 7075.0,-21.2 (G/T),Global,,,,,,C-Band,50,QPSK,0.75,0
+SXM-7,-85,OMX1,Receive,7025.0 - 7075.0,-36.3 (G/T),Global,,,,,,C-Band,50,QPSK,0.75,0
+SXM-7,-85,SD1,Transmit,2320.0 - 2345.0,73.3 (EIRP),North America,,,,,,L-Band,25,QPSK,0.75,0
+SXM-7,-85,OST1,Transmit,2320.0 - 2345.0,38.6 (EIRP),Global,,,,,,L-Band,25,QPSK,0.75,0
+SXM-7,-85,OMS1,Transmit,2320.0 - 2345.0,11.6 (EIRP),Global,,,,,,L-Band,25,QPSK,0.75,0
+SXM-7,-85,OMC2,Transmit,4196.0 - 4198.5,13.6 (EIRP),Global,,,,,,C-Band,2.5,QPSK,0.75,0
+SXM-7,-85,TB1,Transmit,2320.0 - 2345.0,57.8 (EIRP),Global,,,,,,L-Band,25,QPSK,0.75,0
+SXM-8,-115.25,XU1,Receive,7025.0 - 7075.0,0.85 (G/T),Global,,,,,,C-Band,50,QPSK,0.69,0
+SXM-8,-115.25,OMC1,Receive,6422.0 - 6425.0,-36.1 (G/T),Global,,,,,,C-Band,3,QPSK,0.69,0
+SXM-8,-115.25,OSC1,Receive,7025.0 - 7075.0,-21.2 (G/T),Global,,,,,,C-Band,50,QPSK,0.69,0
+SXM-8,-115.25,OMX1,Receive,7025.0 - 7075.0,-36.3 (G/T),Global,,,,,,C-Band,50,QPSK,0.69,0
+SXM-8,-115.25,SD1,Transmit,2320.0 - 2345.0,73.5 (EIRP),North America,,,,,,L-Band,25,QPSK,0.69,0
+SXM-8,-115.25,OST1,Transmit,2320.0 - 2345.0,38.8 (EIRP),Global,,,,,,L-Band,25,QPSK,0.69,0
+SXM-8,-115.25,OMS1,Transmit,2320.0 - 2345.0,11.6 (EIRP),Global,,,,,,L-Band,25,QPSK,0.69,0
+SXM-8,-115.25,OMC2,Transmit,4196.0 - 4198.5,13.6 (EIRP),Global,,,,,,C-Band,2.5,QPSK,0.69,0
+SXM-8,-115.25,TB1,Transmit,2320.0 - 2345.0,57.8 (EIRP),Global,,,,,,L-Band,25,QPSK,0.69,0
+TELSTAR 11N,-37.55,USA,Receive,13750.0 - 14500.0,-101.0 (G/T),North America,Atlantic Region,,,,,Ku-Band,54,QPSK,0.5,0
+TELSTAR 11N,-37.55,USA,Transmit,10950.0 - 12750.0,53.6 (EIRP),North America,Atlantic Region,,,,,"X-Band, Ku-Band",54,QPSK,0.5,0
+TELSTAR 11N,-37.55,EUR,Receive,13750.0 - 14500.0,-102.0 (G/T),Europe,,,,,,Ku-Band,54,QPSK,0.5,0
+TELSTAR 11N,-37.55,EUR,Transmit,10950.0 - 12750.0,53.7 (EIRP),Europe,,,,,,"X-Band, Ku-Band",54,QPSK,0.5,0
+TELSTAR 11N,-37.55,SSA,Receive,13750.0 - 14500.0,-100.0 (G/T),South Africa,,,,,,Ku-Band,54,QPSK,0.5,0
+TELSTAR 11N,-37.55,SSAT,Transmit,10950.0 - 12750.0,51.9 (EIRP),South Africa,,,,,,"X-Band, Ku-Band",54,QPSK,0.5,0
+TELSTAR 11N,-37.55,AOR,Receive,13750.0 - 14500.0,-101.0 (G/T),Africa,,,,,,Ku-Band,54,QPSK,0.5,0
+TELSTAR 11N,-37.55,AOR,Transmit,10950.0 - 12750.0,47.8 (EIRP),Africa,,,,,,"X-Band, Ku-Band",54,QPSK,0.5,0
+TELSTAR 11N,-37.55,OMNI,Receive,13750.0 - 14500.0,-83.5 (G/T),Global,,,,,,Ku-Band,54,QPSK,0.5,0
+TELSTAR 11N,-37.55,GLB1,Transmit,10950.0 - 12750.0,29.6 (EIRP),Global,,,,,,"X-Band, Ku-Band",54,QPSK,0.5,0
+TELSTAR 19 VANTAGE,-63,NAR,Receive,13800.0 - 14000.0,5.8 (G/T),North America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,BRX,Receive,14000.0 - 14500.0,7.8 (G/T),Brazil,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S1RX,Receive,13750.0 - 14500.0,13.6 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S2RX,Receive,13750.0 - 14500.0,13.3 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S3RX,Receive,13750.0 - 14500.0,13.9 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S4RX,Receive,13750.0 - 14500.0,12.8 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S5RX,Receive,13750.0 - 14500.0,13.0 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S6RX,Receive,13750.0 - 14500.0,13.4 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S7RX,Receive,13750.0 - 14500.0,13.0 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S8RX,Receive,13750.0 - 14500.0,13.7 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S9RX,Receive,13750.0 - 14500.0,13.3 (G/T),South America,,,,,,Ku-Band,36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,NATX,Transmit,10950.0 - 12200.0,50.5 (EIRP),North America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,BTX,Transmit,10950.0 - 12200.0,54.3 (EIRP),Brazil,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S1TX,Transmit,10950.0 - 12200.0,60.7 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S2TX,Transmit,10950.0 - 12200.0,60.2 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S3TX,Transmit,10950.0 - 12200.0,61.0 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S4TX,Transmit,10950.0 - 12200.0,60.0 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S5TX,Transmit,10950.0 - 12200.0,60.1 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S6TX,Transmit,10950.0 - 12200.0,60.8 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S7TX,Transmit,10950.0 - 12200.0,59.8 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S8TX,Transmit,10950.0 - 12200.0,60.9 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+TELSTAR 19 VANTAGE,-63,S9TX,Transmit,10950.0 - 12200.0,59.8 (EIRP),South America,,,,,,"X-Band, Ku-Band",36,QPSK,0.667,0
+VIASAT-1,-115,R1,Receive,18300.0 - 18800.0,27.0 (G/T),Continental United States,,,,,,Ku-Band,36,QPSK,0.75,1
+VIASAT-1,-115,T1,Transmit,28100.0 - 28600.0,75.0 (EIRP),Continental United States,,,,,,Ka-Band,36.001,QPSK,0.75,1
+VIASAT-3 (89W),-88.9,RAR1,Receive,27500.0 - 28100.0,30.0 (G/T),Global,,,,,,Ka-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,RAL1,Receive,27500.0 - 28100.0,30.0 (G/T),Global,,,,,,Ka-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,RBL2,Receive,29100.0 - 29500.0,22.4 (G/T),Global,,,,,,Ka-Band,400,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,RBR1,Receive,27500.0 - 28100.0,22.4 (G/T),Global,,,,,,Ka-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,RBR2,Receive,29100.0 - 29500.0,22.4 (G/T),Global,,,,,,Ka-Band,400,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,RAR2,Receive,29100.0 - 29500.0,30.0 (G/T),Global,,,,,,Ka-Band,400,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,RAL2,Receive,29100.0 - 29500.0,30.0 (G/T),Global,,,,,,Ka-Band,400,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,RBL1,Receive,27500.0 - 28100.0,22.4 (G/T),Global,,,,,,Ka-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TBL1,Transmit,17700.0 - 18300.0,65.1 (EIRP),Global,,,,,,Ku-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TBL2,Transmit,19300.0 - 19700.0,65.1 (EIRP),Global,,,,,,Ku-Band,400,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TBR1,Transmit,17700.0 - 18300.0,65.1 (EIRP),Global,,,,,,Ku-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TBR2,Transmit,19300.0 - 19700.0,65.1 (EIRP),Global,,,,,,Ku-Band,400,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TAR2,Transmit,19300.0 - 19700.0,72.9 (EIRP),Global,,,,,,Ku-Band,400,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TAL1,Transmit,17700.0 - 18300.0,72.9 (EIRP),Global,,,,,,Ku-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TAR1,Transmit,17700.0 - 18300.0,72.9 (EIRP),Global,,,,,,Ku-Band,600,QPSK,0.69,1
+VIASAT-3 (89W),-88.9,TAL2,Transmit,19300.0 - 19700.0,72.9 (EIRP),Global,,,,,,Ku-Band,400,QPSK,0.69,1
+VIASAT-89US,-88.9,RAL1,Receive,29500.0 - 30000.0,30.0 (G/T),Global,,,,,,Ka-Band,500,QPSK,0.69,1
+VIASAT-89US,-88.9,RAR1,Receive,29500.0 - 30000.0,30.0 (G/T),Global,,,,,,Ka-Band,500,QPSK,0.69,1
+VIASAT-89US,-88.9,RBL1,Receive,29500.0 - 30000.0,22.4 (G/T),Global,,,,,,Ka-Band,500,QPSK,0.69,1
+VIASAT-89US,-88.9,RBR1,Receive,29500.0 - 30000.0,22.4 (G/T),Global,,,,,,Ka-Band,500,QPSK,0.69,1
+VIASAT-89US,-88.9,TBR1,Transmit,19700.0 - 20200.0,65.1 (EIRP),Global,,,,,,Ku-Band,500,QPSK,0.69,1
+VIASAT-89US,-88.9,TAL1,Transmit,19700.0 - 20200.0,72.9 (EIRP),Global,,,,,,Ku-Band,500,QPSK,0.69,1
+VIASAT-89US,-88.9,TAR1,Transmit,19700.0 - 20200.0,72.9 (EIRP),Global,,,,,,Ku-Band,500,QPSK,0.69,1
+VIASAT-89US,-88.9,TBL1,Transmit,19700.0 - 20200.0,65.1 (EIRP),Global,,,,,,Ku-Band,500,QPSK,0.69,1
